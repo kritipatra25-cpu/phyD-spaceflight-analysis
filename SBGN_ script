@@ -1,0 +1,740 @@
+#PHOTOSYNTHESIS 
+> if (!require("BiocManager"))
++     install.packages("BiocManager")
+> 
+> BiocManager::install(c(
++     "SBGNview",
++     "org.At.tair.db",
++     "AnnotationDbi"
++ ))
+> library(SBGNview)
+> library(tidyverse)
+> library(org.At.tair.db)
+> library(AnnotationDbi)
+> library(xml2)
+> library(RColorBrewer)
+> data("pathways.info")
+> 
+> head(pathways.info)
+> library(SBGNview)
+> library(tidyverse)
+> library(org.At.tair.db)
+> library(AnnotationDbi)
+> library(xml2)
+> library(RColorBrewer)
+> dir.create("SBGN_Project")
+> 
+> setwd("SBGN_Project")
+> subset(
++     pathways.info,
++     grepl("photo|light|circadian|flav", 
++           pathway.name,
++           ignore.case = TRUE)
++ )
+> test_pathway <- "P00006"
+> expr <- data.frame(
++     
++     gene = c(
++         "AT2G18790",   # PHYD
++         "AT1G01060",   # LHY
++         "AT5G61380",   # CCA1
++         "AT5G59570",   # TOC1
++         "AT3G54890",   # CHS
++         "AT5G13930"    # LHCB
++     ),
++     
++     WT_Ground_ZT0 = c(
++         1.2,
++         -0.5,
++         0.8,
++         -1.5,
++         2.0,
++         0.6
++     ),
++     
++     WT_Space_ZT0 = c(
++         3.5,
++         1.1,
++         -1.2,
++         -2.2,
++         3.4,
++         2.1
++     ),
++     
++     phyD_Ground_ZT0 = c(
++         0.4,
++         -1.5,
++         2.3,
++         -0.7,
++         1.2,
++         -0.2
++     ),
++     
++     phyD_Space_ZT0 = c(
++         4.2,
++         2.1,
++         -2.4,
++         -3.1,
++         4.5,
++         3.0
++     )
++     
++ )
+> rownames(expr) <- expr$gene
+> 
+> expr <- expr[, -1]
+> str(expr)
+
+> head(expr)
+
+> dir.create("sbgn_files")
+> downloadSbgnFile(
++     
++     pathway.id = c(
++         "R-HSA-400253",
++         "PWY-101",
++         "PWY1F-FLAVSYN"
++     )
++ )
+
+> getwd()
+
+> gene.id.type = "TAIR"
+> library(org.At.tair.db)
+> library(AnnotationDbi)
+> genes <- c(
++     "AT2G18790",
++     "AT1G01060",
++     "AT5G61380",
++     "AT5G59570",
++     "AT3G54890",
++     "AT5G13930"
++ )
+> mapped_ids <- mapIds(
++     
++     org.At.tair.db,
++     
++     keys = genes,
++     
++     column = "ENTREZID",
++     
++     keytype = "TAIR",
++     
++     multiVals = "first"
++ )
+> mapped_ids
+> rownames(expr) <- mapped_ids
+> expr <- expr[!is.na(rownames(expr)), ]
+> expr
+> list.files(recursive = TRUE, pattern = "svg")
+> texts <- xml_find_all(
++     svg,
++     ".//*[local-name()='text']"
++ )
+> 
+> length(texts)
+
+> labels <- xml_text(texts)
+> 
+> head(labels, 50)
+
+> labels_clean <- labels[
++     trimws(labels) != ""
++ ]
+
+> grep(
++     "photo|chl|light|ATP|electron|PS|cytochrome",
++     labels_clean,
++     ignore.case = TRUE,
++     value = TRUE
++ )
+> chlorophyll_nodes <- xml_find_all(
++     svg,
++     ".//*[local-name()='text' and contains(., 'chlorophyll')]"
++ )
+> chlorophyll_nodes <- xml_find_all(
++     svg,
++     ".//*[local-name()='text' and contains(., 'chlorophyll')]"
++ )
+> length(chlorophyll_nodes)
+
+> svg <- read_xml(
++     "Photosynthesis_PHYD_Advanced.svg"
++ )
+> fc_map <- data.frame(
++     
++     node = c(
++         
++         "PsbA",
++         "PsbB",
++         "PsbC",
++         "PsbD",
++         
++         "PsaA",
++         "PsaB",
++         "PsaC",
++         
++         "chlorophyll",
++         
++         "photosystem II",
++         "photosystem I"
++         
++     ),
++     
++     fold_change = c(
++         
++         4.2,
++         3.5,
++         3.0,
++         2.8,
++         
++         2.5,
++         2.2,
++         1.8,
++         
++         3.7,
++         
++         4.5,
++         3.2
++         
++     )
++     
++ )
+> fc_to_color <- function(fc){
++     
++     if(fc >= 3){
++         
++         return("#B22222")
++         
++     } else if(fc >= 2){
++         
++         return("#FF6347")
++         
++     } else if(fc >= 1){
++         
++         return("#FFA07A")
++         
++     } else if(fc <= -3){
++         
++         return("#00008B")
++         
++     } else if(fc <= -2){
++         
++         return("#4169E1")
++         
++     } else if(fc <= -1){
++         
++         return("#87CEFA")
++         
++     } else {
++         
++         return("white")
++     }
++ }
+> for(i in 1:nrow(fc_map)){
++     
++     current_node <- fc_map$node[i]
++     
++     current_fc <- fc_map$fold_change[i]
++     
++     current_color <- fc_to_color(current_fc)
++     
++     matched_nodes <- xml_find_all(
++         
++         svg,
++         
++         paste0(
++             
++             ".//*[local-name()='text' and contains(., '",
++             
++             current_node,
++             
++             "')]"
++             
++         )
++     )
++     
++     for(j in matched_nodes){
++         
++         xml_set_attr(
++             j,
++             "fill",
++             current_color
++         )
++         
++         xml_set_attr(
++             j,
++             "font-weight",
++             "bold"
++         )
++         
++         xml_set_attr(
++             j,
++             "font-size",
++             "18"
++         )
++     }
++ }
+> write_xml(
++     
++     svg,
++     
++     "Photosynthesis_Dynamic_FoldChange.svg"
++ )
+> rsvg_png(
++     
++     "Photosynthesis_Dynamic_FoldChange.svg",
++     
++     "Photosynthesis_Dynamic_FoldChange.png",
++     
++     width = 6000,
++     
++     height = 5000
++ )
+> list.files(pattern = "Photosynthesis")
+
+
+#FLAVONOID 
+> library(SBGNview)
+> 
+> setwd("C:/Users/USER/Documents/SBGN_Project")
+> 
+> SBGNview(
++     
++     input.sbgn = "PWY1F-FLAVSYN.sbgn",
++     
++     output.file = "Flavonoid_Base"
++ )
+
+> list.files(pattern = "Flavonoid")
+
+> library(xml2)
+> 
+> svg <- read_xml(
++     list.files(pattern = "Flavonoid.*svg")[1]
++ )
+> texts <- xml_find_all(
++     svg,
++     ".//*[local-name()='text']"
++ )
+> 
+> labels <- trimws(xml_text(texts))
+> 
+> unique(labels)
+
+> grep(
++     "chalcone|naringenin|flav|anthocyan|kaempferol|quercetin|CHS|CHI|F3H|DFR|ANS",
++     labels,
++     ignore.case = TRUE,
++     value = TRUE
++ )
+
+> fc_map <- data.frame(
++     
++     node = c(
++         
++         "chalcone",
++         "CHS_H1",
++         "naringenin",
++         "flavonol",
++         "dihydrokaempferol",
++         "flavanone"
++         
++     ),
++     
++     fold_change = c(
++         
++         4.2,
++         3.8,
++         2.5,
++         3.1,
++         -1.8,
++         -2.5
++         
++     )
++     
++ )
+> fc_to_color <- function(fc){
++     
++     if(fc >= 3){
++         
++         return("#8B0000")
++         
++     } else if(fc >= 2){
++         
++         return("#FF6347")
++         
++     } else if(fc >= 1){
++         
++         return("#FFA07A")
++         
++     } else if(fc <= -3){
++         
++         return("#00008B")
++         
++     } else if(fc <= -2){
++         
++         return("#4169E1")
++         
++     } else if(fc <= -1){
++         
++         return("#87CEFA")
++         
++     } else {
++         
++         return("black")
++     }
++ }
+> library(xml2)
+> 
+> texts <- xml_find_all(
++     svg,
++     ".//*[local-name()='text']"
++ )
+> 
+> for(i in 1:nrow(fc_map)){
++     
++     current_node <- fc_map$node[i]
++     
++     current_fc <- fc_map$fold_change[i]
++     
++     current_color <- fc_to_color(current_fc)
++     
++     matched_nodes <- xml_find_all(
++         
++         svg,
++         
++         paste0(
++             
++             ".//*[local-name()='text' and contains(., '",
++             
++             current_node,
++             
++             "')]"
++             
++         )
++     )
++     
++     for(j in matched_nodes){
++         
++         xml_set_attr(
++             j,
++             "fill",
++             current_color
++         )
++         
++         xml_set_attr(
++             j,
++             "font-size",
++             "20"
++         )
++         
++         xml_set_attr(
++             j,
++             "font-weight",
++             "bold"
++         )
++     }
++ }
+> important_nodes <- c(
++     
++     "chalcone",
++     "naringenin",
++     "flavonol",
++     "dihydrokaempferol"
++     
++ )
+> 
+> for(lbl in important_nodes){
++     
++     nodes <- xml_find_all(
++         
++         svg,
++         
++         paste0(
++             
++             ".//*[local-name()='text' and contains(., '",
++             
++             lbl,
++             
++             "')]"
++             
++         )
++     )
++     
++     for(n in nodes){
++         
++         xml_set_attr(
++             n,
++             "font-size",
++             "28"
++         )
++         
++         xml_set_attr(
++             n,
++             "font-weight",
++             "bold"
++         )
++     }
++ }
+> rects <- xml_find_all(
++     svg,
++     ".//*[local-name()='rect']"
++ )
+> 
+> if(length(rects) > 0){
++     
++     xml_set_attr(
++         rects[[1]],
++         "fill",
++         "white"
++     )
++ }
+> write_xml(
++     
++     svg,
++     
++     "Flavonoid_Advanced.svg"
++ )
+> library(rsvg)
+> 
+> rsvg_png(
++     
++     "Flavonoid_Advanced.svg",
++     
++     "Flavonoid_Advanced.png",
++     
++     width = 5000,
++     
++     height = 4000
++ )
+
+
+#CIRCADIAN RHYTHM 
+> list.files(pattern = "sbgn")
+> library(SBGNview)
+> 
+> SBGNview(
++     
++     input.sbgn =
++         "http___identifiers.org_reactome_R-HSA-400253.sbgn",
++     
++     output.file =
++         "Circadian_Base"
++ )
+
+> list.files(pattern = "Circadian"
+> library(xml2)
+> 
+> svg <- read_xml(
++     list.files(pattern = "Circadian.*svg")[1]
++ )
+> 
+> texts <- xml_find_all(
++     svg,
++     ".//*[local-name()='text']"
++ )
+> 
+> labels <- trimws(xml_text(texts))
+> 
+> labels <- labels[labels != ""]
+> 
+> head(labels, 100)
+
++     
++     "CLOCK|BMAL|PER|CRY|circadian|casein|REV|ROR|NPAS",
++     
++     labels,
++     
++     ignore.case = TRUE,
++     
++     value = TRUE
++ )
+
+>  circadian_fc <- data.frame(
++     
++     node = c(
++         
++         "CLOCK",
++         "BMAL1",
++         "NPAS2",
++         "CRY1",
++         "CRY2",
++         "PER1",
++         "PER2",
++         "RORA"
++         
++     ),
++     
++     fold_change = c(
++         
++         2.8,
++         3.5,
++         2.2,
++         -2.1,
++         -1.7,
++         -3.0,
++         -2.5,
++         1.9
++         
++     )
++     
++ )
+> fc_to_color <- function(fc){
++     
++     if(fc >= 3){
++         
++         return("#8B0000")
++         
++     } else if(fc >= 2){
++         
++         return("#FF4500")
++         
++     } else if(fc >= 1){
++         
++         return("#FFA07A")
++         
++     } else if(fc <= -3){
++         
++         return("#00008B")
++         
++     } else if(fc <= -2){
++         
++         return("#4169E1")
++         
++     } else if(fc <= -1){
++         
++         return("#87CEFA")
++         
++     } else {
++         
++         return("black")
++     }
++ }
+> library(xml2)
+> 
+> texts <- xml_find_all(
++     svg,
++     ".//*[local-name()='text']"
++ )
+> 
+> for(i in 1:nrow(circadian_fc)){
++     
++     current_node <- circadian_fc$node[i]
++     
++     current_fc <- circadian_fc$fold_change[i]
++     
++     current_color <- fc_to_color(current_fc)
++     
++     matched_nodes <- xml_find_all(
++         
++         svg,
++         
++         paste0(
++             
++             ".//*[local-name()='text' and contains(., '",
++             
++             current_node,
++             
++             "')]"
++             
++         )
++     )
++     
++     for(j in matched_nodes){
++         
++         xml_set_attr(
++             j,
++             "fill",
++             current_color
++         )
++         
++         xml_set_attr(
++             j,
++             "font-size",
++             "20"
++         )
++         
++         xml_set_attr(
++             j,
++             "font-weight",
++             "bold"
++         )
++     }
++ }
+> master_nodes <- c(
++     
++     "CLOCK",
++     "BMAL1",
++     "PER1",
++     "PER2",
++     "CRY1",
++     "CRY2",
++     "NPAS2"
++     
++ )
+> 
+> for(lbl in master_nodes){
++     
++     nodes <- xml_find_all(
++         
++         svg,
++         
++         paste0(
++             
++             ".//*[local-name()='text' and contains(., '",
++             
++             lbl,
++             
++             "')]"
++             
++         )
++     )
++     
++     for(n in nodes){
++         
++         xml_set_attr(
++             n,
++             "font-size",
++             "30"
++         )
++         
++         xml_set_attr(
++             n,
++             "font-weight",
++             "bold"
++         )
++     }
++ }
+> rects <- xml_find_all(
++     svg,
++     ".//*[local-name()='rect']"
++ )
+> 
+> if(length(rects) > 0){
++     
++     xml_set_attr(
++         rects[[1]],
++         "fill",
++         "white"
++     )
++ }
+> write_xml(
++     
++     svg,
++     
++     "Circadian_Advanced.svg"
++ )
+> library(rsvg)
+> 
+> rsvg_png(
++     
++     "Circadian_Advanced.svg",
++     
++     "Circadian_Advanced.png",
++     
++     width = 5500,
++     
++     height = 4500
++ )
+> 
