@@ -1,0 +1,110 @@
+> if (!require("BiocManager", quietly = TRUE)) install.packages("BiocManager")
+> BiocManager::install("pathview")
+> pv.out <- pathview(gene.data = gene_values_space,
++                    pathway.id = "04712",
++                    species = "ath",
++                    gene.idtype = "TAIR",   # Changed from ENSEMBL to TAIR
++                    out.suffix = "Space_vs_Earth",
++                    low = list(gene = "blue"), 
++                    mid = list(gene = "gray"), 
++                    high = list(gene = "red"))
+> gene_values_phyd <- nasa_data[[440]]
+> names(gene_values_phyd) <- nasa_data[[1]]
+> gene_values_phyd <- gene_values_phyd[!is.na(gene_values_phyd)]
+> pv.out_2 <- pathview(gene.data = gene_values_phyd,
++                      pathway.id = "04712",
++                      species = "ath",
++                      gene.idtype = "TAIR",
++                      out.suffix = "PhyD_Effect_In_Space",
++                      low = list(gene = "blue"), 
++                      mid = list(gene = "gray"), 
++                      high = list(gene = "red"))
+> gene_values_clock <- nasa_data[[392]]
+> names(gene_values_clock) <- nasa_data[[1]]
+> gene_values_clock <- gene_values_clock[!is.na(gene_values_clock)]
+> pv.out_3 <- pathview(gene.data = gene_values_clock,
++                      pathway.id = "04712",
++                      species = "ath",
++                      gene.idtype = "TAIR",
++                      out.suffix = "Space_Clock_Rhythm",
++                      low = list(gene = "blue"), 
++                      mid = list(gene = "gray"), 
++                      high = list(gene = "red"))
+> system_gears <- c("AT1G09570", "AT2G18790", "AT4G35740", "AT2G46830", "AT1G01060", "AT5G61380")
+> gear_names <- c("PHYB (Sensor)", "PHYA (Sensor)", "PHYD (Sensor)", "CCA1 (Morning Gear)", "LHY (Morning Gear)", "TOC1 (Evening Gear)")
+> space_vals  <- gene_values_space[system_gears]
+> phyd_vals   <- gene_values_phyd[system_gears]
+> rhythm_vals <- gene_values_clock[system_gears]
+> master_summary <- data.frame(
++     Node = gear_names,
++     Space_vs_Earth = round(space_vals, 3),
++     PhyD_Effect = round(phyd_vals, 3),
++     Rhythm_in_Space = round(rhythm_vals, 3)
++ )
+> 
+> print(master_summary)
+
+> write.csv(master_summary, "OSD120_Systems_Biology_Model.csv", row.names = FALSE)
+> getwd()
+
+
+> BiocManager::install(c("SBGNview"))
+> install.packages("devtools")
+> library(SBGNview)
+> library(SBGNview.data)
+> data("pathways.info", "sbgn.xmls")
+> 
+> # Force convert the vector into a matrix and assign the names properly
+> matrix_space <- as.matrix(gene_values_space)
+> rownames(matrix_space) <- names(gene_values_space)
+> 
+> matrix_phyd <- as.matrix(gene_values_phyd)
+> rownames(matrix_phyd) <- names(gene_values_phyd)
+> 
+> # Run SBGNview using the newly formatted matrix objects
+> SBGNview.obj.space <- SBGNview(
++     gene.data = matrix_space,        
++     gene.id.type = "TAIR",                
++     org = "ath",                          
++     input.sbgn = "P00015",                
++     output.file = "Space_vs_Earth_SBGN",  
++     output.formats = c("png", "svg")      
++ ) > print(SBGNview.obj.space)
+
+> SBGNview.obj.phyd <- SBGNview(
++     gene.data = matrix_phyd,         
++     gene.id.type = "TAIR",                
++     org = "ath",                          
++     input.sbgn = "P00015",                
++     output.file = "PhyD_Effect_SBGN",     
++     output.formats = c("png", "svg")      
++ )
+> print(SBGNview.obj.phyd)
+
+
+> available_clocks <- findPathways(keywords = c("circadian", "clock"))
+> print(available_clocks)
+> library(SBGNview)
+> library(SBGNview.data)
+> data("pathways.info", "sbgn.xmls")
+> SBGNview.obj.space <- SBGNview(
++     gene.data = gene_values_space,        
++     gene.id.type = "TAIR",                # Maps your Arabidopsis AT1Gxxxxx IDs
++     org = "ath",                          # Species code for Arabidopsis thaliana
++     input.sbgn = "P00015",                # The supported circadian master blueprint
++     output.file = "Space_vs_Earth_White",  
++     output.formats = c("png", "svg")      
++ )
+> print(SBGNview.obj.space)
+
+
+> SBGNview.obj.phyd <- SBGNview(
++     gene.data = gene_values_phyd,         
++     gene.id.type = "TAIR",                
++     org = "ath",                          
++     input.sbgn = "P00015",                
++     output.file = "PhyD_Effect_Standard",     
++     output.formats = c("png", "svg")      
++ )
+> print(SBGNview.obj.phyd)
+
