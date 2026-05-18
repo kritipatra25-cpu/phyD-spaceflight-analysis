@@ -2,3 +2,8 @@ This folder contains KEGG-based pathway visualizations of the PhyD gene regulato
 The KEGG models are used to:
 - Represent gene interactions using curated KEGG pathway databases
 - Provide a simplified overview of PhyD-associated biological processes
+This folder includes:
+- KEGG pathway diagrams (PNG images)
+- Baseline gene interaction networks
+
+  The KEGG diagrams were generated using pathway mapping tools in R, typically using KEGG pathway IDs and gene expression data .
