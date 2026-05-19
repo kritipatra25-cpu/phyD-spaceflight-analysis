@@ -1,3 +1,7 @@
+#################################################
+# 01_setup_packages.R
+# Install and load required packages
+#################################################
 if (!require("BiocManager"))
     install.packages("BiocManager")
 
