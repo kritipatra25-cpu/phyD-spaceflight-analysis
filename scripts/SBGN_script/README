@@ -1,0 +1,18 @@
+Required R Packages
+
+Install Bioconductor first:
+
+install.packages("BiocManager")
+
+Then install all required packages:
+
+BiocManager::install(c(
+    "SBGNview",
+    "pathview",
+    "org.At.tair.db",
+    "org.Hs.eg.db",
+    "AnnotationDbi"
+))
+
+Install CRAN packages:
+install.packages(c( "xml2", "rsvg", "RColorBrewer", "tidyverse" ))
