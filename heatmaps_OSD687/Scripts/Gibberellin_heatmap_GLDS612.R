@@ -1,0 +1,56 @@
+library(readr)
+
+expr <- read.csv(
+  "data/GLDS612_expression.csv",
+  check.names = FALSE
+)
+
+sample_cols <- grep(
+  "bio_rep",
+  colnames(expr),
+  value = TRUE
+)
+ga_genes <- c(
+  "AT4G25420",
+  "AT1G80340",
+  "AT1G78440",
+  "AT5G51810",
+  "AT1G15550",
+  "AT2G01570",
+  "AT1G14920",
+  "AT1G30040",
+  "AT3G63010",
+  "AT3G05120",
+  "AT5G27320"
+)
+
+ga_labels <- c(
+  "AT4G25420 | GA20OX1",
+  "AT1G80340 | GA3OX2",
+  "AT1G78440 | GA20OX2",
+  "AT5G51810 | GA20OX2",
+  "AT1G15550 | GA3OX1",
+  "AT2G01570 | RGA",
+  "AT1G14920 | GAI",
+  "AT1G30040 | GA20X1",
+  "AT3G63010 | GID1B",
+  "AT3G05120 | GID1A",
+  "AT5G27320 | GID1C"
+)
+ga_matrix <- expr[
+  match(ga_genes, expr$TAIR),
+  c("TAIR", sample_cols)
+]
+
+ga_matrix$GeneLabel <- ga_labels
+
+ga_matrix <- ga_matrix[
+  ,
+  c("GeneLabel", sample_cols)
+]
+
+write.csv(
+  ga_matrix,
+  "results/GLDS612_Gibberellin.csv",
+  row.names = FALSE
+)
