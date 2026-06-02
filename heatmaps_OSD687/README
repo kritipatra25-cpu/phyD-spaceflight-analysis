@@ -1,1 +1,58 @@
+# Arabidopsis thaliana Spaceflight Transcriptomic Analysis (OSD-678 / GLDS-612)
+
+## Overview
+
+This repository contains pathway-focused transcriptomic analyses of *Arabidopsis thaliana* grown aboard the International Space Station (ISS) and corresponding ground controls.
+
+The study investigates how spaceflight conditions influence:
+
+- Cryptochrome signaling
+- Circadian clock regulation
+- Reactive oxygen species (ROS) signaling
+- Gibberellin metabolism and signaling
+- Photosynthesis
+- Photorespiration
+
+The broader objective is to understand how spaceflight alters interconnected biological networks and to compare these responses with Near Null Magnetic Field (NMF) datasets.
+
+---
+
+## Dataset
+
+### NASA GeneLab
+
+**OSD-678**
+
+GeneLab Accession:
+
+**GLDS-612**
+
+Organism:
+
+*Arabidopsis thaliana*
+
+Tissue:
+
+**Leaves**
+
+Experimental Factors:
+
+- Spaceflight (ISS)
+- Ground Control
+- Light conditions
+- Dark conditions
+- Genotype comparisons
+
+Pathways Analyzed:
+Cryptochrome Signaling
+Circadian Rhythm
+Reactive Oxygen Species (ROS)
+Gibberellin Signaling
+Photosynthesis
+Photorespiration
+
+
+Software used:
+R 
+Morphus 
 
