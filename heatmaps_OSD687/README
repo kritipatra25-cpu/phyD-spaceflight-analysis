@@ -56,3 +56,17 @@ Software used:
 R 
 Morphus 
 
+
+Heatmap Generation
+
+Heatmaps were generated using Morpheus (Broad Institute).
+
+Normalization:
+
+Row-wise Z-score
+
+Clustering:
+
+One minus Pearson correlation
+Average linkage
+Rows and columns clustered
