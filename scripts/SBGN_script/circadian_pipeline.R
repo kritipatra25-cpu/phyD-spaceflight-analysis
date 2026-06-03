@@ -6,9 +6,6 @@ library(SBGNview)
 library(xml2)
 library(rsvg)
 
-setwd("C:/Users/USER/Documents/SBGN_Project")
-
-
 SBGNview(
     
     input.sbgn =
