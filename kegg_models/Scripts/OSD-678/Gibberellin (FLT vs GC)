@@ -1,0 +1,64 @@
+if (!requireNamespace("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+
+BiocManager::install(c(
+  "pathview",
+  "org.At.tair.db",
+  "KEGGREST",
+  "AnnotationDbi"
+))
+
+library(pathview)
+library(org.At.tair.db)
+library(AnnotationDbi)
+library(dplyr)
+expr <- read.csv(
+  "GLDS-612_rna_seq_differential_expression_rRNArm_GLbulkRNAseq.csv"
+)
+
+head(expr)
+colnames(expr)
+ground_cols <- grep(
+  "^Ground_control",
+  colnames(expr),
+  value = TRUE
+)
+
+flight_cols <- grep(
+  "^Flight",
+  colnames(expr),
+  value = TRUE
+)
+expr$Ground_mean <- rowMeans(
+  expr[, ground_cols],
+  na.rm = TRUE
+)
+
+expr$Flight_mean <- rowMeans(
+  expr[, flight_cols],
+  na.rm = TRUE
+)
+expr$log2FC <- log2(
+  (expr$Flight_mean + 1) /
+  (expr$Ground_mean + 1)
+)
+mapped_ids <- mapIds(
+  org.At.tair.db,
+  keys = expr$TAIR,
+  column = "ENTREZID",
+  keytype = "TAIR",
+  multiVals = "first"
+)
+gene_data <- expr$log2FC
+
+names(gene_data) <- mapped_ids
+
+gene_data <- gene_data[
+  !is.na(names(gene_data))
+]
+pathview(
+  gene.data = gene_data,
+  pathway.id = "ath04075",
+  species = "ath",
+  out.suffix = "GLDS612_HormoneSignalling"
+)
