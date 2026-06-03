@@ -6,7 +6,9 @@ library(SBGNview)
 library(xml2)
 library(rsvg)
 
-source("scripts/06_shared_functions.R")
+source(
+    "03_shared_functions.R"
+)
 
 dir.create(
     "outputs/photosynthesis",
@@ -16,7 +18,7 @@ dir.create(
 
 SBGNview(
 
-    input.sbgn = "pathways/PWY-101.sbgn",
+   input.sbgn = "sbgn_models/PWY-101.sbgn",
 
     output.file =
         "outputs/photosynthesis/Photosynthesis_Base"
