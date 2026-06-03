@@ -1,10 +1,12 @@
 # =========================================================
 # CIRCADIAN RHYTHM SBGNview PIPELINE
 # =========================================================
-source("03_shared_functions.R")
+
 library(SBGNview)
 library(xml2)
 library(rsvg)
+
+source("03_shared_functions.R")
 
 SBGNview(
     
