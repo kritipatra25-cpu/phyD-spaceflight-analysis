@@ -1,7 +1,7 @@
 # =========================================================
 # CIRCADIAN RHYTHM SBGNview PIPELINE
 # =========================================================
-
+source("03_shared_functions.R")
 library(SBGNview)
 library(xml2)
 library(rsvg)
@@ -15,14 +15,9 @@ SBGNview(
         "Circadian_Base"
 )
 
-
 svg <- read_xml(
-    
-    list.files(
-        pattern = "Circadian.*svg"
-    )[1]
+    "Circadian_Base_http___identifiers.org_reactome_R-HSA-400253.sbgn.svg"
 )
-
 
 texts <- xml_find_all(
     
@@ -80,40 +75,6 @@ circadian_fc <- data.frame(
         1.9
     )
 )
-
-
-fc_to_color <- function(fc){
-    
-    if(fc >= 3){
-        
-        return("#8B0000")
-        
-    } else if(fc >= 2){
-        
-        return("#FF4500")
-        
-    } else if(fc >= 1){
-        
-        return("#FFA07A")
-        
-    } else if(fc <= -3){
-        
-        return("#00008B")
-        
-    } else if(fc <= -2){
-        
-        return("#4169E1")
-        
-    } else if(fc <= -1){
-        
-        return("#87CEFA")
-        
-    } else {
-        
-        return("black")
-    }
-}
-
 
 for(i in 1:nrow(circadian_fc)){
     
