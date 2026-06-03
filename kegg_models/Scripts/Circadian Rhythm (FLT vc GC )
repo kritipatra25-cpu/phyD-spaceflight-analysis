@@ -1,0 +1,124 @@
+# ============================================================
+# Install Packages (run once)
+# ============================================================
+
+if (!requireNamespace("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+
+BiocManager::install(c(
+  "pathview",
+  "org.At.tair.db",
+  "KEGGREST",
+  "AnnotationDbi"
+))
+
+# ============================================================
+# Load Libraries
+# ============================================================
+
+library(pathview)
+library(org.At.tair.db)
+library(AnnotationDbi)
+library(dplyr)
+# ============================================================
+# Load Expression Dataset
+# ============================================================
+
+expr <- read.csv(
+  "GLDS-120_rna_seq_differential_expression_rRNArm_GLbulkRNAseq.csv"
+)
+
+# ============================================================
+# Calculate Mean Expression
+# ============================================================
+
+expr$GC_mean <- rowMeans(
+  expr[, c(
+    "Atha_Col.0_root_GC_Alight_Rep1_GSM2493759_Day13",
+    "Atha_Col.0_root_GC_Alight_Rep2_GSM2493760_Day13"
+  )],
+ na.rm = TRUE
+)
+
+expr$FLT_mean <- rowMeans(
+  expr[, c(
+    "Atha_Col.0_root_FLT_Alight_Rep1_GSM2493777_Day13",
+    "Atha_Col.0_root_FLT_Alight_Rep2_GSM2493778_Day13",
+    "Atha_Col.0_root_FLT_Alight_Rep3_GSM2493779_Day13"
+  )],
+  na.rm = TRUE
+)
+
+# ============================================================
+# Calculate Log2 Fold Change
+# ============================================================
+
+expr$log2FC <- log2(
+  (expr$FLT_mean + 1) /
+    (expr$GC_mean + 1)
+)
+# ============================================================
+# Helper Function
+# ============================================================
+
+run_pathview <- function(
+    gene_list,
+    pathway_id,
+    suffix
+){
+
+  pathway_data <- expr[
+    expr$TAIR %in% gene_list,
+  ]
+
+  gene_fc <- pathway_data$log2FC
+
+  names(gene_fc) <- pathway_data$TAIR
+
+  mapped_ids <- mapIds(
+    org.At.tair.db,
+    keys = names(gene_fc),
+    column = "ENTREZID",
+    keytype = "TAIR",
+    multiVals = "first"
+  )
+ gene_data <- gene_fc
+
+  names(gene_data) <- mapped_ids
+
+  gene_data <- gene_data[
+    !is.na(names(gene_data))
+  ]
+
+  pathview(
+    gene.data = gene_data,
+    pathway.id = pathway_id,
+    species = "ath",
+    out.suffix = suffix
+  )
+}
+# ============================================================
+# 1. CIRCADIAN RHYTHM
+# KEGG: ath04712
+# ============================================================
+
+circadian_genes <- c(
+
+  "AT4G08920",   # CRY1
+  "AT1G04400",   # CRY2
+  "AT2G18790",   # CCA1
+  "AT5G61380",   # LHY
+  "AT5G15840",   # TOC1
+  "AT1G22770",   # ELF3
+  "AT2G25930",   # ELF4
+  "AT5G08330",   # GI
+  "AT1G09570",   # PHYB
+  "AT2G32950"    # PIF3
+
+)
+
+run_pathview(
+  gene_list = circadian_genes,
+  pathway_id = "ath04712",
+  suffix = "OSD120_Circadian"
+)
