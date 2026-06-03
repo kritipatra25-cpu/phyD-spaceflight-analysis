@@ -7,3 +7,6 @@ This folder includes:
 - Baseline gene interaction networks
 
   The KEGG diagrams were generated using pathway mapping tools in R, typically using KEGG pathway IDs and gene expression data .
+
+  These data are obtained from OSD 120: https://osdr.nasa.gov/bio/repo/data/studies/OSD-120
+  
