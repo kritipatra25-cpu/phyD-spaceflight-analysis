@@ -9,4 +9,6 @@ This folder includes:
   The KEGG diagrams were generated using pathway mapping tools in R, typically using KEGG pathway IDs and gene expression data .
 
   These data are obtained from OSD 120: https://osdr.nasa.gov/bio/repo/data/studies/OSD-120
+  and OSD-678: https://osdr.nasa.gov/bio/repo/data/studies/OSD-678
+  
   
