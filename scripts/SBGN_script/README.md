@@ -117,3 +117,10 @@ rsvg_png(
 
 This figure is intended as a systems biology visualization informed by OSD120 transcriptomic observations. The pathway architecture originates from SBGNhub/Reactome resources and serves as a biological interpretation framework rather than a direct pathway enrichment result.
 These figures were generated using SBGNview pathway templates followed by SVG-based node annotation and highlighting. The models are intended for systems-level interpretation and hypothesis generation based on OSD120 spaceflight transcriptomic observations.
+
+
+Pathway sources:
+
+Reactome Circadian Rhythm (R-HSA-400253)
+MetaCyc Flavonoid Biosynthesis (PWY1F-FLAVSYN)
+MetaCyc Photosynthesis (PWY-101)
