@@ -22,3 +22,5 @@ Compared to KEGG pathway diagrams:
 - Condition-specific or refined pathway models
 
   These models were generated using SBGNView-based scripts in R.
+
+  These data are obtained from OSD 120: https://osdr.nasa.gov/bio/repo/data/studies/OSD-120
