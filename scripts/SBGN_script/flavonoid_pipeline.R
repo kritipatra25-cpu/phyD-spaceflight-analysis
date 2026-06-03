@@ -5,9 +5,7 @@
 library(SBGNview)
 library(xml2)
 library(rsvg)
-
-setwd("C:/Users/USER/Documents/SBGN_Project")
-
+source("03_shared_functions.R")
 
 SBGNview(
     
@@ -17,12 +15,8 @@ SBGNview(
 )
 
 svg <- read_xml(
-    
-    list.files(
-        pattern = "Flavonoid.*svg"
-    )[1]
+    "Flavonoid_Base_PWY1F-FLAVSYN.sbgn.svg"
 )
-
 
 texts <- xml_find_all(
     
@@ -75,38 +69,6 @@ fc_map <- data.frame(
         -2.5
     )
 )
-
-fc_to_color <- function(fc){
-    
-    if(fc >= 3){
-        
-        return("#8B0000")
-        
-    } else if(fc >= 2){
-        
-        return("#FF6347")
-        
-    } else if(fc >= 1){
-        
-        return("#FFA07A")
-        
-    } else if(fc <= -3){
-        
-        return("#00008B")
-        
-    } else if(fc <= -2){
-        
-        return("#4169E1")
-        
-    } else if(fc <= -1){
-        
-        return("#87CEFA")
-        
-    } else {
-        
-        return("black")
-    }
-}
 
 
 for(i in 1:nrow(fc_map)){
