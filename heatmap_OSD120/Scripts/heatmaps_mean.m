@@ -4,15 +4,11 @@
 
 # Spaceflight vs Ground Control
 
-#
-
 # Dataset:
 
 # GLDS-120_rna_seq_differential_expression_
 
 # rRNArm_GLbulkRNAseq.csv
-
-#
 
 # Comparison:
 
@@ -20,7 +16,6 @@
 
 # Ground Control vs Spaceflight
 
-#
 
 # Output:
 
@@ -210,23 +205,15 @@ row.names = FALSE
 
 # Upload CSV to Morphus
 
-#
-
 # Rows = Gene
 
 # Columns = Ground_mean, Flight_mean
-
-#
 
 # Cluster Rows = YES
 
 # Cluster Columns = NO
 
-#
-
 # Transform = Row Z-score
-
-#
 
 # Color = Blue-White-Red
 
