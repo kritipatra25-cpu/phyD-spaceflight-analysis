@@ -8,7 +8,7 @@
 
  1. Circadian Clock
 
-#2. Reactive Oxygen Species (ROS)
+ 2. Reactive Oxygen Species (ROS)
 
  3. Gibberellin Metabolism
 
