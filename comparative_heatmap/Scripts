@@ -1,34 +1,3 @@
-#################################################
-
-# NZMF vs OSD120 vs GLDS612
-
-# Comparative Pathway Analysis
-
-# Pathways:
-
-# 1. Circadian Clock
-
-# 2. Reactive Oxygen Species (ROS)
-
-# 3. Gibberellin Metabolism
-
-# Output:
-
-# Circadian_NZMF_OSD120_GLDS612.csv
-
-# ROS_NZMF_OSD120_GLDS612.csv
-
-# Gibberellin_NZMF_OSD120_GLDS612.csv
-
-# NZMF values extracted from:
-
-# Maffei et al. 2019
-
-# Scientific Reports 9:20267
-
-# Table S4d (N0R vs N0RCK)
-
-#################################################
 
 #################################################
 
