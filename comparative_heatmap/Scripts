@@ -1,7 +1,7 @@
 
 #################################################
 
-# CIRCADIAN COMPARISON
+CIRCADIAN COMPARISON
 
 #################################################
 
@@ -79,7 +79,7 @@ row.names = FALSE
 
 #################################################
 
-# ROS COMPARISON
+ ROS COMPARISON
 
 #################################################
 
@@ -145,7 +145,7 @@ row.names = FALSE
 
 #################################################
 
-# GIBBERELLIN COMPARISON
+GIBBERELLIN COMPARISON
 
 #################################################
 
@@ -187,32 +187,26 @@ row.names = FALSE
 
 #################################################
 
-# MORPHUS SETTINGS
+MORPHUS SETTINGS
 
 #################################################
 
-# Upload generated CSV file
+ Upload generated CSV file
 
-# Rows = Gene
+ Rows = Gene
 
-# Columns =
-
-# NZMF
-
-# OSD120
-
-# GLDS612
+ Columns =
+ NZMF
+ OSD120
+ GLDS612
 
 
-# Cluster Rows = YES
-
-# Cluster Columns = NO
-
-# Row Z-score = YES
+ Cluster Rows = YES
+ Cluster Columns = NO
+ Row Z-score = YES
 
 
-# Color Scheme =
-
-# Blue → White → Red
+ Color Scheme =
+ Blue → White → Red
 
 #################################################
