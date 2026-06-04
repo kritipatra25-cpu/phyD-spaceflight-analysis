@@ -1,0 +1,249 @@
+#################################################
+
+# NZMF vs OSD120 vs GLDS612
+
+# Comparative Pathway Analysis
+
+# Pathways:
+
+# 1. Circadian Clock
+
+# 2. Reactive Oxygen Species (ROS)
+
+# 3. Gibberellin Metabolism
+
+# Output:
+
+# Circadian_NZMF_OSD120_GLDS612.csv
+
+# ROS_NZMF_OSD120_GLDS612.csv
+
+# Gibberellin_NZMF_OSD120_GLDS612.csv
+
+# NZMF values extracted from:
+
+# Maffei et al. 2019
+
+# Scientific Reports 9:20267
+
+# Table S4d (N0R vs N0RCK)
+
+#################################################
+
+#################################################
+
+# CIRCADIAN COMPARISON
+
+#################################################
+
+circadian_comparison <- data.frame(
+
+```
+Gene = c(
+    "LHY",
+    "CRY2",
+    "PHYA",
+    "PHYB",
+    "ELF3",
+    "ELF4",
+    "PRR9",
+    "CCA1",
+    "CRY1",
+    "PRR7",
+    "PRR5",
+    "TOC1"
+),
+
+NZMF = c(
+    -0.099,
+    -0.143,
+    -0.054,
+     0.175,
+     0.097,
+     0.791,
+     0.042,
+    -0.579,
+    -0.717,
+    -0.509,
+     0.548,
+     0.227
+),
+
+OSD120 = c(
+    -5.578,
+     0.560,
+    -0.139,
+     0.005,
+    -0.190,
+     0.019,
+    -0.095,
+    -4.374,
+    -0.011,
+     0.751,
+     1.556,
+     0.247
+),
+
+GLDS612 = c(
+    -0.518,
+     0.633,
+     0.892,
+     0.556,
+     0.913,
+     2.272,
+     3.640,
+     1.081,
+    -1.036,
+     0.443,
+     0.432,
+     0.495
+)
+```
+
+)
+
+write.csv(
+circadian_comparison,
+"Circadian_NZMF_OSD120_GLDS612.csv",
+row.names = FALSE
+)
+
+#################################################
+
+# ROS COMPARISON
+
+#################################################
+
+ros_comparison <- data.frame(
+
+```
+Gene = c(
+    "APX1",
+    "SOD1",
+    "CCS",
+    "CAT1",
+    "SOD2",
+    "APX2",
+    "RBOHG",
+    "RBOHC",
+    "RBOHH"
+),
+
+NZMF = c(
+     0.063,
+    -0.055,
+    -0.325,
+    -0.324,
+     0.004,
+    -0.311,
+     1.040,
+     0.754,
+     NA
+),
+
+OSD120 = c(
+    -0.277,
+    -1.232,
+     0.510,
+     0.355,
+    -0.418,
+    -0.583,
+     0.805,
+    -0.115,
+     0.000
+),
+
+GLDS612 = c(
+     0.291,
+     0.359,
+     0.833,
+    -0.530,
+    -0.387,
+     0.728,
+     4.873,
+     3.208,
+     0.000
+)
+```
+
+)
+
+write.csv(
+ros_comparison,
+"ROS_NZMF_OSD120_GLDS612.csv",
+row.names = FALSE
+)
+
+#################################################
+
+# GIBBERELLIN COMPARISON
+
+#################################################
+
+gibberellin_comparison <- data.frame(
+
+```
+Gene = c(
+    "GA3OX1",
+    "GA20OX4",
+    "GA20OX3"
+),
+
+NZMF = c(
+     0.247,
+     0.062,
+    -0.335
+),
+
+OSD120 = c(
+    -0.344,
+    -0.325,
+     0.434
+),
+
+GLDS612 = c(
+    -0.928,
+     NA,
+    -2.264
+)
+```
+
+)
+
+write.csv(
+gibberellin_comparison,
+"Gibberellin_NZMF_OSD120_GLDS612.csv",
+row.names = FALSE
+)
+
+#################################################
+
+# MORPHUS SETTINGS
+
+#################################################
+
+# Upload generated CSV file
+
+# Rows = Gene
+
+# Columns =
+
+# NZMF
+
+# OSD120
+
+# GLDS612
+
+
+# Cluster Rows = YES
+
+# Cluster Columns = NO
+
+# Row Z-score = YES
+
+
+# Color Scheme =
+
+# Blue → White → Red
+
+#################################################
