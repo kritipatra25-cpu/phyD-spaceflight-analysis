@@ -96,11 +96,17 @@ circadian_data$Gene <- c(
 "TOC1"
 )
 
+circadian_data$Label <- paste0(
+    circadian_data$Gene,
+    " (",
+    circadian_data$TAIR,
+    ")"
+)
+
 circadian_export <- circadian_data[, c(
-"Gene",
-"TAIR",
-"Ground_mean",
-"Flight_mean"
+    "Label",
+    "Ground_mean",
+    "Flight_mean"
 )]
 
 write.csv(
@@ -143,11 +149,17 @@ ros_data$Gene <- c(
 "RBOHH"
 )
 
+ros_data$Label <- paste0(
+    ros_data$Gene,
+    " (",
+    ros_data$TAIR,
+    ")"
+)
+
 ros_export <- ros_data[, c(
-"Gene",
-"TAIR",
-"Ground_mean",
-"Flight_mean"
+    "Label",
+    "Ground_mean",
+    "Flight_mean"
 )]
 
 write.csv(
@@ -178,13 +190,18 @@ ga_data$Gene <- c(
 "GA20OX3"
 )
 
-ga_export <- ga_data[, c(
-"Gene",
-"TAIR",
-"Ground_mean",
-"Flight_mean"
-)]
+ga_data$Label <- paste0(
+    ga_data$Gene,
+    " (",
+   ga_data$TAIR,
+    ")"
+)
 
+ga_export <- ga_data[, c(
+    "Label",
+    "Ground_mean",
+    "Flight_mean"
+)]
 write.csv(
 ga_export,
 "OSD120_Gibberellin_Mean.csv",
