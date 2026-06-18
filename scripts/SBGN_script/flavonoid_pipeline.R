@@ -1,198 +1,245 @@
-# =========================================================
-# FLAVONOID BIOSYNTHESIS SBGNview PIPELINE
-# =========================================================
-
-library(SBGNview)
 library(xml2)
 library(rsvg)
-source("03_shared_functions.R")
 
-SBGNview(
-    
-    input.sbgn = "PWY1F-FLAVSYN.sbgn",
-    
-    output.file = "Flavonoid_Base"
-)
+#################################################
+# LOAD EXISTING FLAVONOID SVG
+#################################################
 
 svg <- read_xml(
-    "Flavonoid_Base_PWY1F-FLAVSYN.sbgn.svg"
+"./SBGN_Project/Flavonoid_Base_PWY1F-FLAVSYN.sbgn.svg"
 )
 
-texts <- xml_find_all(
-    
-    svg,
-    
-    ".//*[local-name()='text']"
-)
+#################################################
+# COLOR FUNCTION
+#################################################
 
-labels <- trimws(
-    
-    xml_text(texts)
-)
+fc_to_color <- function(fc){
 
-labels <- labels[
-    
-    labels != ""
-]
+if(fc >= 5){
 
-grep(
-    
-    "chalcone|naringenin|flav|anthocyan|kaempferol|quercetin|CHS|CHI|F3H|DFR|ANS",
-    
-    labels,
-    
-    ignore.case = TRUE,
-    
-    value = TRUE
-)
+```
+"#8B0000"
+```
 
+} else if(fc >= 2){
 
-fc_map <- data.frame(
-    
-    node = c(
-        
-        "chalcone",
-        "CHS_H1",
-        "naringenin",
-        "flavonol",
-        "dihydrokaempferol",
-        "flavanone"
-    ),
-    
-    fold_change = c(
-        
-        4.2,
-        3.8,
-        2.5,
-        3.1,
-        -1.8,
-        -2.5
-    )
-)
+```
+"#FF4500"
+```
 
+} else if(fc >= 1){
 
-for(i in 1:nrow(fc_map)){
-    
-    current_node <- fc_map$node[i]
-    
-    current_fc <- fc_map$fold_change[i]
-    
-    current_color <- fc_to_color(current_fc)
-    
-    matched_nodes <- xml_find_all(
-        
-        svg,
-        
-        paste0(
-            
-            ".//*[local-name()='text' and contains(., '",
-            
-            current_node,
-            
-            "')]"
-        )
-    )
-    
-    for(j in matched_nodes){
-        
-        xml_set_attr(
-            j,
-            "fill",
-            current_color
-        )
-        
-        xml_set_attr(
-            j,
-            "font-size",
-            "20"
-        )
-        
-        xml_set_attr(
-            j,
-            "font-weight",
-            "bold"
-        )
-    }
+```
+"#FFA07A"
+```
+
+} else if(fc <= -2){
+
+```
+"#00008B"
+```
+
+} else if(fc <= -1){
+
+```
+"#4169E1"
+```
+
+} else {
+
+```
+"black"
+```
+
+}
 }
 
+#################################################
+# OSD120 FLAVONOID FOLD CHANGES
+#################################################
+
+fc_map <- data.frame(
+
+node = c(
+
+```
+"4CL3",
+"4CL2",
+"TT4",
+"TT5",
+"TT6",
+
+"chalcone",
+"flavanone",
+"naringenin",
+"dihydrokaempferol",
+"flavonol"
+```
+
+),
+
+fold_change = c(
+
+```
+2.21,   # 4CL3
+```
+
+-0.11,   # 4CL2
+
+```
+9.52,   # TT4 / CHS
+1.98,   # TT5 / CHI
+5.07,   # TT6 / F3H
+
+9.52,   # chalcone
+1.98,   # flavanone
+1.98,   # naringenin
+5.07,   # dihydrokaempferol
+5.07    # flavonol
+```
+
+)
+)
+
+#################################################
+# COLOR PATHWAY NODES
+#################################################
+
+for(i in 1:nrow(fc_map)){
+
+current_node <- fc_map$node[i]
+
+current_fc <- fc_map$fold_change[i]
+
+current_color <- fc_to_color(current_fc)
+
+matched_nodes <- xml_find_all(
+
+```
+svg,
+
+paste0(
+  ".//*[local-name()='text' and normalize-space(text())='",
+  current_node,
+  "']"
+)
+```
+
+)
+
+cat(
+current_node,
+" -> ",
+length(matched_nodes),
+" matches\n"
+)
+
+for(j in matched_nodes){
+
+```
+xml_set_attr(
+  j,
+  "fill",
+  current_color
+)
+
+xml_set_attr(
+  j,
+  "font-size",
+  "24"
+)
+
+xml_set_attr(
+  j,
+  "font-weight",
+  "bold"
+)
+```
+
+}
+}
+
+#################################################
+# HIGHLIGHT IMPORTANT NODES
+#################################################
+
 important_nodes <- c(
-    
-    "chalcone",
-    "naringenin",
-    "flavonol",
-    "dihydrokaempferol"
+
+"4CL3",
+"TT4",
+"TT5",
+"TT6",
+
+"chalcone",
+"naringenin",
+"dihydrokaempferol",
+"flavonol"
+
 )
 
 for(lbl in important_nodes){
-    
-    nodes <- xml_find_all(
-        
-        svg,
-        
-        paste0(
-            
-            ".//*[local-name()='text' and contains(., '",
-            
-            lbl,
-            
-            "')]"
-        )
-    )
-    
-    for(n in nodes){
-        
-        xml_set_attr(
-            n,
-            "font-size",
-            "28"
-        )
-        
-        xml_set_attr(
-            n,
-            "font-weight",
-            "bold"
-        )
-    }
-}
 
+nodes <- xml_find_all(
 
-rects <- xml_find_all(
-    
-    svg,
-    
-    ".//*[local-name()='rect']"
+```
+svg,
+
+paste0(
+  ".//*[local-name()='text' and normalize-space(text())='",
+  lbl,
+  "']"
+)
+```
+
 )
 
-if(length(rects) > 0){
-    
-    xml_set_attr(
-        
-        rects[[1]],
-        
-        "fill",
-        
-        "white"
-    )
+for(n in nodes){
+
+```
+xml_set_attr(
+  n,
+  "font-size",
+  "34"
+)
+
+xml_set_attr(
+  n,
+  "font-weight",
+  "bold"
+)
+```
+
+}
 }
 
+#################################################
+# SAVE SVG
+#################################################
 
 write_xml(
-    
-    svg,
-    
-    "Flavonoid_Advanced.svg"
+
+svg,
+
+"OSD120_Flavonoid_Colored.svg"
+
 )
 
+#################################################
+# CONVERT TO PNG
+#################################################
 
 rsvg_png(
-    
-    "Flavonoid_Advanced.svg",
-    
-    "Flavonoid_Advanced.png",
-    
-    width = 5000,
-    
-    height = 4000
+
+"OSD120_Flavonoid_Colored.svg",
+
+"OSD120_Flavonoid_Colored.png",
+
+width = 5000,
+
+height = 4000
+
 )
 
-cat( "\nFlavonoid pathway rendered successfully.\n")
+cat(
+"\nOSD120 Flavonoid pathway rendered successfully.\n"
+)
