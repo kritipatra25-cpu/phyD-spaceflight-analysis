@@ -1,33 +1,66 @@
 #################################################
-# 03_photosynthesis_pipeline.R
+# OSD120 Photosynthesis Pathway
 #################################################
 
 library(SBGNview)
 library(xml2)
 library(rsvg)
 
-source(
-    "03_shared_functions.R"
-)
-
-dir.create(
-    "outputs/photosynthesis",
-    recursive = TRUE,
-    showWarnings = FALSE
-)
+#################################################
+# Render pathway
+#################################################
 
 SBGNview(
 
-   input.sbgn = "sbgn_models/PWY-101.sbgn",
+    input.sbgn = "PWY-101.sbgn",
 
-    output.file =
-        "outputs/photosynthesis/Photosynthesis_Base"
+    output.file = "OSD120_Photosynthesis"
+
 )
+
+#################################################
+# Load SVG
+#################################################
 
 svg <- read_xml(
-
-    "outputs/photosynthesis/Photosynthesis_Base_PWY-101.sbgn.svg"
+    "OSD120_Photosynthesis_PWY-101.sbgn.svg"
 )
+
+#################################################
+# Color function
+#################################################
+
+fc_to_color <- function(fc){
+
+    if(fc >= 1){
+
+        return("#8B0000")
+
+    } else if(fc >= 0.5){
+
+        return("#FF4500")
+
+    } else if(fc > 0){
+
+        return("#FFA07A")
+
+    } else if(fc <= -0.5){
+
+        return("#00008B")
+
+    } else if(fc < 0){
+
+        return("#87CEFA")
+
+    } else {
+
+        return("black")
+    }
+}
+
+#################################################
+# OSD120 Photosynthesis Fold Changes
+#################################################
 
 fc_map <- data.frame(
 
@@ -42,29 +75,34 @@ fc_map <- data.frame(
         "PsaB",
         "PsaC",
 
-        "chlorophyll",
+        "PetA",
+        "PetB",
+        "PetC",
+        "PetD"
 
-        "photosystem II",
-        "photosystem I"
     ),
 
     fold_change = c(
 
-        4.2,
-        3.5,
-        3.0,
-        2.8,
+         1.25,
+        -0.22,
+        -0.19,
+         0.40,
 
-        2.5,
-        2.2,
-        1.8,
+        -0.61,
+        -0.44,
+        -0.05,
 
-        3.7,
-
-        4.5,
-        3.2
+        -0.02,
+         0.11,
+         0.95,
+         0.10
     )
 )
+
+#################################################
+# Color nodes
+#################################################
 
 for(i in 1:nrow(fc_map)){
 
@@ -79,13 +117,17 @@ for(i in 1:nrow(fc_map)){
         svg,
 
         paste0(
-
-            ".//*[local-name()='text' and contains(., '",
-
+            ".//*[local-name()='text' and contains(.,'",
             current_node,
-
             "')]"
         )
+    )
+
+    cat(
+        current_node,
+        " -> ",
+        length(matched_nodes),
+        " matches\n"
     )
 
     for(j in matched_nodes){
@@ -99,7 +141,7 @@ for(i in 1:nrow(fc_map)){
         xml_set_attr(
             j,
             "font-size",
-            "18"
+            "20"
         )
 
         xml_set_attr(
@@ -110,22 +152,32 @@ for(i in 1:nrow(fc_map)){
     }
 }
 
+#################################################
+# Save SVG
+#################################################
+
 write_xml(
 
     svg,
 
-    "outputs/photosynthesis/Photosynthesis_Advanced.svg"
+    "OSD120_Photosynthesis_Colored.svg"
 )
+
+#################################################
+# Convert PNG
+#################################################
 
 rsvg_png(
 
-    "outputs/photosynthesis/Photosynthesis_Advanced.svg",
+    "OSD120_Photosynthesis_Colored.svg",
 
-    "outputs/photosynthesis/Photosynthesis_Advanced.png",
+    "OSD120_Photosynthesis_Colored.png",
 
     width = 6000,
 
     height = 5000
 )
 
-cat("Photosynthesis pipeline completed.\n")
+cat(
+    "\nOSD120 Photosynthesis pathway rendered successfully.\n"
+)
