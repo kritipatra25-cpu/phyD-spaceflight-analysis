@@ -1,3 +1,4 @@
+setwd("C:/Users/USER/Documents/SBGN_Project")
 library(xml2)
 library(rsvg)
 
