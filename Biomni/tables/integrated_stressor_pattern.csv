@@ -1,0 +1,94 @@
+tissue,feature_name,GCR,NMF,µg,pattern
+root,ABA_biosynthesis,,no_coverage,activated,µg_only:activated
+root,ABA_signaling,,no_coverage,activated,µg_only:activated
+root,Auxin_transporters_ABCB,,no_coverage,rewired,none
+root,Auxin_transporters_AUX_LAX,,no_coverage,rewired,none
+root,Auxin_transporters_PIN,,no_coverage,suppressed,µg_only:suppressed
+root,Base excision repair,,no_coverage,modestly_suppressed,µg_only:modestly_suppressed
+root,Carbon fixation in photosynthetic organisms,,no_coverage,rewired,none
+root,Circadian rhythm - plant,,no_coverage,rewired,none
+root,Circadian_core,,no_coverage,rewired,none
+root,Diterpenoid biosynthesis (GA biosynthesis),,activated,modestly_activated,"common:µg,NMF"
+root,Fanconi anemia pathway,,no_coverage,rewired,none
+root,GA_biosynthesis,,modestly_activated,activated,"common:µg,NMF"
+root,GA_core_NMF,,activated,rewired,NMF_only:activated
+root,GA_signaling,,no_coverage,rewired,none
+root,Glucosinolate biosynthesis,,no_coverage,rewired,none
+root,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),,no_coverage,modestly_suppressed,µg_only:modestly_suppressed
+root,Gravitropism,,no_coverage,rewired,none
+root,Homologous recombination,,no_coverage,rewired,none
+root,Hormone_transporters_ABCG,,no_coverage,rewired,none
+root,Hormone_transporters_NPF,,no_coverage,rewired,none
+root,Hub_transporter_core,,no_coverage,rewired,none
+root,Mismatch repair,,no_coverage,rewired,none
+root,Non-homologous end-joining,,no_coverage,modestly_suppressed,µg_only:modestly_suppressed
+root,Nucleotide excision repair,,no_coverage,modestly_suppressed,µg_only:modestly_suppressed
+root,Photoreceptors,,no_coverage,modestly_activated,µg_only:modestly_activated
+root,Photosynthesis,,no_coverage,rewired,none
+root,Photosynthesis - antenna proteins,,no_coverage,n.s.,none
+root,Plant hormone signal transduction,,no_coverage,rewired,none
+root,ROS_core_NMF,,modestly_activated,rewired,NMF_only:modestly_activated
+root,ROS_scavenging,,modestly_activated,rewired,NMF_only:modestly_activated
+root,Sugar_transporters_SWEET,,no_coverage,activated,µg_only:activated
+shoot,ABA_biosynthesis,,no_coverage,n.s.,none
+shoot,ABA_signaling,,no_coverage,n.s.,none
+shoot,Auxin_transporters_ABCB,,no_coverage,n.s.,none
+shoot,Auxin_transporters_AUX_LAX,,no_coverage,suppressed,µg_only:suppressed
+shoot,Auxin_transporters_PIN,,no_coverage,suppressed,µg_only:suppressed
+shoot,Base excision repair,,no_coverage,suppressed,µg_only:suppressed
+shoot,Carbon fixation in photosynthetic organisms,,no_coverage,rewired,none
+shoot,Circadian rhythm - plant,,no_coverage,rewired,none
+shoot,Circadian_core,,no_coverage,activated,µg_only:activated
+shoot,Diterpenoid biosynthesis (GA biosynthesis),,activated,suppressed,"divergent:µg,NMF"
+shoot,Fanconi anemia pathway,,no_coverage,suppressed,µg_only:suppressed
+shoot,GA_biosynthesis,,activated,suppressed,"divergent:µg,NMF"
+shoot,GA_core_NMF,,activated,no_coverage,NMF_only:activated
+shoot,GA_signaling,,no_coverage,rewired,none
+shoot,Glucosinolate biosynthesis,,no_coverage,n.s.,none
+shoot,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),,no_coverage,rewired,none
+shoot,Gravitropism,,no_coverage,rewired,none
+shoot,Homologous recombination,,no_coverage,modestly_suppressed,µg_only:modestly_suppressed
+shoot,Hormone_transporters_ABCG,,no_coverage,n.s.,none
+shoot,Hormone_transporters_NPF,,no_coverage,suppressed,µg_only:suppressed
+shoot,Hub_transporter_core,,no_coverage,activated,µg_only:activated
+shoot,Mismatch repair,,no_coverage,suppressed,µg_only:suppressed
+shoot,Non-homologous end-joining,,no_coverage,modestly_suppressed,µg_only:modestly_suppressed
+shoot,Nucleotide excision repair,,no_coverage,rewired,none
+shoot,Photoreceptors,,no_coverage,modestly_activated,µg_only:modestly_activated
+shoot,Photosynthesis,,no_coverage,rewired,none
+shoot,Photosynthesis - antenna proteins,,no_coverage,n.s.,none
+shoot,Plant hormone signal transduction,,no_coverage,rewired,none
+shoot,ROS_core_NMF,,modestly_activated,rewired,NMF_only:modestly_activated
+shoot,ROS_scavenging,,modestly_activated,n.s.,NMF_only:modestly_activated
+shoot,Sugar_transporters_SWEET,,no_coverage,n.s.,none
+whole_seedling,ABA_biosynthesis,rewired,,,none
+whole_seedling,ABA_signaling,modestly_activated,,,GCR_only:modestly_activated
+whole_seedling,Auxin_transporters_ABCB,no_coverage,,,none
+whole_seedling,Auxin_transporters_AUX_LAX,modestly_suppressed,,,GCR_only:modestly_suppressed
+whole_seedling,Auxin_transporters_PIN,modestly_suppressed,,,GCR_only:modestly_suppressed
+whole_seedling,Base excision repair,modestly_activated,,,GCR_only:modestly_activated
+whole_seedling,Carbon fixation in photosynthetic organisms,modestly_suppressed,,,GCR_only:modestly_suppressed
+whole_seedling,Circadian rhythm - plant,modestly_suppressed,,,GCR_only:modestly_suppressed
+whole_seedling,Circadian_core,modestly_activated,,,GCR_only:modestly_activated
+whole_seedling,Diterpenoid biosynthesis (GA biosynthesis),modestly_suppressed,,,GCR_only:modestly_suppressed
+whole_seedling,Fanconi anemia pathway,modestly_activated,,,GCR_only:modestly_activated
+whole_seedling,GA_biosynthesis,rewired,,,none
+whole_seedling,GA_core_NMF,no_coverage,,,none
+whole_seedling,GA_signaling,modestly_activated,,,GCR_only:modestly_activated
+whole_seedling,Glucosinolate biosynthesis,suppressed,,,GCR_only:suppressed
+whole_seedling,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),rewired,,,none
+whole_seedling,Gravitropism,modestly_suppressed,,,GCR_only:modestly_suppressed
+whole_seedling,Homologous recombination,rewired,,,none
+whole_seedling,Hormone_transporters_ABCG,modestly_suppressed,,,GCR_only:modestly_suppressed
+whole_seedling,Hormone_transporters_NPF,rewired,,,none
+whole_seedling,Hub_transporter_core,rewired,,,none
+whole_seedling,Mismatch repair,modestly_suppressed,,,GCR_only:modestly_suppressed
+whole_seedling,Non-homologous end-joining,rewired,,,none
+whole_seedling,Nucleotide excision repair,rewired,,,none
+whole_seedling,Photoreceptors,modestly_activated,,,GCR_only:modestly_activated
+whole_seedling,Photosynthesis,rewired,,,none
+whole_seedling,Photosynthesis - antenna proteins,modestly_suppressed,,,GCR_only:modestly_suppressed
+whole_seedling,Plant hormone signal transduction,rewired,,,none
+whole_seedling,ROS_core_NMF,modestly_suppressed,,,GCR_only:modestly_suppressed
+whole_seedling,ROS_scavenging,modestly_suppressed,,,GCR_only:modestly_suppressed
+whole_seedling,Sugar_transporters_SWEET,suppressed,,,GCR_only:suppressed

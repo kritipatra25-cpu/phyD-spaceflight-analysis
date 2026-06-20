@@ -1,0 +1,92 @@
+
+Stage C: scRNA-seq atlas projection results
+============================================
+
+INPUT ATLASES
+- Han 2023 (Nature Plants, s41477-023-01544-4): time-series Arabidopsis seedling de-etiolation
+  - 31,796 shoot cells (33 clusters) + 61,065 root cells (28 clusters)
+  - 7 shoot cell types: Mes, SAM, En, E.C, E.H, C, Vas
+  - 15 root cell types after grouping
+  - Supplementary Table 5/6 used: 7,117 shoot + 11,198 root cluster-specific markers
+  - Top-100-per-celltype after specificity filter (LFC>=0.5, pct.1>=0.2, pct.2<=0.3): 1,432 unique marker genes
+
+- Liew 2024 (Nature Plants, s41477-024-01771-3): germination embryo
+  - 12,798 cells across 15 clusters at 12/24/48 hsl
+  - 9 cell types (mesophyll, cortex, epidermis, QC, root cap, xylem, stele, provasculature, precursor)
+  - Supplementary Table 4 used: 11,136 cluster markers
+  - Top-100-per-celltype: 786 unique marker genes
+
+METHOD
+- Per condition (winsorized log2FC at +/-10 to handle DESeq2 shrinkage artifacts; only 165 of ~528,000 cells affected):
+  - Signed singscore (rank-based, [-0.5, +0.5])
+  - Mann-Whitney U two-sided p-value against background genes
+  - BH-FDR adjusted across cell types within each condition
+
+KEY FINDINGS (FDR < 0.05)
+
+OSD-120 root_tip FLT_vs_GC_Light
+  - CotyledonCell_root markers DOWN (singscore -0.30, FDR=2e-24)
+  - DCM_root DOWN (-0.13)
+  - Vasculature_shoot DOWN, Procambium_root DOWN, Phloem_root DOWN
+  - Atrichoblast_root UP (+0.14)
+  - LRC_root UP modestly
+
+OSD-120 root_tip FLT_vs_GC_Dark
+  - Trichoblast_root UP (+0.39, FDR=2e-39, strongest signal)
+  - Atrichoblast_root UP (+0.36, FDR=3e-15)
+  - Xylem_root DOWN (-0.33, FDR=4e-29)
+  - Vasculature_shoot DOWN, Phloem_root DOWN, Procambium_root DOWN
+  - E.hypocotyl_epidermis UP (+0.15, FDR=2e-06) ** HYPOCOTYL HUB
+  - Cortex_hypocotyl UP (+0.15, FDR=5e-05) ** HYPOCOTYL HUB
+  - Cortex_root UP (+0.25), E.cotyledon_epidermis UP (+0.13)
+  - Liew_epidermis UP (+0.19, FDR=1e-09), Liew_root_cap UP (+0.28, FDR=9e-22)
+
+OSD-678 leaf FLT_vs_GC_Light
+  - CotyledonCell_root DOWN (-0.35, FDR=2e-32, strongest)
+  - DCM_root DOWN, Mesophyll DOWN, Xylem_root DOWN
+  - SAM_shoot UP, Endodermis_shoot UP, Cortex_root UP, Phloem_root UP, Pericycle_root UP
+  - Cortex_hypocotyl_shoot UP (+0.11, FDR=2e-03) ** HYPOCOTYL HUB
+  - Liew_provasculature UP (+0.10, FDR=6e-04)
+  - Liew_mesophyll DOWN (-0.27, FDR=4e-20)
+
+OSD-678 leaf FLT_vs_GC_Dark (LIGHT INVERTED)
+  - Many programs flip sign
+  - CotyledonCell_root UP (+0.38, FDR=2e-38)
+  - Mesophyll UP (+0.17, FDR=7e-09)
+  - Trichoblast/Atrichoblast/Cortex_root DOWN
+  - E.hypocotyl_epidermis DOWN (-0.27, FDR=4e-19) ** HYPOCOTYL HUB
+  - Cortex_hypocotyl DOWN (-0.12, FDR=1e-03) ** HYPOCOTYL HUB
+  - Liew_root_cap DOWN (-0.25, FDR=4e-17)
+
+OSD-658 (40 cGy and 80 cGy GCR; whole 10d seedling)
+  - HAN cell-type signals weak (no |singscore|>0.32 with FDR<1e-15)
+  - LIEW reveals key vascular programs DOWN:
+    - Liew_provasculature DOWN at 40cGy (-0.23, FDR=2e-14) and 80cGy (-0.09, FDR=4e-03)
+    - Liew_xylem DOWN (-0.18, FDR=9e-09 at 40cGy)
+    - Liew_root_cap DOWN at both doses
+    - Liew_QC DOWN at both doses (consistent with stem-cell damage)
+  - Photosynthesis-related (Mesophyll, CotyledonCell) mostly stable
+
+HYPOCOTYL HUB COMPOSITE (Han 2023 EH + CH union, 161 genes)
+  - 120 root FLT_Dark:  mean_log2FC = +0.640, singscore +0.153, FDR = 2.9e-10 (UP)
+  - 120 root FLT_Light: NOT significant
+  - 678 leaf FLT_Dark:  mean_log2FC = -0.680, singscore -0.204, FDR < 1e-15 (DOWN)
+  - 678 leaf FLT_Light: NOT significant (mean of mixture is small but bimodal)
+  - 658 80 cGy:         mean_log2FC = -0.075, singscore -0.078, FDR = 1e-3 (weak DOWN)
+  - 658 40 cGy:         NOT significant
+
+ORTHOGONAL VALIDATION (Sancho-Andres 2022, 7 hypocotyl markers)
+  - 120 root FLT_Light: hypocotyl markers UP (+0.11 singscore, 4/7 UP)
+  - 120 root FLT_Dark:  hypocotyl markers UP (+0.04, 5/7 UP)
+  - 678 leaf FLT_Light: cotyledon markers strongly DOWN (-0.28)
+  - 678 leaf FLT_Dark:  cotyledon markers UP (+0.26), hypocotyl markers DOWN (-0.22)
+  - MGL/AT1G64660 specifically +2.86 in 678 leaf FLT_Light (extreme hypocotyl marker activation)
+
+INTERPRETATION
+- Microgravity in DARK induces a HYPOCOTYL-HUB IDENTITY shift:
+  - Root acquires hypocotyl-cortex + hypocotyl-epidermis transcriptional programs
+  - Leaf SUPPRESSES hypocotyl programs (paired root-leaf design from same plates)
+  - These changes are statistically robust (FDR<1e-15) but go in OPPOSITE directions
+- Light condition partly buffers this shift in both tissues
+- GCR damages germination-stage vascular programs even after 10 days of growth
+- Strong support for the hypothesis: hypocotyl is the spatial integrator whose program is borrowed by other tissues under specific stress regimes

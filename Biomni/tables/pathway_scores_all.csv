@@ -1,0 +1,621 @@
+condition,study,contrast,tissue,light,pathway_id,pathway_name,source,n_panel_genes,n_measured,mean_log2fc,mean_abs_log2fc,singscore,frac_up,frac_dn,sign_consistency,n_measured_w_padj,n_padj_lt_05,frac_padj_lt_05
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ABA_biosynthesis,ABA_biosynthesis,Curated,8,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ABA_signaling,ABA_signaling,Curated,16,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,Circadian_core,Circadian_core,User_core,14,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,GA_biosynthesis,GA_biosynthesis,Curated,17,5,0.3611510227536235,0.6347483504945106,-0.0551546391752577,0.4,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,GA_core_NMF,GA_core_NMF,User_core,3,3,0.268777435743621,0.5570804706477899,-0.1022336769759449,0.3333333333333333,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,GA_signaling,GA_signaling,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,Gravitropism,Gravitropism,Curated,9,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,Hub_transporter_core,Hub_transporter_core,User_core,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,Photoreceptors,Photoreceptors,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ROS_core_NMF,ROS_core_NMF,User_core,10,9,0.1842209619528712,0.3598236907980074,-0.0529782359679266,0.2222222222222222,0.1111111111111111,0.6666666666666666,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ROS_scavenging,ROS_scavenging,Curated,24,10,0.0921023063409634,0.3975378811348274,-0.0925257731958763,0.2,0.2,0.5,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ath00195,Photosynthesis,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ath00196,Photosynthesis - antenna proteins,KEGG,22,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,6,0.5193492057300446,0.7473469788474506,0.0262027491408934,0.5,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ath00966,Glucosinolate biosynthesis,KEGG,26,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ath03410,Base excision repair,KEGG,50,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ath03420,Nucleotide excision repair,KEGG,85,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ath03430,Mismatch repair,KEGG,32,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ath03440,Homologous recombination,KEGG,60,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ath03450,Non-homologous end-joining,KEGG,8,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ath03460,Fanconi anemia pathway,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ath04075,Plant hormone signal transduction,KEGG,433,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|root|light,Maffei2022_NMF,NMF_vs_GMF_10min,root,light,ath04712,Circadian rhythm - plant,KEGG,43,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ABA_biosynthesis,ABA_biosynthesis,Curated,8,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ABA_signaling,ABA_signaling,Curated,16,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,Circadian_core,Circadian_core,User_core,14,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,GA_biosynthesis,GA_biosynthesis,Curated,17,5,0.3876138091307465,0.6017465023293689,0.0721649484536082,0.2,0.2,0.5,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,GA_core_NMF,GA_core_NMF,User_core,3,3,0.3436492124343996,0.7005370344321035,0.0274914089347078,0.3333333333333333,0.3333333333333333,0.5,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,GA_signaling,GA_signaling,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,Gravitropism,Gravitropism,Curated,9,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,Hub_transporter_core,Hub_transporter_core,User_core,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,Photoreceptors,Photoreceptors,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ROS_core_NMF,ROS_core_NMF,User_core,10,9,0.2364573316414321,0.4003670614532728,-0.0426689576174111,0.2222222222222222,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ROS_scavenging,ROS_scavenging,Curated,24,10,0.1265619508522824,0.4465800029329521,-0.0837628865979381,0.2,0.1,0.6666666666666666,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ath00195,Photosynthesis,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ath00196,Photosynthesis - antenna proteins,KEGG,22,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,6,0.4735178859611075,0.6519617969599594,0.0983676975945016,0.3333333333333333,0.1666666666666666,0.6666666666666666,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ath00966,Glucosinolate biosynthesis,KEGG,26,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ath03410,Base excision repair,KEGG,50,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ath03420,Nucleotide excision repair,KEGG,85,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ath03430,Mismatch repair,KEGG,32,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ath03440,Homologous recombination,KEGG,60,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ath03450,Non-homologous end-joining,KEGG,8,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ath03460,Fanconi anemia pathway,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ath04075,Plant hormone signal transduction,KEGG,433,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_10min|shoot|light,Maffei2022_NMF,NMF_vs_GMF_10min,shoot,light,ath04712,Circadian rhythm - plant,KEGG,43,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ABA_biosynthesis,ABA_biosynthesis,Curated,8,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ABA_signaling,ABA_signaling,Curated,16,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,Circadian_core,Circadian_core,User_core,14,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,GA_biosynthesis,GA_biosynthesis,Curated,17,5,0.4383379066363654,0.581719495001356,0.0938144329896907,0.4,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,GA_core_NMF,GA_core_NMF,User_core,3,3,0.4752717896973671,0.4752717896973671,0.1563573883161511,0.3333333333333333,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,GA_signaling,GA_signaling,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,Gravitropism,Gravitropism,Curated,9,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,Hub_transporter_core,Hub_transporter_core,User_core,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,Photoreceptors,Photoreceptors,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ROS_core_NMF,ROS_core_NMF,User_core,10,9,0.1829652655037479,0.3014190357012556,-0.0693012600229095,0.2222222222222222,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ROS_scavenging,ROS_scavenging,Curated,24,10,0.0810186121816611,0.3549272589028421,-0.1105670103092783,0.2,0.1,0.6666666666666666,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ath00195,Photosynthesis,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ath00196,Photosynthesis - antenna proteins,KEGG,22,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,6,0.536709780896433,0.6561944378672585,0.1361683848797251,0.5,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ath00966,Glucosinolate biosynthesis,KEGG,26,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ath03410,Base excision repair,KEGG,50,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ath03420,Nucleotide excision repair,KEGG,85,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ath03430,Mismatch repair,KEGG,32,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ath03440,Homologous recombination,KEGG,60,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ath03450,Non-homologous end-joining,KEGG,8,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ath03460,Fanconi anemia pathway,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ath04075,Plant hormone signal transduction,KEGG,433,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|root|light,Maffei2022_NMF,NMF_vs_GMF_1h,root,light,ath04712,Circadian rhythm - plant,KEGG,43,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ABA_biosynthesis,ABA_biosynthesis,Curated,8,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ABA_signaling,ABA_signaling,Curated,16,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,Circadian_core,Circadian_core,User_core,14,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,GA_biosynthesis,GA_biosynthesis,Curated,17,5,0.5786182448859459,0.6330428647163573,0.0824742268041237,0.4,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,GA_core_NMF,GA_core_NMF,User_core,3,3,0.4731533826261764,0.5638610823435286,0.0300687285223367,0.3333333333333333,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,GA_signaling,GA_signaling,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,Gravitropism,Gravitropism,Curated,9,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,Hub_transporter_core,Hub_transporter_core,User_core,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,Photoreceptors,Photoreceptors,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ROS_core_NMF,ROS_core_NMF,User_core,10,9,0.2569306138791729,0.3323598573102314,-0.0756013745704467,0.2222222222222222,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ROS_scavenging,ROS_scavenging,Curated,24,10,0.2060836757916592,0.3242777482788047,-0.1059278350515463,0.2,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ath00195,Photosynthesis,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ath00196,Photosynthesis - antenna proteins,KEGG,22,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,6,0.6536100627710834,0.6989639126297594,0.1039518900343642,0.5,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ath00966,Glucosinolate biosynthesis,KEGG,26,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ath03410,Base excision repair,KEGG,50,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ath03420,Nucleotide excision repair,KEGG,85,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ath03430,Mismatch repair,KEGG,32,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ath03440,Homologous recombination,KEGG,60,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ath03450,Non-homologous end-joining,KEGG,8,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ath03460,Fanconi anemia pathway,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ath04075,Plant hormone signal transduction,KEGG,433,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_1h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_1h,shoot,light,ath04712,Circadian rhythm - plant,KEGG,43,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ABA_biosynthesis,ABA_biosynthesis,Curated,8,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ABA_signaling,ABA_signaling,Curated,16,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,Circadian_core,Circadian_core,User_core,14,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,GA_biosynthesis,GA_biosynthesis,Curated,17,5,-0.0254017110783727,0.4348457971514309,-0.1896907216494845,0.2,0.2,0.5,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,GA_core_NMF,GA_core_NMF,User_core,3,3,0.3011053271549779,0.3813014829667857,-0.0017182130584192,0.3333333333333333,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,GA_signaling,GA_signaling,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,Gravitropism,Gravitropism,Curated,9,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,Hub_transporter_core,Hub_transporter_core,User_core,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,Photoreceptors,Photoreceptors,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ROS_core_NMF,ROS_core_NMF,User_core,10,9,0.0309402927574608,0.4208734177421174,-0.1010882016036655,0.2222222222222222,0.2222222222222222,0.5,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ROS_scavenging,ROS_scavenging,Curated,24,10,0.0043997381180124,0.4022326013316079,-0.1314432989690721,0.2,0.2,0.5,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ath00195,Photosynthesis,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ath00196,Photosynthesis - antenna proteins,KEGG,22,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,6,0.1418645123816313,0.5254041025731344,-0.0871993127147766,0.3333333333333333,0.1666666666666666,0.6666666666666666,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ath00966,Glucosinolate biosynthesis,KEGG,26,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ath03410,Base excision repair,KEGG,50,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ath03420,Nucleotide excision repair,KEGG,85,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ath03430,Mismatch repair,KEGG,32,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ath03440,Homologous recombination,KEGG,60,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ath03450,Non-homologous end-joining,KEGG,8,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ath03460,Fanconi anemia pathway,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ath04075,Plant hormone signal transduction,KEGG,433,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|root|light,Maffei2022_NMF,NMF_vs_GMF_24h,root,light,ath04712,Circadian rhythm - plant,KEGG,43,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ABA_biosynthesis,ABA_biosynthesis,Curated,8,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ABA_signaling,ABA_signaling,Curated,16,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,Circadian_core,Circadian_core,User_core,14,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,GA_biosynthesis,GA_biosynthesis,Curated,17,5,0.4340032661531041,0.6565606055628582,0.05,0.4,0.2,0.6666666666666666,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,GA_core_NMF,GA_core_NMF,User_core,3,3,0.5362382122067171,0.5362382122067171,0.1211340206185567,0.3333333333333333,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,GA_signaling,GA_signaling,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,Gravitropism,Gravitropism,Curated,9,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,Hub_transporter_core,Hub_transporter_core,User_core,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,Photoreceptors,Photoreceptors,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ROS_core_NMF,ROS_core_NMF,User_core,10,9,0.1387911191134142,0.393093292469598,-0.0767468499427262,0.1111111111111111,0.1111111111111111,0.5,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ROS_scavenging,ROS_scavenging,Curated,24,10,0.1593948569018169,0.3882668129223823,-0.0608247422680412,0.1,0.1,0.5,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ath00195,Photosynthesis,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ath00196,Photosynthesis - antenna proteins,KEGG,22,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,6,0.5895645660690084,0.7750290155771368,0.1176975945017181,0.5,0.1666666666666666,0.75,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ath00966,Glucosinolate biosynthesis,KEGG,26,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ath03410,Base excision repair,KEGG,50,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ath03420,Nucleotide excision repair,KEGG,85,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ath03430,Mismatch repair,KEGG,32,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ath03440,Homologous recombination,KEGG,60,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ath03450,Non-homologous end-joining,KEGG,8,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ath03460,Fanconi anemia pathway,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ath04075,Plant hormone signal transduction,KEGG,433,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_24h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_24h,shoot,light,ath04712,Circadian rhythm - plant,KEGG,43,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ABA_biosynthesis,ABA_biosynthesis,Curated,8,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ABA_signaling,ABA_signaling,Curated,16,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,Circadian_core,Circadian_core,User_core,14,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,GA_biosynthesis,GA_biosynthesis,Curated,17,5,0.2752383450818451,0.4977956844915992,0.0144329896907216,0.4,0.2,0.6666666666666666,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,GA_core_NMF,GA_core_NMF,User_core,3,3,0.4492075244041515,0.4492075244041515,0.1099656357388315,0.3333333333333333,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,GA_signaling,GA_signaling,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,Gravitropism,Gravitropism,Curated,9,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,Hub_transporter_core,Hub_transporter_core,User_core,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,Photoreceptors,Photoreceptors,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ROS_core_NMF,ROS_core_NMF,User_core,10,9,0.2263253407088843,0.4319810566462603,-0.0478235967926689,0.3333333333333333,0.1111111111111111,0.75,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ROS_scavenging,ROS_scavenging,Curated,24,10,0.1299962472213752,0.4624795103982549,-0.0917525773195876,0.3,0.2,0.6,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ath00195,Photosynthesis,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ath00196,Photosynthesis - antenna proteins,KEGG,22,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,6,0.4243527878085897,0.609817237316718,0.0897766323024055,0.5,0.1666666666666666,0.75,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ath00966,Glucosinolate biosynthesis,KEGG,26,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ath03410,Base excision repair,KEGG,50,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ath03420,Nucleotide excision repair,KEGG,85,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ath03430,Mismatch repair,KEGG,32,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ath03440,Homologous recombination,KEGG,60,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ath03450,Non-homologous end-joining,KEGG,8,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ath03460,Fanconi anemia pathway,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ath04075,Plant hormone signal transduction,KEGG,433,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|root|light,Maffei2022_NMF,NMF_vs_GMF_2h,root,light,ath04712,Circadian rhythm - plant,KEGG,43,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ABA_biosynthesis,ABA_biosynthesis,Curated,8,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ABA_signaling,ABA_signaling,Curated,16,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,Circadian_core,Circadian_core,User_core,14,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,GA_biosynthesis,GA_biosynthesis,Curated,17,5,0.2972171399579736,0.6857894790792652,-0.0154639175257731,0.4,0.2,0.6666666666666666,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,GA_core_NMF,GA_core_NMF,User_core,3,3,0.0682973082790778,0.7159178734812306,-0.1005154639175257,0.3333333333333333,0.3333333333333333,0.5,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,GA_signaling,GA_signaling,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,Gravitropism,Gravitropism,Curated,9,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,Hub_transporter_core,Hub_transporter_core,User_core,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,Photoreceptors,Photoreceptors,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ROS_core_NMF,ROS_core_NMF,User_core,10,9,0.2072846180799173,0.4144334445593444,-0.1285796105383734,0.2222222222222222,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ROS_scavenging,ROS_scavenging,Curated,24,10,0.212859596855305,0.3992935406867894,-0.1144329896907216,0.2,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ath00195,Photosynthesis,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ath00196,Photosynthesis - antenna proteins,KEGG,22,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,6,0.4372648705899671,0.7610751531910435,0.0365120274914089,0.5,0.1666666666666666,0.75,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ath00966,Glucosinolate biosynthesis,KEGG,26,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ath03410,Base excision repair,KEGG,50,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ath03420,Nucleotide excision repair,KEGG,85,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ath03430,Mismatch repair,KEGG,32,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ath03440,Homologous recombination,KEGG,60,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ath03450,Non-homologous end-joining,KEGG,8,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ath03460,Fanconi anemia pathway,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ath04075,Plant hormone signal transduction,KEGG,433,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_2h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_2h,shoot,light,ath04712,Circadian rhythm - plant,KEGG,43,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ABA_biosynthesis,ABA_biosynthesis,Curated,8,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ABA_signaling,ABA_signaling,Curated,16,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,Circadian_core,Circadian_core,User_core,14,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,GA_biosynthesis,GA_biosynthesis,Curated,17,5,0.177068682789086,0.2808109272725694,-0.0778350515463917,0.2,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,GA_core_NMF,GA_core_NMF,User_core,3,3,0.2541131532968701,0.4173505143059324,-0.081615120274914,0.3333333333333333,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,GA_signaling,GA_signaling,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,Gravitropism,Gravitropism,Curated,9,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,Hub_transporter_core,Hub_transporter_core,User_core,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,Photoreceptors,Photoreceptors,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ROS_core_NMF,ROS_core_NMF,User_core,10,9,0.1620363601493894,0.2933268511895193,-0.1136884306987399,0.2222222222222222,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ROS_scavenging,ROS_scavenging,Curated,24,10,0.0136399146457142,0.3961869755593035,-0.1515463917525773,0.2,0.1,0.6666666666666666,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ath00195,Photosynthesis,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ath00196,Photosynthesis - antenna proteins,KEGG,22,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,6,0.3669148593731311,0.4533667297760339,0.0146048109965635,0.3333333333333333,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ath00966,Glucosinolate biosynthesis,KEGG,26,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ath03410,Base excision repair,KEGG,50,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ath03420,Nucleotide excision repair,KEGG,85,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ath03430,Mismatch repair,KEGG,32,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ath03440,Homologous recombination,KEGG,60,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ath03450,Non-homologous end-joining,KEGG,8,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ath03460,Fanconi anemia pathway,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ath04075,Plant hormone signal transduction,KEGG,433,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|root|light,Maffei2022_NMF,NMF_vs_GMF_48h,root,light,ath04712,Circadian rhythm - plant,KEGG,43,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ABA_biosynthesis,ABA_biosynthesis,Curated,8,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ABA_signaling,ABA_signaling,Curated,16,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,Circadian_core,Circadian_core,User_core,14,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,GA_biosynthesis,GA_biosynthesis,Curated,17,5,0.7087828334649325,0.7087828334649325,0.1123711340206185,0.6,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,GA_core_NMF,GA_core_NMF,User_core,3,3,0.581498415111194,0.581498415111194,0.0584192439862542,0.3333333333333333,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,GA_signaling,GA_signaling,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,Gravitropism,Gravitropism,Curated,9,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,Hub_transporter_core,Hub_transporter_core,User_core,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,Photoreceptors,Photoreceptors,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ROS_core_NMF,ROS_core_NMF,User_core,10,9,0.2135358834307184,0.4128833671960862,-0.1371706758304696,0.2222222222222222,0.1111111111111111,0.6666666666666666,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ROS_scavenging,ROS_scavenging,Curated,24,10,0.1653006192448665,0.3984767063192577,-0.1667525773195876,0.2,0.1,0.6666666666666666,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ath00195,Photosynthesis,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ath00196,Photosynthesis - antenna proteins,KEGG,22,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,6,0.82498442116675,0.82498442116675,0.1563573883161511,0.6666666666666666,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ath00966,Glucosinolate biosynthesis,KEGG,26,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ath03410,Base excision repair,KEGG,50,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ath03420,Nucleotide excision repair,KEGG,85,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ath03430,Mismatch repair,KEGG,32,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ath03440,Homologous recombination,KEGG,60,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ath03450,Non-homologous end-joining,KEGG,8,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ath03460,Fanconi anemia pathway,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ath04075,Plant hormone signal transduction,KEGG,433,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_48h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_48h,shoot,light,ath04712,Circadian rhythm - plant,KEGG,43,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ABA_biosynthesis,ABA_biosynthesis,Curated,8,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ABA_signaling,ABA_signaling,Curated,16,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,Circadian_core,Circadian_core,User_core,14,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,GA_biosynthesis,GA_biosynthesis,Curated,17,5,0.346977856049439,0.4142269595727697,0.052061855670103,0.2,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,GA_core_NMF,GA_core_NMF,User_core,3,3,0.4069644336267273,0.5190462728322787,0.0515463917525773,0.3333333333333333,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,GA_signaling,GA_signaling,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,Gravitropism,Gravitropism,Curated,9,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,Hub_transporter_core,Hub_transporter_core,User_core,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,Photoreceptors,Photoreceptors,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ROS_core_NMF,ROS_core_NMF,User_core,10,9,0.1426441393916473,0.3812312827494923,-0.1265750286368843,0.2222222222222222,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ROS_scavenging,ROS_scavenging,Curated,24,10,0.0829765623630118,0.3885113175640138,-0.1585051546391752,0.2,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ath00195,Photosynthesis,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ath00196,Photosynthesis - antenna proteins,KEGG,22,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,6,0.4996539476801647,0.5556948672829404,0.1194158075601374,0.3333333333333333,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ath00966,Glucosinolate biosynthesis,KEGG,26,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ath03410,Base excision repair,KEGG,50,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ath03420,Nucleotide excision repair,KEGG,85,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ath03430,Mismatch repair,KEGG,32,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ath03440,Homologous recombination,KEGG,60,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ath03450,Non-homologous end-joining,KEGG,8,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ath03460,Fanconi anemia pathway,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ath04075,Plant hormone signal transduction,KEGG,433,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|root|light,Maffei2022_NMF,NMF_vs_GMF_4h,root,light,ath04712,Circadian rhythm - plant,KEGG,43,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ABA_biosynthesis,ABA_biosynthesis,Curated,8,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ABA_signaling,ABA_signaling,Curated,16,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,Circadian_core,Circadian_core,User_core,14,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,GA_biosynthesis,GA_biosynthesis,Curated,17,5,0.0870527652205124,0.7853119001269153,-0.0865979381443298,0.4,0.2,0.6666666666666666,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,GA_core_NMF,GA_core_NMF,User_core,3,3,-0.0235423678757984,0.8108168101215112,-0.081615120274914,0.3333333333333333,0.3333333333333333,0.5,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,GA_signaling,GA_signaling,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,Gravitropism,Gravitropism,Curated,9,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,Hub_transporter_core,Hub_transporter_core,User_core,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,Photoreceptors,Photoreceptors,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ROS_core_NMF,ROS_core_NMF,User_core,10,9,0.4253404952367303,0.4816749217705962,-0.0309278350515463,0.4444444444444444,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ROS_scavenging,ROS_scavenging,Curated,24,10,0.3707770223412862,0.4455368529653077,-0.0626288659793814,0.4,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ath00195,Photosynthesis,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ath00196,Photosynthesis - antenna proteins,KEGG,22,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,6,0.2230503493692457,0.8049329617912481,-0.0442439862542955,0.5,0.1666666666666666,0.75,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ath00966,Glucosinolate biosynthesis,KEGG,26,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ath03410,Base excision repair,KEGG,50,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ath03420,Nucleotide excision repair,KEGG,85,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ath03430,Mismatch repair,KEGG,32,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ath03440,Homologous recombination,KEGG,60,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ath03450,Non-homologous end-joining,KEGG,8,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ath03460,Fanconi anemia pathway,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ath04075,Plant hormone signal transduction,KEGG,433,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_4h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_4h,shoot,light,ath04712,Circadian rhythm - plant,KEGG,43,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ABA_biosynthesis,ABA_biosynthesis,Curated,8,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ABA_signaling,ABA_signaling,Curated,16,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,Circadian_core,Circadian_core,User_core,14,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,GA_biosynthesis,GA_biosynthesis,Curated,17,5,0.0739953498948278,0.3722544848012307,-0.1123711340206185,0.2,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,GA_core_NMF,GA_core_NMF,User_core,3,3,0.1483975812765469,0.477803628123242,-0.0902061855670103,0.3333333333333333,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,GA_signaling,GA_signaling,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,Gravitropism,Gravitropism,Curated,9,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,Hub_transporter_core,Hub_transporter_core,User_core,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,Photoreceptors,Photoreceptors,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ROS_core_NMF,ROS_core_NMF,User_core,10,9,0.2356210942571517,0.3236491189831076,-0.0094501718213058,0.2222222222222222,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ROS_scavenging,ROS_scavenging,Curated,24,10,0.120465411310284,0.3828777806059494,-0.0574742268041237,0.2,0.1,0.6666666666666666,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ath00195,Photosynthesis,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ath00196,Photosynthesis - antenna proteins,KEGG,22,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,6,0.2295287084797238,0.4780779875683927,-0.0253436426116838,0.3333333333333333,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ath00966,Glucosinolate biosynthesis,KEGG,26,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ath03410,Base excision repair,KEGG,50,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ath03420,Nucleotide excision repair,KEGG,85,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ath03430,Mismatch repair,KEGG,32,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ath03440,Homologous recombination,KEGG,60,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ath03450,Non-homologous end-joining,KEGG,8,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ath03460,Fanconi anemia pathway,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ath04075,Plant hormone signal transduction,KEGG,433,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|root|light,Maffei2022_NMF,NMF_vs_GMF_96h,root,light,ath04712,Circadian rhythm - plant,KEGG,43,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ABA_biosynthesis,ABA_biosynthesis,Curated,8,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ABA_signaling,ABA_signaling,Curated,16,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,Circadian_core,Circadian_core,User_core,14,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,GA_biosynthesis,GA_biosynthesis,Curated,17,5,0.7214988133535079,0.7510990459310186,0.1237113402061855,0.6,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,GA_core_NMF,GA_core_NMF,User_core,3,3,0.7804057478150207,0.8297394687775387,0.1348797250859106,0.6666666666666666,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,GA_signaling,GA_signaling,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,Gravitropism,Gravitropism,Curated,9,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,Hub_transporter_core,Hub_transporter_core,User_core,5,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,Photoreceptors,Photoreceptors,Curated,10,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ROS_core_NMF,ROS_core_NMF,User_core,10,9,0.069355908678897,0.4569404601008158,-0.1549255441008018,0.2222222222222222,0.1111111111111111,0.6666666666666666,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ROS_scavenging,ROS_scavenging,Curated,24,10,0.0265749207197597,0.4470918111819818,-0.1760309278350515,0.2,0.1,0.6666666666666666,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ath00195,Photosynthesis,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ath00196,Photosynthesis - antenna proteins,KEGG,22,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,1,,,,,,,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,6,0.7452387528652519,0.7699056133465106,0.1318728522336769,0.6666666666666666,0.0,1.0,0.0,0.0,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ath00966,Glucosinolate biosynthesis,KEGG,26,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ath03410,Base excision repair,KEGG,50,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ath03420,Nucleotide excision repair,KEGG,85,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ath03430,Mismatch repair,KEGG,32,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ath03440,Homologous recombination,KEGG,60,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ath03450,Non-homologous end-joining,KEGG,8,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ath03460,Fanconi anemia pathway,KEGG,46,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ath04075,Plant hormone signal transduction,KEGG,433,0,,,,,,,,,
+Maffei2022_NMF|NMF_vs_GMF_96h|shoot|light,Maffei2022_NMF,NMF_vs_GMF_96h,shoot,light,ath04712,Circadian rhythm - plant,KEGG,43,0,,,,,,,,,
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ABA_biosynthesis,ABA_biosynthesis,Curated,8,7,0.5616739769915008,0.7780112996369838,0.1466994077711974,0.2857142857142857,0.1428571428571428,0.6666666666666666,5.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ABA_signaling,ABA_signaling,Curated,16,15,0.8069615271798469,0.9355167434592094,0.1801145938658577,0.5333333333333333,0.0666666666666666,0.8888888888888888,14.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,3,1.2633142289079726,2.006955634346968,-0.0609774182676103,0.3333333333333333,0.3333333333333333,0.5,2.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,3,-0.3689469267213958,0.3689469267213958,-0.22948432760364,0.0,0.3333333333333333,1.0,3.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,6,-0.3082303949605151,0.5007253205589802,-0.1827805864509605,0.1666666666666666,0.5,0.75,5.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,Circadian_core,Circadian_core,User_core,14,14,0.2490305067373463,1.3106634279830216,0.0700505561172901,0.4285714285714285,0.1428571428571428,0.75,14.0,3.0,0.21428571428571427
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,GA_biosynthesis,GA_biosynthesis,Curated,17,13,0.4361883701838289,1.0154118847539442,0.0886863187368748,0.3846153846153846,0.1538461538461538,0.7142857142857143,11.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,GA_core_NMF,GA_core_NMF,User_core,3,3,0.1242197828657376,0.9951176730943044,0.0726120660599932,0.6666666666666666,0.3333333333333333,0.6666666666666666,2.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,GA_signaling,GA_signaling,Curated,10,10,-0.1348079744075339,0.2490879293490303,-0.1021516683518706,0.0,0.1,1.0,10.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,Gravitropism,Gravitropism,Curated,9,8,-0.0121108254067071,0.3705429682339957,-0.0378665318503538,0.25,0.25,0.5,8.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,5,-0.034615178580406,0.5109336137144809,-0.0499696663296258,0.2,0.2,0.5,4.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,4,0.0020671379557669,2.612549929165028,-0.0301314459049545,0.25,0.25,0.5,2.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,Hub_transporter_core,Hub_transporter_core,User_core,5,4,0.4962441957521536,0.7176062285200293,0.0820121334681496,0.25,0.0,1.0,3.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,Photoreceptors,Photoreceptors,Curated,10,10,0.0849774316629289,0.4639288356497876,-0.0706167846309403,0.1,0.2,0.6666666666666666,10.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ROS_core_NMF,ROS_core_NMF,User_core,10,9,0.650681632296942,1.4136485527349911,0.217108190091001,0.5555555555555556,0.1111111111111111,0.8333333333333334,7.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ROS_scavenging,ROS_scavenging,Curated,24,22,0.3431903658598697,0.939380330701164,0.0909697582498391,0.3636363636363636,0.0909090909090909,0.8,20.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,7,4.235409662055896,4.455709950285387,0.3109230102556695,0.7142857142857143,0.1428571428571428,0.8333333333333334,5.0,1.0,0.2
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ath00195,Photosynthesis,KEGG,46,46,1.3753214910535452,1.8613603693985183,0.181786169604783,0.6086956521739131,0.1521739130434782,0.8,41.0,1.0,0.024390243902439025
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ath00196,Photosynthesis - antenna proteins,KEGG,22,20,0.4266247761753337,1.5128475674464417,0.1169362992922143,0.5,0.2,0.7142857142857143,19.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,78,-0.082801928231916,0.6045291653373646,-0.0029371807834901,0.1923076923076923,0.1923076923076923,0.5,72.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,70,0.262833957935786,0.8463531944804994,0.0833121479127545,0.2571428571428571,0.1285714285714285,0.6666666666666666,64.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,19,0.4245827603488251,1.1541941114392618,0.0500601351710925,0.4210526315789473,0.2105263157894736,0.6666666666666666,15.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ath00966,Glucosinolate biosynthesis,KEGG,26,23,-0.5399347421457457,1.482651412345544,-0.1329071965533916,0.1304347826086956,0.391304347826087,0.75,22.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ath03410,Base excision repair,KEGG,50,50,-0.1256805411371936,0.3037511365000658,-0.0817524772497472,0.04,0.16,0.8,48.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ath03420,Nucleotide excision repair,KEGG,85,81,-0.0493325406430914,0.3311782429263813,-0.0760683568637731,0.0617283950617283,0.074074074074074,0.5454545454545454,75.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ath03430,Mismatch repair,KEGG,32,32,-0.1976481045756513,0.2582437867259142,-0.1406572295247725,0.0,0.15625,1.0,32.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ath03440,Homologous recombination,KEGG,60,57,-0.2236795949588752,0.2959943058563215,-0.1458215812534369,0.0,0.175438596491228,1.0,56.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ath03450,Non-homologous end-joining,KEGG,8,8,-0.3645965847188134,0.4269985395407831,-0.2084175935288169,0.0,0.375,1.0,8.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ath03460,Fanconi anemia pathway,KEGG,46,45,-0.3290698737019628,0.4018711604351409,-0.1974034378159757,0.0,0.3111111111111111,1.0,44.0,0.0,0.0
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ath04075,Plant hormone signal transduction,KEGG,433,369,0.313910748685526,0.866102204058213,0.0205639267717247,0.2710027100271002,0.1815718157181571,0.5988023952095808,310.0,3.0,0.00967741935483871
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,OSD-120,FLT_vs_GC_Dark,root_tip,dark,ath04712,Circadian rhythm - plant,KEGG,43,42,0.1024199181263117,0.9320695441215648,-0.045707544898647,0.1904761904761904,0.2142857142857142,0.5294117647058824,40.0,3.0,0.075
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ABA_biosynthesis,ABA_biosynthesis,Curated,8,7,0.0429426786857548,0.6613109181548709,0.0396071067456304,0.1428571428571428,0.1428571428571428,0.5,4.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ABA_signaling,ABA_signaling,Curated,16,15,0.2266407740185884,0.6604389858218364,0.1035726322885069,0.3333333333333333,0.1333333333333333,0.7142857142857143,14.0,1.0,0.07142857142857142
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,3,-0.7510589394356759,1.4462494897622105,0.0356589147286821,0.3333333333333333,0.3333333333333333,0.5,2.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,3,0.0415351031055082,0.0784224743560238,0.0313178294573643,0.0,0.0,,3.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,6,-0.6123392460656875,1.0782570889142984,-0.023700707785642,0.1666666666666666,0.1666666666666666,0.5,5.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,Circadian_core,Circadian_core,User_core,14,14,-0.28838809329681,1.2478510249204948,0.091581684240936,0.2857142857142857,0.1428571428571428,0.6666666666666666,14.0,4.0,0.2857142857142857
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,GA_biosynthesis,GA_biosynthesis,Curated,17,13,0.1858909038096028,1.1856722913123676,0.0572295247724974,0.5384615384615384,0.3076923076923077,0.6363636363636364,8.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,GA_core_NMF,GA_core_NMF,User_core,3,3,-0.2066288760817233,0.66598008497599,-0.071762723289518,0.3333333333333333,0.3333333333333333,0.5,2.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,GA_signaling,GA_signaling,Curated,10,10,0.1785355968567225,0.2478850886073554,0.1137310414560161,0.1,0.0,1.0,10.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,Gravitropism,Gravitropism,Curated,9,8,0.0016346597171211,0.2968843348652831,0.0118806875631951,0.125,0.125,0.5,8.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,5,0.3540590186404736,0.3540590186404736,0.2028675429726997,0.2,0.0,1.0,4.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,4,-0.2771257801060507,0.8487732535767243,0.0174772497472194,0.25,0.25,0.5,2.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,Hub_transporter_core,Hub_transporter_core,User_core,5,4,-0.0494819403457722,0.8587979105294128,0.1077957532861476,0.25,0.25,0.5,3.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,Photoreceptors,Photoreceptors,Curated,10,10,0.1422012427332857,0.4017017942639918,0.0958827098078867,0.2,0.1,0.6666666666666666,10.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ROS_core_NMF,ROS_core_NMF,User_core,10,9,-0.350440805471594,0.7328264901553359,-0.0590203347938433,0.2222222222222222,0.3333333333333333,0.6,7.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ROS_scavenging,ROS_scavenging,Curated,24,22,-0.0163247842389124,0.6090588348766439,0.0364436069491681,0.1818181818181818,0.2272727272727272,0.5555555555555556,20.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,7,0.870722543453507,1.704046861011158,0.1716654629495883,0.4285714285714285,0.1428571428571428,0.75,5.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ath00195,Photosynthesis,KEGG,46,46,-1.5196339401118342,1.728751454559967,-0.3016582406471183,0.0652173913043478,0.7391304347826086,0.918918918918919,34.0,2.0,0.058823529411764705
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ath00196,Photosynthesis - antenna proteins,KEGG,22,20,-1.776514714397918,2.146640844002833,-0.2711162790697674,0.1,0.65,0.8666666666666667,16.0,2.0,0.125
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,78,-0.3525689528745502,0.8198793239960712,-0.0103588188016903,0.1538461538461538,0.2051282051282051,0.5714285714285714,70.0,3.0,0.04285714285714286
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,70,-0.4601310062740339,0.9430671034634884,-0.0259225769175212,0.1571428571428571,0.2285714285714285,0.5925925925925926,58.0,3.0,0.05172413793103448
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,19,0.0736537710327592,1.1556967397711149,0.0702964184982172,0.4210526315789473,0.2631578947368421,0.6153846153846154,13.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ath00966,Glucosinolate biosynthesis,KEGG,26,23,0.7042120063921607,0.7764493041526875,0.2091739570053193,0.4347826086956521,0.0,1.0,22.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ath03410,Base excision repair,KEGG,50,50,-0.1522279412059324,0.3565101284866644,-0.0430697674418604,0.06,0.12,0.6666666666666666,48.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ath03420,Nucleotide excision repair,KEGG,85,81,-0.1711652369734684,0.4439043559906257,-0.0566812717672172,0.074074074074074,0.2222222222222222,0.75,74.0,2.0,0.02702702702702703
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ath03430,Mismatch repair,KEGG,32,32,0.0366964974699326,0.2808107991681864,0.0245955510616784,0.0625,0.09375,0.6,32.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ath03440,Homologous recombination,KEGG,60,57,0.0788483406571837,0.3226391980971412,0.0482255689780568,0.1403508771929824,0.087719298245614,0.6153846153846154,56.0,2.0,0.03571428571428571
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ath03450,Non-homologous end-joining,KEGG,8,8,-0.0151925968243005,0.1834609870725341,-0.012896865520728,0.0,0.0,,8.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ath03460,Fanconi anemia pathway,KEGG,46,45,0.0366297045267562,0.3038066402878627,0.0243608583305246,0.0888888888888888,0.0888888888888888,0.5,44.0,0.0,0.0
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ath04075,Plant hormone signal transduction,KEGG,433,369,-0.0877271555739747,0.7851055866934455,0.0067323211149199,0.2195121951219512,0.2466124661246612,0.5290697674418605,304.0,12.0,0.039473684210526314
+OSD-120|FLT_vs_GC_Light|root_tip|light,OSD-120,FLT_vs_GC_Light,root_tip,light,ath04712,Circadian rhythm - plant,KEGG,43,42,-0.5722423048964977,1.159736253924235,-0.0336896335885213,0.1666666666666666,0.238095238095238,0.5882352941176471,40.0,6.0,0.15
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ABA_biosynthesis,ABA_biosynthesis,Curated,8,7,0.0023385412744881,0.3992379657546734,0.0943760225706298,0.1428571428571428,0.1428571428571428,0.5,5.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ABA_signaling,ABA_signaling,Curated,16,14,0.0286856430800214,0.1649805365809004,0.0940153047421512,0.0714285714285714,0.0714285714285714,0.5,12.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,2,,,,,,,2.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,3,-0.1399892621149906,0.1399892621149906,-0.2111927736195028,0.0,0.0,,3.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,7,-0.3202572783127827,0.5254181521540578,0.0001578140499594,0.0,0.4285714285714285,1.0,6.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Circadian_core,Circadian_core,User_core,14,14,0.0765718119990019,0.1855598017270088,0.1277842907385697,0.0714285714285714,0.0,1.0,13.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,GA_biosynthesis,GA_biosynthesis,Curated,17,11,0.012839612021765,0.2095714117964533,0.0704281064773444,0.0909090909090909,0.0909090909090909,0.5,7.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,GA_core_NMF,GA_core_NMF,User_core,3,2,,,,,,,1.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,GA_signaling,GA_signaling,Curated,10,10,0.0289127923627913,0.0836074606486657,0.0795022093966994,0.0,0.0,,10.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Gravitropism,Gravitropism,Curated,9,8,-0.0404207653373087,0.1440511496063549,0.0444584723599963,0.0,0.125,1.0,8.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,5,-0.2953733022738214,0.5298122146582525,-0.0308639191992064,0.2,0.2,0.5,3.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,4,-0.062887138139443,0.0798681306960257,-0.0964018396609252,0.0,0.0,,4.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Hub_transporter_core,Hub_transporter_core,User_core,5,4,-0.2262388945243677,0.3402598078399647,0.0149697898818649,0.0,0.25,1.0,3.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Photoreceptors,Photoreceptors,Curated,10,10,0.0273181675114347,0.0735521564802645,0.0898773559383172,0.0,0.0,,10.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ROS_core_NMF,ROS_core_NMF,User_core,10,9,-0.0746521028806621,0.222020462672745,-0.0731180048296109,0.1111111111111111,0.1111111111111111,0.5,7.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ROS_scavenging,ROS_scavenging,Curated,24,22,-0.1278732746321402,0.2206105170513879,-0.0808294870428516,0.0454545454545454,0.1818181818181818,0.8,18.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,8,-0.4133413293178289,0.5429255512449547,-0.182867030390477,0.0,0.125,1.0,4.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath00195,Photosynthesis,KEGG,46,45,0.0132052973065721,0.074728667368752,0.0559373152573621,0.0,0.0,,44.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath00196,Photosynthesis - antenna proteins,KEGG,22,21,-0.0377770958007721,0.102879592993717,-0.0267349883410844,0.0,0.0,,21.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,77,0.0179836866320677,0.1665085336204957,0.0115057861247779,0.0129870129870129,0.0259740259740259,0.6666666666666666,72.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,70,-0.0297307446034091,0.1576743385892298,-0.0407250428352421,0.0285714285714285,0.0285714285714285,0.5,66.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,17,-0.1437429889955679,0.4158584278557744,0.0408048781781627,0.1176470588235294,0.1764705882352941,0.6,9.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath00966,Glucosinolate biosynthesis,KEGG,26,23,-0.4896771499714179,0.5347877038671252,-0.3347530063086412,0.0,0.5217391304347826,1.0,23.0,2.0,0.08695652173913043
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath03410,Base excision repair,KEGG,50,48,0.0241158294455532,0.229959500570466,-0.0199916584002164,0.0416666666666666,0.0416666666666666,0.5,44.0,1.0,0.022727272727272728
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath03420,Nucleotide excision repair,KEGG,85,78,-0.0025054183528957,0.2004992166005589,0.0003630301222509,0.0384615384615384,0.0256410256410256,0.6,71.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath03430,Mismatch repair,KEGG,32,32,-0.0529815767463436,0.1764089440670308,-0.0612050793579222,0.03125,0.0,1.0,30.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath03440,Homologous recombination,KEGG,60,57,-0.0348044647248118,0.1872637805946178,-0.0364012542855018,0.0526315789473684,0.0350877192982456,0.6,50.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath03450,Non-homologous end-joining,KEGG,8,8,-0.0869739913382701,0.128528687218247,-0.0715066732798268,0.0,0.125,1.0,7.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath03460,Fanconi anemia pathway,KEGG,46,44,0.0199864737663972,0.1879674080408742,0.0363023553234573,0.0454545454545454,0.0227272727272727,0.6666666666666666,40.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath04075,Plant hormone signal transduction,KEGG,433,376,-0.0041854419719939,0.218982229536279,0.0463925339084352,0.0425531914893617,0.0691489361702127,0.6190476190476191,309.0,0.0,0.0
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_40cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath04712,Circadian rhythm - plant,KEGG,43,41,-0.0283653876446544,0.1767417542187954,0.0574624600516002,0.024390243902439,0.073170731707317,0.75,37.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ABA_biosynthesis,ABA_biosynthesis,Curated,8,7,-0.094370711938825,0.138118176441607,-0.1389311157775401,0.0,0.0,,7.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ABA_signaling,ABA_signaling,Curated,16,14,0.0893359601336688,0.297680959124493,0.0415179779189157,0.0714285714285714,0.0714285714285714,0.5,14.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,2,,,,,,,2.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,3,-0.1215202725592827,0.133269154476236,-0.1412586046232001,0.0,0.0,,3.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,7,-0.102300615797457,0.2065635120599032,-0.0433602154000747,0.0,0.1428571428571428,1.0,7.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Circadian_core,Circadian_core,User_core,14,14,0.1692495881572045,0.2744606579809576,0.1921917472913955,0.0714285714285714,0.0,1.0,14.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,GA_biosynthesis,GA_biosynthesis,Curated,17,11,-0.1090401563234439,0.2710422412877895,-0.0626603759663548,0.0,0.0909090909090909,1.0,11.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,GA_core_NMF,GA_core_NMF,User_core,3,2,,,,,,,2.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,GA_signaling,GA_signaling,Curated,10,10,0.0004925123207659,0.120980736063871,0.0307557038506628,0.0,0.0,,10.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Gravitropism,Gravitropism,Curated,9,8,-0.058563480952455,0.1132107327082334,-0.0595860762918207,0.0,0.0,,8.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,5,-0.1282011627469839,0.2348409914564811,-0.0110244386328794,0.0,0.2,1.0,5.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,4,0.0672776902022081,0.1188077968867051,0.1336346830192082,0.0,0.0,,4.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Hub_transporter_core,Hub_transporter_core,User_core,5,4,0.0417199367012711,0.1358044500375123,0.0241906393723509,0.0,0.0,,4.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Photoreceptors,Photoreceptors,Curated,10,10,0.0281777585833853,0.0712640434880709,0.0745243033636937,0.0,0.0,,10.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ROS_core_NMF,ROS_core_NMF,User_core,10,9,-0.1746364487271318,0.2826660478166459,-0.1392095269586477,0.0,0.1111111111111111,1.0,9.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ROS_scavenging,ROS_scavenging,Curated,24,22,-0.0746829531911685,0.1924254218927164,-0.0489817919477943,0.0,0.0454545454545454,1.0,22.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,8,-0.2860392047307856,0.3521334534228672,-0.168201596176391,0.0,0.25,1.0,8.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath00195,Photosynthesis,KEGG,46,45,-0.1206918523367964,0.1577276269619466,-0.1529042795162373,0.0,0.0222222222222222,1.0,45.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath00196,Photosynthesis - antenna proteins,KEGG,22,21,-0.2445469035822442,0.2634008723756149,-0.2354016635962708,0.0,0.1904761904761904,1.0,21.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,77,-0.0372966540931372,0.1775964522765027,-0.0662962477147705,0.0129870129870129,0.0519480519480519,0.8,76.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,70,-0.0536481897066481,0.1762350347892453,-0.1096111977120183,0.0142857142857142,0.0142857142857142,0.5,70.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,17,-0.2942318722247495,0.4500736365128917,-0.0751659036777304,0.0,0.2941176470588235,1.0,17.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath00966,Glucosinolate biosynthesis,KEGG,26,23,-0.4040013735832782,0.4586561435260315,-0.324372566624975,0.0,0.3478260869565217,1.0,23.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath03410,Base excision repair,KEGG,50,48,0.0944888820328305,0.2304014762343035,0.0474813629121952,0.0833333333333333,0.0,1.0,48.0,1.0,0.020833333333333332
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath03420,Nucleotide excision repair,KEGG,85,78,0.0239288109609641,0.1557235055552651,0.0319691956223654,0.0384615384615384,0.0128205128205128,0.75,78.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath03430,Mismatch repair,KEGG,32,32,-0.0029541014687304,0.1857026757062259,-0.0017387726575886,0.03125,0.03125,0.5,32.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath03440,Homologous recombination,KEGG,60,57,0.0193861127547682,0.2151586857850463,0.0163110115445526,0.0526315789473684,0.0526315789473684,0.5,57.0,1.0,0.017543859649122806
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath03450,Non-homologous end-joining,KEGG,8,8,0.0047839020285649,0.1356302744832888,0.0714841284155469,0.0,0.0,,8.0,0.0,0.0
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath03460,Fanconi anemia pathway,KEGG,46,44,0.0277285186622078,0.2535280363051768,0.0276881676354126,0.0681818181818181,0.0681818181818181,0.5,44.0,1.0,0.022727272727272728
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath04075,Plant hormone signal transduction,KEGG,433,376,0.0472462762952381,0.2013883109083434,0.0454962556338177,0.0611702127659574,0.0319148936170212,0.6571428571428571,376.0,1.0,0.0026595744680851063
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,OSD-658,GCR_80cGy_vs_NoRad,whole_seedling,16h_8h_photoperiod_300umol,ath04712,Circadian rhythm - plant,KEGG,43,41,-0.0087179306231615,0.1937137244479553,0.0636243563716185,0.0,0.048780487804878,1.0,41.0,0.0,0.0
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ABA_biosynthesis,ABA_biosynthesis,Curated,8,7,1.4073313428637089,1.6030261191899116,0.214446136166092,0.5714285714285714,0.0,1.0,7.0,2.0,0.2857142857142857
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ABA_signaling,ABA_signaling,Curated,16,15,-0.1669206107272837,0.7475839983891828,0.0584616222249445,0.3333333333333333,0.1333333333333333,0.7142857142857143,14.0,2.0,0.14285714285714285
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,3,1.295366213661432,2.445872351873481,-0.0546095525882369,0.3333333333333333,0.6666666666666666,0.6666666666666666,3.0,0.0,0.0
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,3,-0.39911968265532,0.39911968265532,-0.1895681054078702,0.0,0.3333333333333333,1.0,3.0,1.0,0.3333333333333333
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,7,-0.3969686149140571,0.3969686149140571,-0.1849197598921965,0.0,0.4285714285714285,1.0,6.0,1.0,0.16666666666666666
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,Circadian_core,Circadian_core,User_core,14,14,0.3904627774704156,0.7228148916957792,0.1600310343419494,0.3571428571428571,0.1428571428571428,0.7142857142857143,14.0,3.0,0.21428571428571427
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,GA_biosynthesis,GA_biosynthesis,Curated,17,14,-1.7301374561680951,2.0028005960925634,-0.1959042835558822,0.0714285714285714,0.5714285714285714,0.8888888888888888,13.0,2.0,0.15384615384615385
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,GA_core_NMF,GA_core_NMF,User_core,3,2,,,,,,,2.0,1.0,0.5
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,GA_signaling,GA_signaling,Curated,10,10,-0.0496130582666759,0.3584111065955581,0.0043652252031524,0.1,0.1,0.5,10.0,1.0,0.1
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,Gravitropism,Gravitropism,Curated,9,8,0.1536628869774552,0.32566125674904,0.1186451059659439,0.25,0.0,1.0,8.0,2.0,0.25
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,5,-1.5372665534095864,1.5595541382941804,-0.2074564089999591,0.0,0.6,1.0,5.0,0.0,0.0
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,5,-0.6985285685074922,1.316462790446868,0.0174200661521499,0.2,0.4,0.6666666666666666,4.0,1.0,0.25
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,Hub_transporter_core,Hub_transporter_core,User_core,5,4,1.3691688129454138,1.5600053371425462,0.0749928539344195,0.25,0.0,1.0,4.0,0.0,0.0
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,Photoreceptors,Photoreceptors,Curated,10,10,0.1911181762225292,0.3482512514524333,0.1568377638939932,0.2,0.1,0.6666666666666666,10.0,2.0,0.2
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ROS_core_NMF,ROS_core_NMF,User_core,10,9,-0.3646721215297852,0.6475423762386227,-0.0915059369059124,0.1111111111111111,0.4444444444444444,0.8,9.0,1.0,0.1111111111111111
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ROS_scavenging,ROS_scavenging,Curated,24,22,-0.0586407736012269,0.7876392050860163,0.0202558477089899,0.3181818181818182,0.3636363636363636,0.5333333333333333,22.0,6.0,0.2727272727272727
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,9,-0.1018715323321302,1.0219703969908285,0.088622556159001,0.4444444444444444,0.3333333333333333,0.5714285714285714,8.0,0.0,0.0
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ath00195,Photosynthesis,KEGG,46,45,1.3218210277930589,1.5132068688157545,0.3341010249499775,0.8,0.0888888888888888,0.9,44.0,30.0,0.6818181818181818
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ath00196,Photosynthesis - antenna proteins,KEGG,22,22,2.960611801501301,3.07947620346478,0.4026854357615107,0.8636363636363636,0.0454545454545454,0.95,19.0,15.0,0.7894736842105263
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,78,0.307840368408548,0.8173782765414018,0.1413284980907178,0.3717948717948718,0.1538461538461538,0.7073170731707317,78.0,17.0,0.21794871794871795
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,70,0.1597684296654235,0.8992842244442425,0.0790809867987376,0.3285714285714285,0.2428571428571428,0.575,70.0,21.0,0.3
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,22,-1.8599359274782603,2.1379887143526517,-0.1532858908823627,0.0909090909090909,0.5,0.8461538461538461,20.0,2.0,0.1
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ath00966,Glucosinolate biosynthesis,KEGG,26,24,0.1963156084697791,0.4495678948719959,0.1168858126778008,0.1666666666666666,0.125,0.5714285714285714,24.0,1.0,0.041666666666666664
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ath03410,Base excision repair,KEGG,50,50,-0.1163964889854504,0.4123014554432906,0.0238944015680509,0.1,0.14,0.5833333333333334,49.0,3.0,0.061224489795918366
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ath03420,Nucleotide excision repair,KEGG,85,81,0.0083389229386623,0.4865839141563666,0.0380843704580892,0.1358024691358024,0.0864197530864197,0.6111111111111112,79.0,7.0,0.08860759493670886
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ath03430,Mismatch repair,KEGG,32,32,-0.1732456889421298,0.2782657195569985,-0.0457654457103189,0.0,0.1875,1.0,32.0,0.0,0.0
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ath03440,Homologous recombination,KEGG,60,60,-0.0044797201636712,0.4251498278146864,0.0091279077681135,0.1,0.15,0.6,60.0,2.0,0.03333333333333333
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ath03450,Non-homologous end-joining,KEGG,8,8,-0.0196092697364013,0.1552165009270316,0.0510637429049777,0.0,0.0,,8.0,0.0,0.0
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ath03460,Fanconi anemia pathway,KEGG,46,46,-0.1154494818850935,0.3779546667383066,-0.0066205412545472,0.108695652173913,0.217391304347826,0.6666666666666666,46.0,4.0,0.08695652173913043
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ath04075,Plant hormone signal transduction,KEGG,433,398,-0.2642486214309886,0.9123609859846112,-0.0170473934456471,0.14321608040201,0.2462311557788944,0.632258064516129,379.0,35.0,0.09234828496042216
+OSD-678|FLT_vs_GC_Dark|leaf|dark,OSD-678,FLT_vs_GC_Dark,leaf,dark,ath04712,Circadian rhythm - plant,KEGG,43,43,0.202606167194142,0.4915915704586155,0.1123057623403768,0.2093023255813953,0.1395348837209302,0.6,43.0,8.0,0.18604651162790697
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ABA_biosynthesis,ABA_biosynthesis,Curated,8,7,-0.6430728760095236,1.6706578257979807,-0.1177204925826756,0.2857142857142857,0.4285714285714285,0.6,7.0,3.0,0.42857142857142855
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ABA_signaling,ABA_signaling,Curated,16,15,0.8270615272691889,2.130882945055996,0.1064777383042726,0.6,0.3333333333333333,0.6428571428571429,14.0,9.0,0.6428571428571429
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,Auxin_transporters_ABCB,Auxin_transporters_ABCB,Curated,3,3,-0.041040351903186,0.8230240575949926,-0.0559162617229504,0.3333333333333333,0.6666666666666666,0.6666666666666666,3.0,1.0,0.3333333333333333
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,Auxin_transporters_AUX_LAX,Auxin_transporters_AUX_LAX,Curated,3,3,-0.5519926779369507,0.8943693347934639,-0.1573495583050893,0.3333333333333333,0.6666666666666666,0.6666666666666666,3.0,2.0,0.6666666666666666
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,Auxin_transporters_PIN,Auxin_transporters_PIN,Curated,7,7,-1.6559700282692245,2.005721141112901,-0.2730672080175939,0.1428571428571428,0.7142857142857143,0.8333333333333334,6.0,3.0,0.5
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,Circadian_core,Circadian_core,User_core,14,14,0.775354507990963,0.9977600078664992,0.1909778734475536,0.5714285714285714,0.1428571428571428,0.8,14.0,9.0,0.6428571428571429
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,GA_biosynthesis,GA_biosynthesis,Curated,17,14,-0.6877851615034102,0.9887047709622392,-0.1539029185115182,0.0714285714285714,0.4285714285714285,0.8571428571428571,13.0,3.0,0.23076923076923078
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,GA_core_NMF,GA_core_NMF,User_core,3,2,,,,,,,2.0,0.0,0.0
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,GA_signaling,GA_signaling,Curated,10,10,0.5259487044591605,0.6681311880402786,0.1683490546776103,0.5,0.1,0.8333333333333334,10.0,5.0,0.5
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,Gravitropism,Gravitropism,Curated,9,8,-0.2857615193026741,0.530906098150026,-0.0915666217485401,0.125,0.375,0.75,8.0,4.0,0.5
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,Hormone_transporters_ABCG,Hormone_transporters_ABCG,Curated,5,5,2.18858581355873,2.724993435986118,0.204058965249704,0.8,0.2,0.8,5.0,4.0,0.8
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,Hormone_transporters_NPF,Hormone_transporters_NPF,Curated,6,5,-0.2816893113042634,0.7624132206962794,-0.1017681407979093,0.2,0.4,0.6666666666666666,4.0,2.0,0.5
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,Hub_transporter_core,Hub_transporter_core,User_core,5,4,0.0770983080889215,2.315912199340582,0.1055984319490383,0.5,0.25,0.6666666666666666,4.0,2.0,0.5
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,Photoreceptors,Photoreceptors,Curated,10,10,0.0498519539553063,0.4855248171012419,0.0232267548695332,0.3,0.2,0.6,10.0,5.0,0.5
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ROS_core_NMF,ROS_core_NMF,User_core,10,9,0.7098884950963377,1.2700685637856692,0.0637156818707719,0.3333333333333333,0.2222222222222222,0.6,9.0,3.0,0.3333333333333333
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ROS_scavenging,ROS_scavenging,Curated,24,22,0.806418885009133,1.571483375789671,0.0840117455332449,0.4545454545454545,0.2272727272727272,0.6666666666666666,22.0,10.0,0.45454545454545453
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,Sugar_transporters_SWEET,Sugar_transporters_SWEET,Curated,11,9,1.9155822068803037,2.83696548118484,0.1926896883407969,0.5555555555555556,0.1111111111111111,0.8333333333333334,8.0,4.0,0.5
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ath00195,Photosynthesis,KEGG,46,45,-1.6981775602027,1.7478892145714202,-0.3659257444385461,0.0444444444444444,0.9111111111111112,0.9534883720930232,44.0,38.0,0.8636363636363636
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ath00196,Photosynthesis - antenna proteins,KEGG,22,22,-1.97113394786435,2.015638420379354,-0.3856722313172147,0.0,0.9545454545454546,1.0,19.0,16.0,0.8421052631578947
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ath00630,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),KEGG,80,78,-0.2856983001806483,1.268824191710407,-0.0524495037541711,0.282051282051282,0.4358974358974359,0.6071428571428571,78.0,42.0,0.5384615384615384
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ath00710,Carbon fixation in photosynthetic organisms,KEGG,70,70,-0.5482807919057284,1.1689586707916315,-0.1042164703686202,0.1857142857142857,0.4428571428571428,0.7045454545454546,70.0,40.0,0.5714285714285714
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ath00904,Diterpenoid biosynthesis (GA biosynthesis),KEGG,25,22,-0.9945866020427292,1.418406839701667,-0.1812576332973245,0.0909090909090909,0.5,0.8461538461538461,20.0,4.0,0.2
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ath00966,Glucosinolate biosynthesis,KEGG,26,24,-1.0838100797302794,1.4014354663301338,-0.2408360216151469,0.0416666666666666,0.6666666666666666,0.9411764705882352,24.0,12.0,0.5
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ath03410,Base excision repair,KEGG,50,50,-0.5264844904892496,0.5788625953508084,-0.1730826085181101,0.02,0.36,0.9473684210526316,49.0,10.0,0.20408163265306123
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ath03420,Nucleotide excision repair,KEGG,85,81,-0.0805018216525387,0.6589270173922245,-0.0284531881030989,0.1728395061728395,0.2592592592592592,0.6,79.0,24.0,0.3037974683544304
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ath03430,Mismatch repair,KEGG,32,32,-0.6957570632546385,0.7886759164379908,-0.2037445383641635,0.03125,0.46875,0.9375,32.0,7.0,0.21875
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ath03440,Homologous recombination,KEGG,60,60,-0.5393029652364109,1.0341244570257582,-0.1332353301482297,0.0833333333333333,0.45,0.84375,60.0,14.0,0.23333333333333334
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ath03450,Non-homologous end-joining,KEGG,8,8,-0.0864452517546768,0.2125614853984681,-0.0548052186696067,0.0,0.0,,8.0,0.0,0.0
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ath03460,Fanconi anemia pathway,KEGG,46,46,-0.888496967088563,1.093948753852659,-0.1781696129761898,0.0869565217391304,0.5217391304347826,0.8571428571428571,46.0,14.0,0.30434782608695654
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ath04075,Plant hormone signal transduction,KEGG,433,398,0.0403045103903992,1.2714360778911526,-0.0093347213013903,0.321608040201005,0.3190954773869346,0.5019607843137255,379.0,160.0,0.42216358839050133
+OSD-678|FLT_vs_GC_Light|leaf|light,OSD-678,FLT_vs_GC_Light,leaf,light,ath04712,Circadian rhythm - plant,KEGG,43,43,-0.0027653175825743,1.0750396261804975,0.0601361598515517,0.3488372093023256,0.2325581395348837,0.6,43.0,22.0,0.5116279069767442

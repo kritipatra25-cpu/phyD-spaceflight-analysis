@@ -1,0 +1,7 @@
+condition,short,study,tissue,light,dose,dim1,dim2,recon_mse_full
+OSD-120|FLT_vs_GC_Dark|root_tip|dark,120_root_FLT_Dark,OSD-120,root_tip,dark,,8.902978,-1.2668836,0.005758149549365044
+OSD-120|FLT_vs_GC_Light|root_tip|light,120_root_FLT_Light,OSD-120,root_tip,light,,-6.638708,-16.738638,0.005758149549365044
+OSD-658|GCR_40cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,658_40cGy,OSD-658,seedling,light,40cGy,-0.8880571,-0.4612623,0.005758149549365044
+OSD-658|GCR_80cGy_vs_NoRad|whole_seedling|16h_8h_photoperiod_300umol,658_80cGy,OSD-658,seedling,light,80cGy,-2.864117,0.05846583,0.005758149549365044
+OSD-678|FLT_vs_GC_Dark|leaf|dark,678_leaf_FLT_Dark,OSD-678,leaf,dark,,-12.919599,-8.179961,0.005758149549365044
+OSD-678|FLT_vs_GC_Light|leaf|light,678_leaf_FLT_Light,OSD-678,leaf,light,,-5.6759896,10.724943,0.005758149549365044

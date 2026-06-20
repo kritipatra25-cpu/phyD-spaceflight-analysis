@@ -1,0 +1,11 @@
+tissue,feature_name,GCR,µg,pattern
+hypocotyl,Cortex_hypocotyl_shoot,modestly_suppressed,rewired,GCR_only:modestly_suppressed
+hypocotyl,E.hypocotyl_epidermis_shoot,modestly_suppressed,rewired,GCR_only:modestly_suppressed
+hypocotyl,hypocotyl_axis_composite,modestly_suppressed,rewired,GCR_only:modestly_suppressed
+vascular,Liew_provasculature,modestly_suppressed,rewired,GCR_only:modestly_suppressed
+vascular,Liew_xylem,modestly_suppressed,suppressed,"common:µg,GCR"
+vascular,Phloem_root,modestly_suppressed,modestly_activated,"divergent:µg,GCR"
+vascular,Procambium_root,modestly_suppressed,modestly_suppressed,"common:µg,GCR"
+vascular,Vasculature_shoot,modestly_suppressed,modestly_suppressed,"common:µg,GCR"
+vascular,Xylem_root,modestly_suppressed,suppressed,"common:µg,GCR"
+vascular,vascular_composite,modestly_suppressed,modestly_suppressed,"common:µg,GCR"

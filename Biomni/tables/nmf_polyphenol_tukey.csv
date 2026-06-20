@@ -1,0 +1,5 @@
+tissue,time,NNMF_minus_GMF,tukey_sig,tukey_flag
+shoot,48h,-446.6039,p<0.001,***
+root,48h,-188.4949,p<0.001,***
+shoot,96h,79.4147,p<0.001,***
+root,96h,34.744,p<0.001,***

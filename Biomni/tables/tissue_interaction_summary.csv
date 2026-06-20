@@ -1,0 +1,15 @@
+tissue_a,tissue_b,edge_count,intra_tissue
+hypocotyl,vascular,200,False
+hypocotyl,root,145,False
+vascular,vascular,144,True
+root,vascular,106,False
+hypocotyl,hypocotyl,105,True
+meristematic,vascular,86,False
+hypocotyl,meristematic,74,False
+meristematic,root,59,False
+root,root,49,True
+meristematic,meristematic,25,True
+meristematic,other,9,False
+other,root,8,False
+other,vascular,8,False
+hypocotyl,other,7,False

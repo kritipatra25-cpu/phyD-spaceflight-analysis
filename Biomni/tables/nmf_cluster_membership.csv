@@ -1,0 +1,198 @@
+cluster_letter,tair_id,subcellular,gene_code,gene_function
+unassigned,AT1G01980,Chloroplast,"OGOX4, OLIGOGALACTURONIDE OXIDASE 4",FAD-binding domain-containing protein 
+unassigned,AT1G02590,Cytoplasm,Aldehyde oxidase/xanthine dehydrogenase,"iron ion binding, oxidoreductase activity"
+unassigned,AT1G03990,Unknown,Long-chain fatty alcohol dehydrogenase family protein,FAD-binding domain-containing protein 
+unassigned,AT1G04580,Cytoplasm,"AAO4, ALDEHYDE OXIDASE 2",FAD-binding domain-containing protein 
+A,AT1G05240,Extracellular,"PRX01, PATHOGENESIS RELATED 9, PR9, ",peroxidase family protein
+A,AT1G05250,Extracellular,"PRX2, ATPRX1, PEROXIDASE 2 ",peroxidase family protein
+A,AT1G05260,Extracellular,"PER3, PEROXIDASE 3",peroxidase family protein
+C,AT1G07890,Chloroplast,"APX1, ASCORBATE PEROXIDASE 1","L-ascorbate peroxidase activity, heme binding, p-coumarate 3-hydroxylase activity, peroxidase activity,"
+C,AT1G08830,Cytoplasm,"SOD1, COPPER/ZINC SUPEROXIDE DISMUTASE 1",superoxide dismutase [Cu-Zn] (SODCC) / copper/zinc superoxide dismutase (CSD1) identical to SWISS-PROT: P24704 [At1g08830.1]
+B,AT1G11770,Chloroplast,"OGOX3, OLIGOGALACTURONIDE OXIDASE 3",FAD-binding domain-containing protein 
+C,AT1G12520,Chloroplast,"CCS, COPPER CHAPERONE FOR SOD1","copper ion binding, superoxide dismutase copper chaperone activity"
+unassigned,AT1G12570,Extracellular,IPE1 ortholog,FAD-binding domain-containing protein 
+B,AT1G14430,Extracellular,"GOXL5, GALACTOSE OXIDASE-LIKE 5",glyoxal oxidase-related
+unassigned,AT1G14540,Extracellular,"PER4, PEROXIDASE 4, PRX4",peroxidase family protein
+unassigned,AT1G14550,Extracellular,Peroxidase superfamily protein,peroxidase family protein
+unassigned,AT1G15020,Extracellular,"QSOX1, QUIESCIN-SULFHYDRYL OXIDASE 1"," flavin-linked sulfhydryl oxidase activity, protein disulfide isomerase activity, thiol oxidase activity"
+unassigned,AT1G15550,Cytoplasm,"GA3OX1, GA4, GIBBERELLIN 3-OXIDASE 1","dioxygenase activity, gibberellin 3-beta-dioxygenase activity, protein binding, transcription factor binding"
+unassigned,AT1G17010,Cytoplasm,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase,dioxygenase activity
+E,AT1G18490,Unknown,"PCO3, PLANT CYSTEINE OXIDASE 3","cysteine dioxygenase activity, iron ion binding"
+A,AT1G19900,Extracellular,"RUBY, RUBY PARTICLES IN MUCILAGE",galactose oxidase activity
+unassigned,AT1G20630,Cytoplasm,"CAT1, CATALASE 1","catalase activity, cobalt ion binding, heme binding, protein binding"
+B,AT1G21850,Extracellular,"SKS8, SKU5 SIMILAR 8","copper ion binding, oxidoreductase activity"
+A,AT1G21860,Extracellular,"SKS7, SKU5 SIMILAR 7","copper ion binding, oxidoreductase activity"
+B,AT1G24110,Extracellular,Peroxidase superfamily protein,peroxidase family protein
+unassigned,AT1G25460,Unknown,NAD(P)-binding Rossmann-fold superfamily protein,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+unassigned,AT1G26380,Cytoplasm,"ATBBE3, FOX1, FAD-LINKED OXIDOREDUCTASE 1",FAD-binding domain-containing protein 
+C,AT1G26390,Cytoplasm,ATBBE4 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+C,AT1G26400,Cell wall,ATBBE5 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+C,AT1G26410,Cytoplasm,ATBBE6 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+B,AT1G28030,Cytoplasm,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase,dioxygenase activity
+unassigned,AT1G30700,Chloroplast,ATBBE8 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+unassigned,AT1G30710,Chloroplast,ATBBE9 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+unassigned,AT1G30720,Chloroplast,ATBBE10 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+unassigned,AT1G30730,Cytoplasm,ATBBE11 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+E,AT1G30740,Chloroplast,ATBBE12 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+unassigned,AT1G30760,Cytoplasm,"ATBBE-LIKE 13, BERBERINE BRIDGE ENZYME-LIKE 13",FAD-binding domain-containing protein 
+A,AT1G30870,Extracellular,"PER7, PEROXIDASE7",peroxidase family protein
+unassigned,AT1G31670,Extracellular,Copper amine oxidase family protein,"aminoacetone:oxygen oxidoreductase(deaminating) activity, copper ion binding,"
+unassigned,AT1G31690,Chloroplast,"COPPER AMINE OXIDASE ALPHA 2, CUAOALPHA2","aliphatic amine oxidase activity, aminoacetone:oxygen oxidoreductase(deaminating) activity, copper ion binding,"
+B,AT1G32300,Extracellular,"GULLO1, L -GULONO-1,4-LACTONE ( L -GULL) OXIDASE 1",FAD-binding domain-containing protein 
+D,AT1G32350,Mitochondrion,"AOX1D, ALTERNATIVE OXIDASE 1D","alternative oxidase activity, superoxide-generating NADPH oxidase activity, ubiquinol:oxygen oxidoreductase activity"
+B,AT1G32710,Mitochondrion,"Cytochrome c oxidase, subunit Vib family protein",cytochrome c oxidase subunit VIb family contains similarity to subunit 6b of cytochrome c oxidase [Arabidopsis thaliana] GI:6518353; contains Pfam profile PF02297: Cytochrome oxidase c subunit VIb [At1g32710.1]
+A,AT1G33660,Unknown,peroxidase family protein,peroxidase family protein
+A,AT1G34510,Extracellular,peroxidase family protein,peroxidase family protein
+unassigned,AT1G34575,Chloroplast,ATBBE14 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+unassigned,AT1G48130,Nucleus,"PER1, 1-CYSTEINE PEROXIREDOXIN 1",peroxidase family protein
+A,AT1G48700,Mitochondrion,"CP5, CUPULIFORMIS5","oxidoreductase, 2OG-Fe(II) oxygenase"
+A,AT1G49390,Cytoplasm,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase,dioxygenase activity
+A,AT1G49570,Extracellular,peroxidase family protein,peroxidase family protein
+unassigned,AT1G50780,Unknown,2Fe-2S ferredoxin-like superfamily protein,"DNA-binding transcription factor activity, RNA polymerase II-specific"
+D,AT1G50960,Chloroplast,"GA2OX7, GIBBERELLIN 2-OXIDASE 7","C-20 gibberellin 2-beta-dioxygenase activity, dioxygenase activity, protein binding"
+B,AT1G52790,Cytoplasm,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase,dioxygenase activity
+unassigned,AT1G52800,Cytoplasm,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase,dioxygenase activity
+unassigned,AT1G52810,Cytoplasm,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase,dioxygenase activity
+A,AT1G55290,Cytoplasm,"2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase.
+F6'H2",dioxygenase activity
+unassigned,AT1G55560,Extracellular,"SKS14, SKU5 SIMILAR 14","copper ion binding, oxidoreductase activity"
+B,AT1G55570,Extracellular,"SKS12, SKU5 SIMILAR 12","copper ion binding, oxidoreductase activity"
+unassigned,AT1G60740,Cytoplasm,"PEROXIREDOXIN IID, PRXIID",peroxidase family protein
+B,AT1G60980,Cytoplasm,"GA20OX4, GIBBERELLIN 20-OXIDASE 4","dioxygenase activity, gibberellin 20-oxidase activity"
+unassigned,AT1G65970,Cytoplasm,"PEROXIREDOXIN IIC, PRXIIC",peroxidase family protein
+B,AT1G65990,Cytoplasm,"PEROXIREDOXIN IIA, PRXIIA",peroxidase family protein
+A,AT1G67270,Nucleus,Zinc-finger domain of monoamine-oxidase A repressor R1 protein,regulation of DNA-templated transcription
+E,AT1G75450,Extracellular,"CKX5, CYTOKININ OXIDASE 5",FAD-binding domain-containing protein 
+B,AT1G75790,Extracellular,"SKS18, SKU5 SIMILAR 18","copper ion binding, oxidoreductase activity"
+unassigned,AT1G77100,Extracellular,peroxidase family protein,peroxidase family protein
+unassigned,AT2G06960,Cytoplasm,"2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase.
+F6'H2",dioxygenase activity
+unassigned,AT2G07785,Unknown,NADH dehydrogenase family protein,NADH-ubiquinone oxidoreductase
+unassigned,AT2G18140,Extracellular,peroxidase family protein,peroxidase family protein
+unassigned,AT2G18150,Extracellular,peroxidase family protein,peroxidase family protein
+unassigned,AT2G19500,Extracellular,"CKX2, CYTOKININ OXIDASE 2",FAD-binding domain-containing protein 
+C,AT2G22650,Chloroplast,FAD-dependent oxidoreductase family protein,FAD-binding domain-containing protein 
+A,AT2G23630,Extracellular,"SKS16, SKU5 SIMILAR 16","copper ion binding, oxidoreductase activity"
+unassigned,AT2G27150,Chloroplast,"AAO3, ABSCISIC ALDEHYDE OXIDASE 3",FAD-binding domain-containing protein 
+C,AT2G28190,Chloroplast,"SOD2, SUPEROXIDE DISMUTASE 2","superoxide dismutase [Cu-Zn], chloroplast (SODCP) / copper/zinc superoxide dismutase "
+B,AT2G34555,Cytoplasm,"GA2OX3, GIBBERELLIN 2-OXIDASE 3","dioxygenase activity, gibberellin 20-oxidase activity"
+unassigned,AT2G34790,Chloroplast,ATBBE15 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+unassigned,AT2G34810,Cytoplasm,ATBBE16 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+unassigned,AT2G35380,Unknown,peroxidase family protein,peroxidase family protein
+D,AT2G38240,Cytoplasm,"AO4, JASMONATE-INDUCED OXYGENASE4","dioxygenase activity, jasmonic acid hydrolase"
+B,AT2G38960,Endoplasmic reticulum,"AERO2, ENDOPLASMIC RETICULUM OXIDOREDUCTINS 2",FAD-binding domain-containing protein 
+unassigned,AT2G39040,Extracellular,peroxidase family protein,peroxidase family protein
+unassigned,AT2G41510,Extracellular,"CKX1, CYTOKININ OXIDASE/DEHYDROGENASE 1",FAD-binding domain-containing protein 
+A,AT2G43480,Extracellular,peroxidase family protein,peroxidase family protein
+B,AT2G44800,Cytoplasm,"2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase.
+F6'H2",dioxygenase activity
+A,AT2G46740,Extracellular,"GULLO5, L -GULONO-1,4-LACTONE ( L -GULL) OXIDASE 5",FAD-binding domain-containing protein 
+unassigned,AT2G46750,Extracellular,"GULLO2, L -GULONO-1,4-LACTONE ( L -GULL) OXIDASE 2",FAD-binding domain-containing protein 
+unassigned,AT2G46760,Chloroplast,"GULLO6, L -GULONO-1,4-LACTONE ( L -GULL) OXIDASE 6",FAD-binding domain-containing protein 
+D,AT2G48080,Nucleus,"oxidoreductase, 2OG-Fe(II) oxygenase family protein, ALKBH10A","oxidoreductase, 2OG-Fe(II) oxygenase family protein"
+unassigned,AT3G01190,Extracellular,peroxidase family protein,peroxidase family protein
+D,AT3G03080,Cytoplasm,Zinc-binding dehydrogenase family protein,2-alkenal reductase [NAD(P)+] activity
+unassigned,AT3G03670,Extracellular,peroxidase family protein,peroxidase family protein
+unassigned,AT3G04390,Unknown,Aldehyde oxidase/xanthine dehydrogenase,"iron ion binding, oxidoreductase activity"
+A,AT3G09640,Chloroplast,"APX2, ASCORBATE PEROXIDASE 1B, ASCORBATE PEROXIDASE 2","cellular response to oxidative stress, hydrogen peroxide catabolic process, response to reactive oxygen species"
+E,AT3G11180,Cytoplasm,"JAO 1, JASMONATE-INDUCED OXYGENASE1, JASMONIC ACID OXIDASE 1, JOX1","oxidoreductase, 2OG-Fe(II) oxygenase family protein, regulation of jasmonic acid mediated signaling pathway"
+unassigned,AT3G12900,Cytoplasm,"S8H, SCOPOLETIN 8- HYDROXYLASE","2-oxoglutarate-dependent dioxygenase activity, S8H hydroxylates scopoletin to generate fraxetin (8-hydroxyscopoletin)"
+E,AT3G13390,Extracellular,"SKS11, SKU5 SIMILAR 11","copper ion binding, oxidoreductase activity"
+unassigned,AT3G13400,Extracellular,"SKS13, SKU5-SIMILAR 13","copper ion binding, oxidoreductase activity"
+unassigned,AT3G14140,Cytoplasm,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase,dioxygenase activity
+unassigned,AT3G14160,Nucleus,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase,dioxygenase activity
+A,AT3G22360,Mitochondrion,"AOX1B, ALTERNATIVE OXIDASE 1B,","alternative oxidase activity, superoxide-generating NADPH oxidase activity, ubiquinol:oxygen oxidoreductase activity"
+C,AT3G22370,Mitochondrion,"AOX1A, ALTERNATIVE OXIDASE 1A,","alternative oxidase activity, superoxide-generating NADPH oxidase activity, ubiquinol:oxygen oxidoreductase activity"
+unassigned,AT3G25760,Chloroplast,"ALLENE OXIDE CYCLASE 1, AOC1, EARLY-RESPONSIVE TO DEHYDRATION 12, ERD12",catalyzes an essential step in jasmonic acid biosynthesis
+B,AT3G28490,Extracellular,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase.,dioxygenase activity
+B,AT3G42570,Unknown,peroxidase family protein,peroxidase family protein
+unassigned,AT3G43600,Chloroplast,"AAO2, ALDEHYDE OXIDASE 2",FAD-binding domain-containing protein 
+B,AT3G45810,Nucleus,"RBOHJ, RESPIRATORY BURST OXIDASE HOMOLOG J","NAD(P)H oxidase H2O2-forming activity, calcium ion binding, ferric-chelate reductase activity"
+unassigned,AT3G46480,Cytoplasm,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase,dioxygenase activity
+unassigned,AT3G46490,Cytoplasm,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase,dioxygenase activity
+unassigned,AT3G46500,Cytoplasm,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase,dioxygenase activity
+unassigned,AT3G47190,Cytoplasm,"GA2OX10, GIBBERELLIN 2-OXIDASE 10","C-20 gibberellin 2-beta-dioxygenase activity, dioxygenase activity"
+D,AT3G50990,Extracellular,"PER36, PEROXIDASE 36, PRX36",peroxidase family protein
+unassigned,AT3G55970,Cytoplasm,"JAO3, JASMONATE-INDUCED OXYGENASE3","dioxygenase activity, jasmonic acid hydrolase"
+D,AT3G56350,Mitochondrion,"MSD2, superoxide dismutase",Iron/manganese superoxide dismutase family protein
+unassigned,AT3G56840,Mitochondrion,"L-2HGDH, L-2-HYDROXYGLUTARATE DEHYDROGENASE",FAD-binding domain-containing protein 
+D,AT3G57620,Cytoplasm,"GOXL4, GALACTOSE OXIDASE-LIKE 4",may function in tissues that require mechanical reinforcements in the absence of lignification.
+B,AT3G59845,Cytoplasm,Zinc-binding dehydrogenase family protein,2-alkenal reductase [NAD(P)+] activity
+unassigned,AT3G63440,Extracellular,"CKX6, CYTOKININ OXIDASE 6",FAD-binding domain-containing protein 
+unassigned,AT4G10490,Chloroplast,"DLO2, DMR6-LIKE OXYGENASE 2",2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+unassigned,AT4G12270,Extracellular,Copper amine oxidase family protein,"aminoacetone:oxygen oxidoreductase(deaminating) activity, copper ion binding,"
+unassigned,AT4G12280,Nucleus,Copper amine oxidase family protein,"aminoacetone:oxygen oxidoreductase(deaminating) activity, copper ion binding,"
+D,AT4G16270,Extracellular,"PRX40, PEROXIDASE40",peroxidase family protein
+unassigned,AT4G17690,Extracellular,peroxidase family protein,peroxidase family protein
+B,AT4G20800,Cytoplasm,ATBBE17 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+unassigned,AT4G20820,Chloroplast,ATBBE18 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+unassigned,AT4G20830,Chloroplast,"ATBBE19, ATBBE20, OGOX1, OLIGOGALACTURONIDE OXIDASE 1",FAD-binding domain-containing protein 
+unassigned,AT4G20840,Chloroplast,"ATBBE21, OGOX2, OLIGOGALACTURONIDE OXIDASE 2",FAD-binding domain-containing protein 
+unassigned,AT4G20860,Cytoplasm,ATBBE22 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+C,AT4G21830,Chloroplast,"MSRB7, METHIONINE SULFOXIDE REDUCTASE B7","peptide-methionine (R)-S-oxide reductase activity, peptide-methionine (S)-S-oxide reductase activity"
+unassigned,AT4G21840,Chloroplast,"MSRB8, METHIONINE SULFOXIDE REDUCTASE B8","peptide-methionine (R)-S-oxide reductase activity, peptide-methionine (S)-S-oxide reductase activity"
+A,AT4G21850,Chloroplast,"MSRB9, METHIONINE SULFOXIDE REDUCTASE B9","peptide-methionine (R)-S-oxide reductase activity, peptide-methionine (S)-S-oxide reductase activity"
+unassigned,AT4G21860,Chloroplast,"MSRB2, , METHIONINE SULFOXIDE REDUCTASE B2","peptide-methionine (R)-S-oxide reductase activity, peptide-methionine (S)-S-oxide reductase activity"
+unassigned,AT4G23420,Chloroplast,NAD(P)-binding Rossmann-fold superfamily protein,short-chain dehydrogenase/reductase (SDR) family protein 
+D,AT4G25090,Cytoplasm,RBOHG,"respiratory burst oxidase, NAD(P)H oxidase H2O2-forming activity, calcium ion binding, ferric-chelate reductase activity, oxidoreductase activity, acting on NAD(P)H, oxygen as acceptor"
+unassigned,AT4G25100,Chloroplast,"FSD1, FE SUPEROXIDE DISMUTASE 1","copper ion binding, superoxide dismutase activity"
+unassigned,AT4G25300,Chloroplast,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase,dioxygenase activity
+A,AT4G25310,Cytoplasm,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase,dioxygenase activity
+A,AT4G26010,Extracellular,PRX44,peroxidase family protein
+B,AT4G28090,Extracellular,"SKS10, SKU5 SIMILAR 10","copper ion binding, oxidoreductase activity"
+unassigned,AT4G28220,Mitochondrion," NDB1, NAD(P)H DEHYDROGENASE B1","NADH dehydrogenase activity, NADPH dehydrogenase activity, calcium ion binding, oxidoreductase activity"
+unassigned,AT4G29740,Extracellular,"CKX4, CYTOKININ OXIDASE 4",FAD-binding domain-containing protein 
+unassigned,AT4G33870,Extracellular,peroxidase family protein,peroxidase family protein
+unassigned,AT4G34890,Plasma membrane,"XDH1, XANTHINE DEHYDROGENASE 1",FAD-binding domain-containing protein 
+unassigned,AT4G34900,Plasma membrane,"XDH2, XANTHINE DEHYDROGENASE 2",FAD-binding domain-containing protein 
+unassigned,AT4G35820,Unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase,dioxygenase activity
+A,AT4G37160,Extracellular,"SKS15, SKU5 SIMILAR 15","copper ion binding, oxidoreductase activity, pectinesterase activity"
+A,AT5G01050,Extracellular,LAC9,"laccase family protein, copper ion binding, hydroquinone:oxygen oxidoreductase activity, oxidoreductase activity"
+unassigned,AT5G03260,Extracellular,LAC11,"laccase family protein, copper ion binding, hydroquinone:oxygen oxidoreductase activity, oxidoreductase activity"
+C,AT5G05340,Extracellular,"PRX52, PEROXIDASE 52 ",peroxidase family protein
+D,AT5G05600,Cytoplasm,"JAO2, JASMONATE-INDUCED OXYGENASE2","dioxygenase activity, jasmonic acid hydrolase"
+unassigned,AT5G07200,Cytoplasm,"GA20OX3, GIBBERELLIN 20-OXIDASE 3","dioxygenase activity, gibberellin 20-oxidase activity"
+unassigned,AT5G07480,Cytoplasm,"KUOX1, KAR-UP OXIDOREDUCTASE 1",2OG-Fe(II) oxygenase family protein
+B,AT5G09360,Extracellular,"LAC14, LACCASE 14","laccase family protein, copper ion binding, hydroquinone:oxygen oxidoreductase activity, oxidoreductase activity"
+E,AT5G11540,Mitochondrion,"GULLO3, L -GULONO-1,4-LACTONE ( L -GULL) OXIDASE 3",FAD-binding domain-containing protein 
+unassigned,AT5G14130,Extracellular,peroxidase family protein,peroxidase family protein
+unassigned,AT5G16960,Cytoplasm,Zinc-binding dehydrogenase family protein,2-alkenal reductase [NAD(P)+] activity
+unassigned,AT5G16970,Cytoplasm,"AER, ALKENAL REDUCTASE,",2-alkenal reductase [NAD(P)+] activity
+unassigned,AT5G16980,Cytoplasm,Zinc-binding dehydrogenase family protein,2-alkenal reductase [NAD(P)+] activity
+unassigned,AT5G17000,Cytoplasm,Zinc-binding dehydrogenase family protein,2-alkenal reductase [NAD(P)+] activity
+A,AT5G17820,Extracellular,"PER57, PEROXIDASE 57",peroxidase family protein
+unassigned,AT5G19880,Extracellular,peroxidase family protein,peroxidase family protein
+unassigned,AT5G19890,Extracellular,peroxidase family protein,peroxidase family protein
+A,AT5G20080,Mitochondrion,FAD/NAD(P)-binding oxidoreductase,"copper ion binding, cytochrome-b5 reductase activity, acting on NAD(P)H"
+unassigned,AT5G20960,Chloroplast,"AAO1, ALDEHYDE OXIDASE 1",FAD-binding domain-containing protein 
+A,AT5G22410,Extracellular,"RHS18, ROOT HAIR SPECIFIC 18","heme binding, lactoperoxidase activity, peroxidase activity"
+unassigned,AT5G23980,Plasma membrane,"FRO4, FERRIC REDUCTION OXIDASE 4","ferric-chelate reductase (NADH) activity, ferric-chelate reductase activity"
+D,AT5G23990,Plasma membrane,"FRO5, FERRIC REDUCTION OXIDASE 5","ferric-chelate reductase (NADH) activity, ferric-chelate reductase activity"
+A,AT5G24070,Extracellular,peroxidase family protein,peroxidase family protein
+unassigned,AT5G24140,Endoplasmic reticulum,"SQP2, SQUALENE MONOOXYGENASE 2",FAD-binding domain-containing protein 
+unassigned,AT5G25450,Mitochondrion,Cytochrome bd ubiquinol oxidase,mitochondrial respiratory chain complex III
+unassigned,AT5G37940,Cytoplasm,Zinc-binding dehydrogenase family protein,2-alkenal reductase [NAD(P)+] activity
+unassigned,AT5G44360,Chloroplast,ATBBE23 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+unassigned,AT5G44380,Chloroplast,ATBBE24 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+unassigned,AT5G44390,Chloroplast,ATBBE25 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+unassigned,AT5G44400,Chloroplast,ATBBE26 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+unassigned,AT5G44410,Chloroplast,ATBBE27 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+D,AT5G44440,Chloroplast,ATBBE28 FAD-binding Berberine family protein,FAD-binding domain-containing protein 
+B,AT5G45180,Unknown,Flavin-binding monooxygenase family protein,FAD-binding domain-containing protein 
+A,AT5G48100,Extracellular,"LAC15, LACCASE-LIKE 15","laccase family protein, copper ion binding, hydroquinone:oxygen oxidoreductase activity, oxidoreductase activity"
+unassigned,AT5G48440,Chloroplast,FAD-dependent oxidoreductase family protein,FAD-binding domain-containing protein 
+A,AT5G51060,Plasma membrane,"RBOHC, RESPIRATORY BURST OXIDASE HOMOLOG C","NAD(P)H oxidase H2O2-forming activity, calcium ion binding, ferric-chelate reductase activity"
+A,AT5G51930,Chloroplast,Glucose-methanol-choline (GMC) oxidoreductase family protein,FAD-binding domain-containing protein 
+unassigned,AT5G54000,Cytoplasm,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase,dioxygenase activity
+D,AT5G56470,Mitochondrion,"GULLO7, L -GULONO-1,4-LACTONE ( L -GULL) OXIDASE 7",FAD-binding domain-containing protein 
+unassigned,AT5G56490,Extracellular,"GULLO4, L -GULONO-1,4-LACTONE ( L -GULL) OXIDASE 4",FAD-binding domain-containing protein 
+unassigned,AT5G56970,Extracellular,"CKX3, CYTOKININ OXIDASE 3",FAD-binding domain-containing protein 
+unassigned,AT5G58400,Extracellular,peroxidase family protein,peroxidase family protein
+A,AT5G58910,Extracellular,"LAC16, LACCASE 16","laccase family protein, copper ion binding, hydroquinone:oxygen oxidoreductase activity, oxidoreductase activity"
+E,AT5G60010,Nucleus,"RBOHH, RESPIRATORY BURST OXIDASE HOMOLOG H","ferric reductase-like transmembrane component family protein similar to respiratory burst oxidase protein D RbohD from Arabidopsis thaliana, EMBL:AF055357 [gi:3242789], respiratory burst oxidase homolog from Solanum tuberosum [GI:16549089]; contains..."
+A,AT5G64100,Extracellular,PRX69,peroxidase family protein
+E,AT5G64110,Extracellular,peroxidase family protein,peroxidase family protein
+unassigned,AT5G64120,Extracellular,"PRX71, PEROXIDASE 71",peroxidase family protein
+unassigned,AT5G64210,Mitochondrion,"AOX2, ALTERNATIVE OXIDASE 2","alternative oxidase activity, superoxide-generating NADPH oxidase activity, ubiquinol:oxygen oxidoreductase activity"
+unassigned,AT5G67290,Chloroplast,FAD-dependent oxidoreductase family protein,FAD-binding domain-containing protein 
+A,AT5G67400,Extracellular,PRX73,peroxidase family protein

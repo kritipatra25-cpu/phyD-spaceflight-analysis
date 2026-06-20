@@ -1,0 +1,141 @@
+Stage D — Autoencoder & seed-tissue systems biology model
+============================================================
+
+OVERVIEW
+--------
+Built per plan PLAN.md (Stage D approved 2026-06-19). Two coupled deliverables:
+  1. Sample-embedding autoencoder ("condition map") — 2D visualization of 6 OSD conditions
+  2. Pathway-overlay co-fluctuation network ("seed-tissue model") — hub-anchored, |ρ|=1.0 edges
+
+PLAN DEVIATION (USER-APPROVED): Option 1
+-----------------------------------------
+Plan §4 specified |ρ|≥0.7 AND BH-FDR<0.05 as the edge filter. This proved mathematically
+infeasible: the n=6 OSD overlap dominates 99.97% of gene pairs (because Maffei's 194-gene
+oxidative-stress panel barely overlaps with our 1,344-gene network universe), and the 1000-
+permutation null on n=6 ranks has a minimum two-sided p-value floor of 2/720 ≈ 0.0028. With
+536,109 hub-anchored candidate edges, BH-FDR<0.05 requires top-rank p ≤ 9.3×10⁻⁸, three
+orders of magnitude beyond what n=6 can produce. User locked Option 1: pre-filter to perfect
+|ρ|=1 edges only, dropped FDR claim, document as exploratory co-fluctuation network.
+
+AUTOENCODER
+-----------
+- Input: 6 OSD conditions × top-500 variable panel genes (complete cases), z-scored per gene
+- Architecture: 500 → 64 → 16 → 2 dense bottleneck, ReLU, ~70k params, Adam lr 1e-3, MSE, 200 epochs
+- Final reconstruction MSE on all 6 conditions: 0.00576 (expected: 70k params on 6 samples → overfit)
+- LOO-CV mean MSE: 1.024 vs column-mean baseline 1.440 (ratio 0.71, PASSES <0.8 threshold)
+- Shuffle-baseline LOO-CV: 1.016 (ratio 1.01, FAILS — AE recovers per-sample variance, NOT gene-specific biology)
+
+  Per-fold breakdown:
+    120_root_FLT_Dark:   AE=1.012, baseline=1.418, shuffled=0.992
+    120_root_FLT_Light:  AE=1.090, baseline=1.554, shuffled=1.083
+    658_40cGy:           AE=0.342, baseline=0.465, shuffled=0.326
+    658_80cGy:           AE=0.306, baseline=0.424, shuffled=0.306
+    678_leaf_FLT_Dark:   AE=1.180, baseline=1.665, shuffled=1.187
+    678_leaf_FLT_Light:  AE=2.216, baseline=3.114, shuffled=2.199
+
+- INTERPRETATION: figure 05 is a visualization-only diagnostic. Final latent coordinates:
+    120_root_FLT_Dark:   (+8.90, -1.27)    [study OSD-120, root, dark]
+    120_root_FLT_Light:  (-6.64, -16.74)   [study OSD-120, root, light]
+    658_40cGy:           (-0.89, -0.46)    [study OSD-658, seedling, GCR 40cGy]
+    658_80cGy:           (-2.86, +0.06)    [study OSD-658, seedling, GCR 80cGy]
+    678_leaf_FLT_Dark:   (-12.92, -8.18)   [study OSD-678, leaf, dark]
+    678_leaf_FLT_Light:  (-5.68, +10.73)   [study OSD-678, leaf, light]
+  Conditions separate by study + light state, but the shuffle test shows this is not driven by gene-level signal.
+
+CO-FLUCTUATION NETWORK
+----------------------
+Gene universe: 1,493 unique (panel 997 ∪ Han hub 160 ∪ Liew hub 371) → 1,344 measured in ≥6 conditions
+- Han ∩ Liew overlap: only 11 genes (independent hub signals)
+- Panel ∩ Han hub: 3 genes; Panel ∩ Liew hub: 21 genes
+
+Edge filter: |ρ|=1.0 AND hub-anchored (≥1 endpoint hub) AND n_overlap≥6
+- 3,944 surviving edges, all on n=6 OSD conditions
+- Sign balance: 2,150 positive co-fluctuation, 1,794 negative
+- 1,025 hub–hub edges (both endpoints hub); 2,919 hub–partner edges
+- 1,153 nodes in graph (191 universe nodes have no |ρ|=1 partners → dropped)
+
+Network topology:
+- 150 connected components, largest 31 nodes
+- 718 panel + 140 Han hub + 326 Liew hub nodes
+- Degree distribution: median 4, max 30 (no degree saturation)
+
+Hub centrality permutation test (1000 perms, relabel hub/non-hub):
+- HUB:     mean degree 10.90, median 8
+- NON-HUB: mean degree  4.19, median 3
+- Observed difference: +6.71, permutation p = 0.001 (best achievable at 1000 perms)
+- Weighted_degree identical to degree (all weights = |ρ| = 1)
+- Betweenness: ~0 everywhere (graph is too fragmented for meaningful betweenness)
+
+PATHWAY REPRESENTATION
+----------------------
+30 distinct panel pathways represented in network nodes (10× plan §4 minimum of 3). Top by node count:
+- Plant hormone signal transduction (269), Carbon fixation in photosynthetic organisms (60),
+- Glyoxylate and dicarboxylate metabolism (53), Nucleotide excision repair (42), Photosynthesis (36),
+- Fanconi anemia pathway (28), Base excision repair (24), Mismatch repair (22), Homologous recombination (22),
+- Circadian rhythm - plant (22), Glucosinolate biosynthesis (19), Photosynthesis - antenna proteins (18),
+- ABA_signaling (11), ROS_scavenging (10), etc.
+Plus 435 "non-panel" hub nodes (atlas hub genes outside the curated 997 panel).
+
+VALIDATION RESULTS
+------------------
+1. Promoter-validated Han markers in network:
+   - AT4G18970 (E.hypocotyl_epidermis): degree 1, OSD dark log2FC -1.48 (consistent with 678_FLT_Dark Stage C)
+   - AT4G13890 (LRC3): degree 7, 5/7 neighbors from Liew GCR-vulnerable cell types (xylem/QC/root_cap)
+   - AT3G05150, AT1G78450, AT1G53708: NOT in network (no |ρ|=1 partners across 6 OSD conditions)
+   COVERAGE: 2/5 promoter markers in network. Limitation of |ρ|=1 strictness.
+
+2. Pathway-score consistency (Stage B singscore vs network node mean log2FC):
+   - 20/23 pathways with ≥5 nodes have consistent sign (87% agreement)
+   - Inconsistencies (3 of 23): Nucleotide excision repair, Glyoxylate (photorespiration), Circadian rhythm -
+     all involve small magnitudes near zero (consistent with noise-floor sign flips)
+
+3. Atlas co-location:
+   - Han hubs (seedling-stage) top neighbor pathways: Plant hormone signaling, Carbon fixation,
+     Glyoxylate (photorespiration), Photosynthesis — biologically expected (seedling photosynthesis)
+   - Liew hubs (germination-stage, GCR-vulnerable cell types) top neighbor pathways: Plant hormone
+     signaling, Glyoxylate, Carbon fixation, NER, MMR, Fanconi — biologically expected (DNA repair
+     enriched in germination GCR response, matches Stage C OSD-658 Liew_provasculature finding)
+
+ACCEPTANCE STATUS vs PLAN §4
+----------------------------
+✓ ≥50 hub-anchored edges:  3,944 (78× target)
+✓ ≥3 panel pathways represented: 30
+✓ Signed centrality result: hub > non-hub degree, p=0.001
+✗ FDR<0.05 — IMPOSSIBLE at n=6 (mathematically), user-approved deviation to |ρ|=1 exploratory
+
+LIMITATIONS (HONESTLY FLAGGED)
+------------------------------
+1. n=6 OSD conditions per edge — Maffei panel sparsity reduces "all 20 conds" to "6 conds" for 99.97% of pairs.
+2. |ρ|=1 strictness drops 3/5 promoter-validated markers (no co-fluctuating partners).
+3. 150 components, max 31 nodes → graph fragmentation limits betweenness/centrality interpretation.
+4. AE shuffle baseline matches real AE → no gene-specific biology recovered in the AE.
+5. Network is descriptive co-fluctuation, NOT statistically significant co-expression. No FDR claim.
+
+ARTIFACTS
+---------
+Figures (/mnt/results/figures/):
+- 05_AE_condition_latent.png/.svg          (with caveat box)
+- 06_seed_tissue_network_overview.png/.svg
+- 07_seed_tissue_network_hub_subnetwork.png/.svg
+- 08_seed_tissue_network_interactive.html  (Plotly, 792 KB)
+
+Tables (/mnt/results/tables/):
+- AE_condition_latent_coords.csv, AE_loo_cv_mse.csv
+- seed_tissue_network_edges.csv             (3,944 rows × 13 cols)
+- seed_tissue_network_nodes.csv             (1,153 rows × 12 cols)
+- seed_tissue_hub_centrality_summary.csv    (3 metrics × 8 cols)
+- seed_tissue_network_pathway_sign_validation.csv
+
+Caches (/mnt/shared-workspace/deepspace/clean/stageD/):
+- ae_model_state.pt, AE_input_raw_500genes_6conds.csv, AE_input_zscore.csv
+- spearman_matrix.npy, spearman_matrix_genes_x_genes.feather
+- n_overlap_matrix.npy, spearman_gene_order.csv
+- network_gene_universe.csv
+- perm_null_n(6, 14, 16, 18, 20).npy
+
+STAGE E INHERITANCE
+-------------------
+Stage E (3-pronged hub test) can use:
+- nodes_df['degree'] and ['weighted_degree'] for prong (i) cell-type degree enrichment
+- seed_tissue_hub_centrality_summary.csv for prong (ii) centrality vs ATTED-II fallback baseline
+- The 1,025 hub-hub edges as prong (iii) seed-tissue specific co-fluctuation evidence

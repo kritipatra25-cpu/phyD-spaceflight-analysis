@@ -1,0 +1,217 @@
+tissue,stressor,module,tier,tier_code,label,mean_log2fc,note
+embryo,µg,ROS,Literature,T3,literature_only,,"Literature only: [12,15]"
+embryo,µg,energy,Hypothesis,T4,not_assessable,,"embryo energy: no direct data, no literature anchor in current refs"
+embryo,µg,photosynthesis,Hypothesis,T4,not_assessable,,"embryo photosynthesis: no direct data, no literature anchor in current refs"
+embryo,µg,photorespiration,Hypothesis,T4,not_assessable,,"embryo photorespiration: no direct data, no literature anchor in current refs"
+embryo,µg,carbon,Hypothesis,T4,not_assessable,,"embryo carbon: no direct data, no literature anchor in current refs"
+embryo,µg,ABA,Literature,T3,literature_only,,"Literature only: [1,2,8]"
+embryo,µg,GA,Literature,T3,literature_only,,"Literature only: [2,4,15]"
+embryo,µg,hormone_transport,Hypothesis,T4,not_assessable,,"embryo hormone_transport: no direct data, no literature anchor in current refs"
+embryo,GCR,ROS,Literature,T3,literature_only,,"Literature only: [12,15]"
+embryo,GCR,energy,Hypothesis,T4,not_assessable,,"embryo energy: no direct data, no literature anchor in current refs"
+embryo,GCR,photosynthesis,Hypothesis,T4,not_assessable,,"embryo photosynthesis: no direct data, no literature anchor in current refs"
+embryo,GCR,photorespiration,Hypothesis,T4,not_assessable,,"embryo photorespiration: no direct data, no literature anchor in current refs"
+embryo,GCR,carbon,Hypothesis,T4,not_assessable,,"embryo carbon: no direct data, no literature anchor in current refs"
+embryo,GCR,ABA,Literature,T3,literature_only,,"Literature only: [1,2,8]"
+embryo,GCR,GA,Literature,T3,literature_only,,"Literature only: [2,4,15]"
+embryo,GCR,hormone_transport,Hypothesis,T4,not_assessable,,"embryo hormone_transport: no direct data, no literature anchor in current refs"
+embryo,NMF,ROS,Literature,T3,literature_only,,"Literature only: [12,15]"
+embryo,NMF,energy,Hypothesis,T4,not_assessable,,"embryo energy: no direct data, no literature anchor in current refs"
+embryo,NMF,photosynthesis,Hypothesis,T4,not_assessable,,"embryo photosynthesis: no direct data, no literature anchor in current refs"
+embryo,NMF,photorespiration,Hypothesis,T4,not_assessable,,"embryo photorespiration: no direct data, no literature anchor in current refs"
+embryo,NMF,carbon,Hypothesis,T4,not_assessable,,"embryo carbon: no direct data, no literature anchor in current refs"
+embryo,NMF,ABA,Literature,T3,literature_only,,"Literature only: [1,2,8]"
+embryo,NMF,GA,Literature,T3,literature_only,,"Literature only: [2,4,15]"
+embryo,NMF,hormone_transport,Hypothesis,T4,not_assessable,,"embryo hormone_transport: no direct data, no literature anchor in current refs"
+endosperm,µg,ROS,Hypothesis,T4,not_assessable,,"endosperm ROS: no direct data, no literature anchor in current refs"
+endosperm,µg,energy,Hypothesis,T4,not_assessable,,"endosperm energy: no direct data, no literature anchor in current refs"
+endosperm,µg,photosynthesis,Hypothesis,T4,not_assessable,,"endosperm photosynthesis: no direct data, no literature anchor in current refs"
+endosperm,µg,photorespiration,Hypothesis,T4,not_assessable,,"endosperm photorespiration: no direct data, no literature anchor in current refs"
+endosperm,µg,carbon,Hypothesis,T4,not_assessable,,"endosperm carbon: no direct data, no literature anchor in current refs"
+endosperm,µg,ABA,Literature,T3,literature_only,,"Literature only: [1,8]"
+endosperm,µg,GA,Literature,T3,literature_only,,Literature only: [2]
+endosperm,µg,hormone_transport,Hypothesis,T4,not_assessable,,"endosperm hormone_transport: no direct data, no literature anchor in current refs"
+endosperm,GCR,ROS,Hypothesis,T4,not_assessable,,"endosperm ROS: no direct data, no literature anchor in current refs"
+endosperm,GCR,energy,Hypothesis,T4,not_assessable,,"endosperm energy: no direct data, no literature anchor in current refs"
+endosperm,GCR,photosynthesis,Hypothesis,T4,not_assessable,,"endosperm photosynthesis: no direct data, no literature anchor in current refs"
+endosperm,GCR,photorespiration,Hypothesis,T4,not_assessable,,"endosperm photorespiration: no direct data, no literature anchor in current refs"
+endosperm,GCR,carbon,Hypothesis,T4,not_assessable,,"endosperm carbon: no direct data, no literature anchor in current refs"
+endosperm,GCR,ABA,Literature,T3,literature_only,,"Literature only: [1,8]"
+endosperm,GCR,GA,Literature,T3,literature_only,,Literature only: [2]
+endosperm,GCR,hormone_transport,Hypothesis,T4,not_assessable,,"endosperm hormone_transport: no direct data, no literature anchor in current refs"
+endosperm,NMF,ROS,Hypothesis,T4,not_assessable,,"endosperm ROS: no direct data, no literature anchor in current refs"
+endosperm,NMF,energy,Hypothesis,T4,not_assessable,,"endosperm energy: no direct data, no literature anchor in current refs"
+endosperm,NMF,photosynthesis,Hypothesis,T4,not_assessable,,"endosperm photosynthesis: no direct data, no literature anchor in current refs"
+endosperm,NMF,photorespiration,Hypothesis,T4,not_assessable,,"endosperm photorespiration: no direct data, no literature anchor in current refs"
+endosperm,NMF,carbon,Hypothesis,T4,not_assessable,,"endosperm carbon: no direct data, no literature anchor in current refs"
+endosperm,NMF,ABA,Literature,T3,literature_only,,"Literature only: [1,8]"
+endosperm,NMF,GA,Literature,T3,literature_only,,Literature only: [2]
+endosperm,NMF,hormone_transport,Hypothesis,T4,not_assessable,,"endosperm hormone_transport: no direct data, no literature anchor in current refs"
+seed_coat,µg,ROS,Literature,T3,literature_only,,Literature only: [12]
+seed_coat,µg,energy,Hypothesis,T4,not_assessable,,"seed_coat energy: no direct data, no literature anchor in current refs"
+seed_coat,µg,photosynthesis,Hypothesis,T4,not_assessable,,"seed_coat photosynthesis: no direct data, no literature anchor in current refs"
+seed_coat,µg,photorespiration,Hypothesis,T4,not_assessable,,"seed_coat photorespiration: no direct data, no literature anchor in current refs"
+seed_coat,µg,carbon,Hypothesis,T4,not_assessable,,"seed_coat carbon: no direct data, no literature anchor in current refs"
+seed_coat,µg,ABA,Hypothesis,T4,not_assessable,,"seed_coat ABA: no direct data, no literature anchor in current refs"
+seed_coat,µg,GA,Hypothesis,T4,not_assessable,,"seed_coat GA: no direct data, no literature anchor in current refs"
+seed_coat,µg,hormone_transport,Hypothesis,T4,not_assessable,,"seed_coat hormone_transport: no direct data, no literature anchor in current refs"
+seed_coat,GCR,ROS,Literature,T3,literature_only,,Literature only: [12]
+seed_coat,GCR,energy,Hypothesis,T4,not_assessable,,"seed_coat energy: no direct data, no literature anchor in current refs"
+seed_coat,GCR,photosynthesis,Hypothesis,T4,not_assessable,,"seed_coat photosynthesis: no direct data, no literature anchor in current refs"
+seed_coat,GCR,photorespiration,Hypothesis,T4,not_assessable,,"seed_coat photorespiration: no direct data, no literature anchor in current refs"
+seed_coat,GCR,carbon,Hypothesis,T4,not_assessable,,"seed_coat carbon: no direct data, no literature anchor in current refs"
+seed_coat,GCR,ABA,Hypothesis,T4,not_assessable,,"seed_coat ABA: no direct data, no literature anchor in current refs"
+seed_coat,GCR,GA,Hypothesis,T4,not_assessable,,"seed_coat GA: no direct data, no literature anchor in current refs"
+seed_coat,GCR,hormone_transport,Hypothesis,T4,not_assessable,,"seed_coat hormone_transport: no direct data, no literature anchor in current refs"
+seed_coat,NMF,ROS,Literature,T3,literature_only,,Literature only: [12]
+seed_coat,NMF,energy,Hypothesis,T4,not_assessable,,"seed_coat energy: no direct data, no literature anchor in current refs"
+seed_coat,NMF,photosynthesis,Hypothesis,T4,not_assessable,,"seed_coat photosynthesis: no direct data, no literature anchor in current refs"
+seed_coat,NMF,photorespiration,Hypothesis,T4,not_assessable,,"seed_coat photorespiration: no direct data, no literature anchor in current refs"
+seed_coat,NMF,carbon,Hypothesis,T4,not_assessable,,"seed_coat carbon: no direct data, no literature anchor in current refs"
+seed_coat,NMF,ABA,Hypothesis,T4,not_assessable,,"seed_coat ABA: no direct data, no literature anchor in current refs"
+seed_coat,NMF,GA,Hypothesis,T4,not_assessable,,"seed_coat GA: no direct data, no literature anchor in current refs"
+seed_coat,NMF,hormone_transport,Hypothesis,T4,not_assessable,,"seed_coat hormone_transport: no direct data, no literature anchor in current refs"
+hypocotyl,µg,ROS,Atlas,T2,rewired,-0.0084849951398714,"µg hypocotyl omnibus singscore=-0.008 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+hypocotyl,µg,energy,Atlas,T2,rewired,-0.0084849951398714,"µg hypocotyl omnibus singscore=-0.008 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+hypocotyl,µg,photosynthesis,Atlas,T2,rewired,-0.0084849951398714,"µg hypocotyl omnibus singscore=-0.008 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+hypocotyl,µg,photorespiration,Atlas,T2,rewired,-0.0084849951398714,"µg hypocotyl omnibus singscore=-0.008 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+hypocotyl,µg,carbon,Atlas,T2,rewired,-0.0084849951398714,"µg hypocotyl omnibus singscore=-0.008 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+hypocotyl,µg,ABA,Atlas,T2,rewired,-0.0084849951398714,"µg hypocotyl omnibus singscore=-0.008 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+hypocotyl,µg,GA,Atlas,T2,rewired,-0.0084849951398714,"µg hypocotyl omnibus singscore=-0.008 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+hypocotyl,µg,hormone_transport,Atlas,T2,rewired,-0.0084849951398714,"µg hypocotyl omnibus singscore=-0.008 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+hypocotyl,GCR,ROS,Atlas,T2,modestly_suppressed,-0.11295,"GCR hypocotyl: tps whole-seedling label 'modestly_suppressed' + Atlas omnibus singscore=-0.028 [24,25] (n_fdr_sig=1)"
+hypocotyl,GCR,energy,Hypothesis,T4,not_assessable,,GCR energy: no pathway scores in this study
+hypocotyl,GCR,photosynthesis,Atlas,T2,rewired,-0.0788666666666666,"GCR hypocotyl: tps whole-seedling label 'rewired' + Atlas omnibus singscore=-0.028 [24,25] (n_fdr_sig=1)"
+hypocotyl,GCR,photorespiration,Atlas,T2,rewired,-0.0097,"GCR hypocotyl: tps whole-seedling label 'rewired' + Atlas omnibus singscore=-0.028 [24,25] (n_fdr_sig=1)"
+hypocotyl,GCR,carbon,Atlas,T2,suppressed,-0.1957,"GCR hypocotyl: tps whole-seedling label 'suppressed' + Atlas omnibus singscore=-0.028 [24,25] (n_fdr_sig=1)"
+hypocotyl,GCR,ABA,Atlas,T2,rewired,0.0064999999999999,"GCR hypocotyl: tps whole-seedling label 'rewired' + Atlas omnibus singscore=-0.028 [24,25] (n_fdr_sig=1)"
+hypocotyl,GCR,GA,Atlas,T2,rewired,-0.0841333333333333,"GCR hypocotyl: tps whole-seedling label 'rewired' + Atlas omnibus singscore=-0.028 [24,25] (n_fdr_sig=1)"
+hypocotyl,GCR,hormone_transport,Atlas,T2,rewired,-0.137925,"GCR hypocotyl: tps whole-seedling label 'rewired' + Atlas omnibus singscore=-0.028 [24,25] (n_fdr_sig=1)"
+hypocotyl,NMF,ROS,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+hypocotyl,NMF,energy,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+hypocotyl,NMF,photosynthesis,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+hypocotyl,NMF,photorespiration,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+hypocotyl,NMF,carbon,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+hypocotyl,NMF,ABA,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+hypocotyl,NMF,GA,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+hypocotyl,NMF,hormone_transport,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+radicle,µg,ROS,Literature,T3,literature_only,,Literature only: [12]
+radicle,µg,energy,Hypothesis,T4,not_assessable,,"radicle energy: no direct data, no literature anchor in current refs"
+radicle,µg,photosynthesis,Hypothesis,T4,not_assessable,,"radicle photosynthesis: no direct data, no literature anchor in current refs"
+radicle,µg,photorespiration,Hypothesis,T4,not_assessable,,"radicle photorespiration: no direct data, no literature anchor in current refs"
+radicle,µg,carbon,Hypothesis,T4,not_assessable,,"radicle carbon: no direct data, no literature anchor in current refs"
+radicle,µg,ABA,Literature,T3,literature_only,,"Literature only: [1,2,8]"
+radicle,µg,GA,Literature,T3,literature_only,,"Literature only: [2,15]"
+radicle,µg,hormone_transport,Hypothesis,T4,not_assessable,,"radicle hormone_transport: no direct data, no literature anchor in current refs"
+radicle,GCR,ROS,Literature,T3,literature_only,,Literature only: [12]
+radicle,GCR,energy,Hypothesis,T4,not_assessable,,"radicle energy: no direct data, no literature anchor in current refs"
+radicle,GCR,photosynthesis,Hypothesis,T4,not_assessable,,"radicle photosynthesis: no direct data, no literature anchor in current refs"
+radicle,GCR,photorespiration,Hypothesis,T4,not_assessable,,"radicle photorespiration: no direct data, no literature anchor in current refs"
+radicle,GCR,carbon,Hypothesis,T4,not_assessable,,"radicle carbon: no direct data, no literature anchor in current refs"
+radicle,GCR,ABA,Literature,T3,literature_only,,"Literature only: [1,2,8]"
+radicle,GCR,GA,Literature,T3,literature_only,,"Literature only: [2,15]"
+radicle,GCR,hormone_transport,Hypothesis,T4,not_assessable,,"radicle hormone_transport: no direct data, no literature anchor in current refs"
+radicle,NMF,ROS,Literature,T3,literature_only,,Literature only: [12]
+radicle,NMF,energy,Hypothesis,T4,not_assessable,,"radicle energy: no direct data, no literature anchor in current refs"
+radicle,NMF,photosynthesis,Hypothesis,T4,not_assessable,,"radicle photosynthesis: no direct data, no literature anchor in current refs"
+radicle,NMF,photorespiration,Hypothesis,T4,not_assessable,,"radicle photorespiration: no direct data, no literature anchor in current refs"
+radicle,NMF,carbon,Hypothesis,T4,not_assessable,,"radicle carbon: no direct data, no literature anchor in current refs"
+radicle,NMF,ABA,Literature,T3,literature_only,,"Literature only: [1,2,8]"
+radicle,NMF,GA,Literature,T3,literature_only,,"Literature only: [2,15]"
+radicle,NMF,hormone_transport,Hypothesis,T4,not_assessable,,"radicle hormone_transport: no direct data, no literature anchor in current refs"
+root,µg,ROS,Direct,T1,rewired,0.15675,ROS = mean over 2 pathway(s)
+root,µg,energy,Hypothesis,T4,not_assessable,,Module energy not computed in pathway_scores_all.csv
+root,µg,photosynthesis,Direct,T1,rewired,-0.2819,photosynthesis = mean over 3 pathway(s)
+root,µg,photorespiration,Direct,T1,modestly_suppressed,-0.2177,photorespiration = mean over 1 pathway(s)
+root,µg,carbon,Direct,T1,activated,1.2272500000000002,carbon = mean over 2 pathway(s)
+root,µg,ABA,Direct,T1,activated,0.40955,ABA = mean over 2 pathway(s)
+root,µg,GA,Direct,T1,activated,0.1352,GA = mean over 4 pathway(s)
+root,µg,hormone_transport,Direct,T1,suppressed,-0.06914,hormone_transport = mean over 5 pathway(s)
+root,GCR,ROS,Atlas,T2,modestly_suppressed,-0.11295,"GCR whole-seedling mapped via root cell-types (Atlas, OSD-658 [10,11])"
+root,GCR,energy,Hypothesis,T4,not_assessable,,GCR energy: no pathway scores in this study
+root,GCR,photosynthesis,Atlas,T2,rewired,-0.0788666666666666,"GCR whole-seedling mapped via root cell-types (Atlas, OSD-658 [10,11])"
+root,GCR,photorespiration,Atlas,T2,rewired,-0.0097,"GCR whole-seedling mapped via root cell-types (Atlas, OSD-658 [10,11])"
+root,GCR,carbon,Atlas,T2,suppressed,-0.1957,"GCR whole-seedling mapped via root cell-types (Atlas, OSD-658 [10,11])"
+root,GCR,ABA,Atlas,T2,rewired,0.0064999999999999,"GCR whole-seedling mapped via root cell-types (Atlas, OSD-658 [10,11])"
+root,GCR,GA,Atlas,T2,rewired,-0.0841333333333333,"GCR whole-seedling mapped via root cell-types (Atlas, OSD-658 [10,11])"
+root,GCR,hormone_transport,Atlas,T2,rewired,-0.137925,"GCR whole-seedling mapped via root cell-types (Atlas, OSD-658 [10,11])"
+root,NMF,ROS,Direct,T1,modestly_activated,0.12065,ROS = mean over 2 pathway(s)
+root,NMF,energy,Hypothesis,T4,not_assessable,,Module energy not computed in pathway_scores_all.csv
+root,NMF,photosynthesis,Direct,T1,no_coverage,,photosynthesis = mean over 3 pathway(s)
+root,NMF,photorespiration,Direct,T1,no_coverage,,photorespiration = mean over 1 pathway(s)
+root,NMF,carbon,Direct,T1,no_coverage,,carbon = mean over 2 pathway(s)
+root,NMF,ABA,Direct,T1,no_coverage,,ABA = mean over 2 pathway(s)
+root,NMF,GA,Direct,T1,activated,0.3175666666666666,GA = mean over 4 pathway(s)
+root,NMF,hormone_transport,Direct,T1,no_coverage,,hormone_transport = mean over 5 pathway(s)
+shoot,µg,ROS,Direct,T1,rewired,0.27325,ROS = mean over 2 pathway(s)
+shoot,µg,energy,Hypothesis,T4,not_assessable,,Module energy not computed in pathway_scores_all.csv
+shoot,µg,photosynthesis,Direct,T1,rewired,0.0373999999999999,photosynthesis = mean over 3 pathway(s)
+shoot,µg,photorespiration,Direct,T1,rewired,0.0111,photorespiration = mean over 1 pathway(s)
+shoot,µg,carbon,Direct,T1,rewired,0.3563,carbon = mean over 2 pathway(s)
+shoot,µg,ABA,Direct,T1,n.s.,0.3560999999999999,ABA = mean over 2 pathway(s)
+shoot,µg,GA,Direct,T1,suppressed,-0.7993666666666668,GA = mean over 4 pathway(s)
+shoot,µg,hormone_transport,Direct,T1,suppressed,-0.20786,hormone_transport = mean over 5 pathway(s)
+shoot,GCR,ROS,Atlas,T2,modestly_suppressed,-0.11295,"GCR whole-seedling mapped via shoot cell-types (Atlas, OSD-658 [10,11])"
+shoot,GCR,energy,Hypothesis,T4,not_assessable,,GCR energy: no pathway scores in this study
+shoot,GCR,photosynthesis,Atlas,T2,rewired,-0.0788666666666666,"GCR whole-seedling mapped via shoot cell-types (Atlas, OSD-658 [10,11])"
+shoot,GCR,photorespiration,Atlas,T2,rewired,-0.0097,"GCR whole-seedling mapped via shoot cell-types (Atlas, OSD-658 [10,11])"
+shoot,GCR,carbon,Atlas,T2,suppressed,-0.1957,"GCR whole-seedling mapped via shoot cell-types (Atlas, OSD-658 [10,11])"
+shoot,GCR,ABA,Atlas,T2,rewired,0.0064999999999999,"GCR whole-seedling mapped via shoot cell-types (Atlas, OSD-658 [10,11])"
+shoot,GCR,GA,Atlas,T2,rewired,-0.0841333333333333,"GCR whole-seedling mapped via shoot cell-types (Atlas, OSD-658 [10,11])"
+shoot,GCR,hormone_transport,Atlas,T2,rewired,-0.137925,"GCR whole-seedling mapped via shoot cell-types (Atlas, OSD-658 [10,11])"
+shoot,NMF,ROS,Direct,T1,modestly_activated,0.2011,ROS = mean over 2 pathway(s)
+shoot,NMF,energy,Hypothesis,T4,not_assessable,,Module energy not computed in pathway_scores_all.csv
+shoot,NMF,photosynthesis,Direct,T1,no_coverage,,photosynthesis = mean over 3 pathway(s)
+shoot,NMF,photorespiration,Direct,T1,no_coverage,,photorespiration = mean over 1 pathway(s)
+shoot,NMF,carbon,Direct,T1,no_coverage,,carbon = mean over 2 pathway(s)
+shoot,NMF,ABA,Direct,T1,no_coverage,,ABA = mean over 2 pathway(s)
+shoot,NMF,GA,Direct,T1,activated,0.4724666666666666,GA = mean over 4 pathway(s)
+shoot,NMF,hormone_transport,Direct,T1,no_coverage,,hormone_transport = mean over 5 pathway(s)
+vascular,µg,ROS,Atlas,T2,modestly_suppressed,-0.0839477554753622,"µg vascular omnibus singscore=-0.084 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+vascular,µg,energy,Atlas,T2,modestly_suppressed,-0.0839477554753622,"µg vascular omnibus singscore=-0.084 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+vascular,µg,photosynthesis,Atlas,T2,modestly_suppressed,-0.0839477554753622,"µg vascular omnibus singscore=-0.084 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+vascular,µg,photorespiration,Atlas,T2,modestly_suppressed,-0.0839477554753622,"µg vascular omnibus singscore=-0.084 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+vascular,µg,carbon,Atlas,T2,modestly_suppressed,-0.0839477554753622,"µg vascular omnibus singscore=-0.084 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+vascular,µg,ABA,Atlas,T2,modestly_suppressed,-0.0839477554753622,"µg vascular omnibus singscore=-0.084 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+vascular,µg,GA,Atlas,T2,modestly_suppressed,-0.0839477554753622,"µg vascular omnibus singscore=-0.084 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+vascular,µg,hormone_transport,Atlas,T2,modestly_suppressed,-0.0839477554753622,"µg vascular omnibus singscore=-0.084 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+vascular,GCR,ROS,Atlas,T2,modestly_suppressed,-0.11295,"GCR vascular: tps whole-seedling label 'modestly_suppressed' + Atlas omnibus singscore=-0.161 [24,25] (n_fdr_sig=12)"
+vascular,GCR,energy,Hypothesis,T4,not_assessable,,GCR energy: no pathway scores in this study
+vascular,GCR,photosynthesis,Atlas,T2,rewired,-0.0788666666666666,"GCR vascular: tps whole-seedling label 'rewired' + Atlas omnibus singscore=-0.161 [24,25] (n_fdr_sig=12)"
+vascular,GCR,photorespiration,Atlas,T2,rewired,-0.0097,"GCR vascular: tps whole-seedling label 'rewired' + Atlas omnibus singscore=-0.161 [24,25] (n_fdr_sig=12)"
+vascular,GCR,carbon,Atlas,T2,suppressed,-0.1957,"GCR vascular: tps whole-seedling label 'suppressed' + Atlas omnibus singscore=-0.161 [24,25] (n_fdr_sig=12)"
+vascular,GCR,ABA,Atlas,T2,rewired,0.0064999999999999,"GCR vascular: tps whole-seedling label 'rewired' + Atlas omnibus singscore=-0.161 [24,25] (n_fdr_sig=12)"
+vascular,GCR,GA,Atlas,T2,rewired,-0.0841333333333333,"GCR vascular: tps whole-seedling label 'rewired' + Atlas omnibus singscore=-0.161 [24,25] (n_fdr_sig=12)"
+vascular,GCR,hormone_transport,Atlas,T2,rewired,-0.137925,"GCR vascular: tps whole-seedling label 'rewired' + Atlas omnibus singscore=-0.161 [24,25] (n_fdr_sig=12)"
+vascular,NMF,ROS,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+vascular,NMF,energy,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+vascular,NMF,photosynthesis,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+vascular,NMF,photorespiration,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+vascular,NMF,carbon,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+vascular,NMF,ABA,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+vascular,NMF,GA,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+vascular,NMF,hormone_transport,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+meristematic,µg,ROS,Atlas,T2,rewired,-0.0321928811195123,"µg meristematic omnibus singscore=-0.032 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+meristematic,µg,energy,Atlas,T2,rewired,-0.0321928811195123,"µg meristematic omnibus singscore=-0.032 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+meristematic,µg,photosynthesis,Atlas,T2,rewired,-0.0321928811195123,"µg meristematic omnibus singscore=-0.032 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+meristematic,µg,photorespiration,Atlas,T2,rewired,-0.0321928811195123,"µg meristematic omnibus singscore=-0.032 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+meristematic,µg,carbon,Atlas,T2,rewired,-0.0321928811195123,"µg meristematic omnibus singscore=-0.032 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+meristematic,µg,ABA,Atlas,T2,rewired,-0.0321928811195123,"µg meristematic omnibus singscore=-0.032 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+meristematic,µg,GA,Atlas,T2,rewired,-0.0321928811195123,"µg meristematic omnibus singscore=-0.032 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+meristematic,µg,hormone_transport,Atlas,T2,rewired,-0.0321928811195123,"µg meristematic omnibus singscore=-0.032 from 4 µg conditions × Atlas cell-types [24,25]; not module-resolved"
+meristematic,GCR,ROS,Atlas,T2,modestly_suppressed,-0.11295,"GCR meristematic: tps whole-seedling label 'modestly_suppressed' + Atlas omnibus singscore=-0.123 [24,25] (n_fdr_sig=8)"
+meristematic,GCR,energy,Hypothesis,T4,not_assessable,,GCR energy: no pathway scores in this study
+meristematic,GCR,photosynthesis,Atlas,T2,rewired,-0.0788666666666666,"GCR meristematic: tps whole-seedling label 'rewired' + Atlas omnibus singscore=-0.123 [24,25] (n_fdr_sig=8)"
+meristematic,GCR,photorespiration,Atlas,T2,rewired,-0.0097,"GCR meristematic: tps whole-seedling label 'rewired' + Atlas omnibus singscore=-0.123 [24,25] (n_fdr_sig=8)"
+meristematic,GCR,carbon,Atlas,T2,suppressed,-0.1957,"GCR meristematic: tps whole-seedling label 'suppressed' + Atlas omnibus singscore=-0.123 [24,25] (n_fdr_sig=8)"
+meristematic,GCR,ABA,Atlas,T2,rewired,0.0064999999999999,"GCR meristematic: tps whole-seedling label 'rewired' + Atlas omnibus singscore=-0.123 [24,25] (n_fdr_sig=8)"
+meristematic,GCR,GA,Atlas,T2,rewired,-0.0841333333333333,"GCR meristematic: tps whole-seedling label 'rewired' + Atlas omnibus singscore=-0.123 [24,25] (n_fdr_sig=8)"
+meristematic,GCR,hormone_transport,Atlas,T2,rewired,-0.137925,"GCR meristematic: tps whole-seedling label 'rewired' + Atlas omnibus singscore=-0.123 [24,25] (n_fdr_sig=8)"
+meristematic,NMF,ROS,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+meristematic,NMF,energy,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+meristematic,NMF,photosynthesis,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+meristematic,NMF,photorespiration,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+meristematic,NMF,carbon,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+meristematic,NMF,ABA,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+meristematic,NMF,GA,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)
+meristematic,NMF,hormone_transport,Hypothesis,T4,not_assessable,,NMF cell-type projection infeasible (Maffei 194-gene panel <5 overlap with atlas markers)

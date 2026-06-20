@@ -1,0 +1,289 @@
+tair_id,gene_name,tissue,time,ratio,log2_ratio
+AT5G65550,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,4h,1.15,0.2016
+AT5G65550,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,24h,0.8,-0.3219
+AT5G65550,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,48h,1.32,0.4005
+AT5G65550,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,96h,1.75,0.8074
+AT5G65550,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,4h,0.87,-0.2009
+AT5G65550,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,24h,1.26,0.3334
+AT5G65550,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,48h,0.61,-0.7131
+AT5G65550,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,96h,1.86,0.8953
+AT1G66390,"ATMYB90, MYB DOMAIN PROTEIN 90, MYB90, PAP2, PRODUCTION OF ANTHOCYANIN PIGMENT 2",root,4h,1.3,0.3785
+AT1G66390,"ATMYB90, MYB DOMAIN PROTEIN 90, MYB90, PAP2, PRODUCTION OF ANTHOCYANIN PIGMENT 2",root,24h,1.07,0.0976
+AT1G66390,"ATMYB90, MYB DOMAIN PROTEIN 90, MYB90, PAP2, PRODUCTION OF ANTHOCYANIN PIGMENT 2",root,48h,2.12,1.0841
+AT1G66390,"ATMYB90, MYB DOMAIN PROTEIN 90, MYB90, PAP2, PRODUCTION OF ANTHOCYANIN PIGMENT 2",root,96h,2.07,1.0496
+AT1G66390,"ATMYB90, MYB DOMAIN PROTEIN 90, MYB90, PAP2, PRODUCTION OF ANTHOCYANIN PIGMENT 2",shoot,4h,1.44,0.5261
+AT1G66390,"ATMYB90, MYB DOMAIN PROTEIN 90, MYB90, PAP2, PRODUCTION OF ANTHOCYANIN PIGMENT 2",shoot,24h,0.91,-0.1361
+AT1G66390,"ATMYB90, MYB DOMAIN PROTEIN 90, MYB90, PAP2, PRODUCTION OF ANTHOCYANIN PIGMENT 2",shoot,48h,0.81,-0.304
+AT1G66390,"ATMYB90, MYB DOMAIN PROTEIN 90, MYB90, PAP2, PRODUCTION OF ANTHOCYANIN PIGMENT 2",shoot,96h,3.09,1.6276
+AT5G63580,"ATFLS2, FLAVONOL SYNTHASE 2, FLS2",root,4h,0.94,-0.0893
+AT5G63580,"ATFLS2, FLAVONOL SYNTHASE 2, FLS2",root,24h,0.91,-0.1361
+AT5G63580,"ATFLS2, FLAVONOL SYNTHASE 2, FLS2",root,48h,0.88,-0.1844
+AT5G63580,"ATFLS2, FLAVONOL SYNTHASE 2, FLS2",root,96h,0.87,-0.2009
+AT5G63580,"ATFLS2, FLAVONOL SYNTHASE 2, FLS2",shoot,4h,1.62,0.696
+AT5G63580,"ATFLS2, FLAVONOL SYNTHASE 2, FLS2",shoot,24h,1.57,0.6508
+AT5G63580,"ATFLS2, FLAVONOL SYNTHASE 2, FLS2",shoot,48h,0.84,-0.2515
+AT5G63580,"ATFLS2, FLAVONOL SYNTHASE 2, FLS2",shoot,96h,0.95,-0.074
+AT4G35420,"DIHYDROFLAVONOL 4-REDUCTASE-LIKE1, DRL1, TETRAKETIDE ALPHA-PYRONE REDUCTASE 1, TKPR1",root,4h,0.92,-0.1203
+AT4G35420,"DIHYDROFLAVONOL 4-REDUCTASE-LIKE1, DRL1, TETRAKETIDE ALPHA-PYRONE REDUCTASE 1, TKPR1",root,24h,0.93,-0.1047
+AT4G35420,"DIHYDROFLAVONOL 4-REDUCTASE-LIKE1, DRL1, TETRAKETIDE ALPHA-PYRONE REDUCTASE 1, TKPR1",root,48h,0.95,-0.074
+AT4G35420,"DIHYDROFLAVONOL 4-REDUCTASE-LIKE1, DRL1, TETRAKETIDE ALPHA-PYRONE REDUCTASE 1, TKPR1",root,96h,1.11,0.1506
+AT4G35420,"DIHYDROFLAVONOL 4-REDUCTASE-LIKE1, DRL1, TETRAKETIDE ALPHA-PYRONE REDUCTASE 1, TKPR1",shoot,4h,1.1,0.1375
+AT4G35420,"DIHYDROFLAVONOL 4-REDUCTASE-LIKE1, DRL1, TETRAKETIDE ALPHA-PYRONE REDUCTASE 1, TKPR1",shoot,24h,1.04,0.0566
+AT4G35420,"DIHYDROFLAVONOL 4-REDUCTASE-LIKE1, DRL1, TETRAKETIDE ALPHA-PYRONE REDUCTASE 1, TKPR1",shoot,48h,0.89,-0.1681
+AT4G35420,"DIHYDROFLAVONOL 4-REDUCTASE-LIKE1, DRL1, TETRAKETIDE ALPHA-PYRONE REDUCTASE 1, TKPR1",shoot,96h,0.96,-0.0589
+AT1G32100,pinoresinol reductase 1,root,4h,0.79,-0.3401
+AT1G32100,pinoresinol reductase 1,root,24h,1.06,0.0841
+AT1G32100,pinoresinol reductase 1,root,48h,0.88,-0.1844
+AT1G32100,pinoresinol reductase 1,root,96h,1.02,0.0286
+AT1G32100,pinoresinol reductase 1,shoot,4h,0.89,-0.1681
+AT1G32100,pinoresinol reductase 1,shoot,24h,0.85,-0.2345
+AT1G32100,pinoresinol reductase 1,shoot,48h,0.9,-0.152
+AT1G32100,pinoresinol reductase 1,shoot,96h,1.23,0.2987
+AT4G00040,chalcone and stilbene synthase family protein ,root,4h,1.1,0.1375
+AT4G00040,chalcone and stilbene synthase family protein ,root,24h,0.95,-0.074
+AT4G00040,chalcone and stilbene synthase family protein ,root,48h,1.05,0.0704
+AT4G00040,chalcone and stilbene synthase family protein ,root,96h,1.02,0.0286
+AT4G00040,chalcone and stilbene synthase family protein ,shoot,4h,1.24,0.3103
+AT4G00040,chalcone and stilbene synthase family protein ,shoot,24h,1.14,0.189
+AT4G00040,chalcone and stilbene synthase family protein ,shoot,48h,0.93,-0.1047
+AT4G00040,chalcone and stilbene synthase family protein ,shoot,96h,1.01,0.0144
+AT1G02050,"chalcone and stilbene synthase family protein LAP6, LESS ADHESIVE POLLEN 6, PKSA, POLYKETIDE SYNTHASE A",root,4h,0.93,-0.1047
+AT1G02050,"chalcone and stilbene synthase family protein LAP6, LESS ADHESIVE POLLEN 6, PKSA, POLYKETIDE SYNTHASE A",root,24h,0.99,-0.0145
+AT1G02050,"chalcone and stilbene synthase family protein LAP6, LESS ADHESIVE POLLEN 6, PKSA, POLYKETIDE SYNTHASE A",root,48h,0.93,-0.1047
+AT1G02050,"chalcone and stilbene synthase family protein LAP6, LESS ADHESIVE POLLEN 6, PKSA, POLYKETIDE SYNTHASE A",root,96h,0.87,-0.2009
+AT1G02050,"chalcone and stilbene synthase family protein LAP6, LESS ADHESIVE POLLEN 6, PKSA, POLYKETIDE SYNTHASE A",shoot,4h,1.05,0.0704
+AT1G02050,"chalcone and stilbene synthase family protein LAP6, LESS ADHESIVE POLLEN 6, PKSA, POLYKETIDE SYNTHASE A",shoot,24h,0.97,-0.0439
+AT1G02050,"chalcone and stilbene synthase family protein LAP6, LESS ADHESIVE POLLEN 6, PKSA, POLYKETIDE SYNTHASE A",shoot,48h,0.94,-0.0893
+AT1G02050,"chalcone and stilbene synthase family protein LAP6, LESS ADHESIVE POLLEN 6, PKSA, POLYKETIDE SYNTHASE A",shoot,96h,0.94,-0.0893
+AT1G48860,"5-ENOLPYRUVYLSHIKIMATE-3-PHOSPHATE SYNTHASE, EPSPS",root,4h,0.84,-0.2515
+AT1G48860,"5-ENOLPYRUVYLSHIKIMATE-3-PHOSPHATE SYNTHASE, EPSPS",root,24h,0.96,-0.0589
+AT1G48860,"5-ENOLPYRUVYLSHIKIMATE-3-PHOSPHATE SYNTHASE, EPSPS",root,48h,0.98,-0.0291
+AT1G48860,"5-ENOLPYRUVYLSHIKIMATE-3-PHOSPHATE SYNTHASE, EPSPS",root,96h,0.9,-0.152
+AT1G48860,"5-ENOLPYRUVYLSHIKIMATE-3-PHOSPHATE SYNTHASE, EPSPS",shoot,4h,0.89,-0.1681
+AT1G48860,"5-ENOLPYRUVYLSHIKIMATE-3-PHOSPHATE SYNTHASE, EPSPS",shoot,24h,0.86,-0.2176
+AT1G48860,"5-ENOLPYRUVYLSHIKIMATE-3-PHOSPHATE SYNTHASE, EPSPS",shoot,48h,0.95,-0.074
+AT1G48860,"5-ENOLPYRUVYLSHIKIMATE-3-PHOSPHATE SYNTHASE, EPSPS",shoot,96h,0.96,-0.0589
+AT1G50580,UDP-Glycosyltransferase superfamily protein,root,4h,0.95,-0.074
+AT1G50580,UDP-Glycosyltransferase superfamily protein,root,24h,1.2,0.263
+AT1G50580,UDP-Glycosyltransferase superfamily protein,root,48h,0.93,-0.1047
+AT1G50580,UDP-Glycosyltransferase superfamily protein,root,96h,0.98,-0.0291
+AT1G50580,UDP-Glycosyltransferase superfamily protein,shoot,4h,1.45,0.5361
+AT1G50580,UDP-Glycosyltransferase superfamily protein,shoot,24h,0.77,-0.3771
+AT1G50580,UDP-Glycosyltransferase superfamily protein,shoot,48h,0.96,-0.0589
+AT1G50580,UDP-Glycosyltransferase superfamily protein,shoot,96h,2.19,1.1309
+AT1G75300,similar to an isoflavone reductase,root,4h,0.95,-0.074
+AT1G75300,similar to an isoflavone reductase,root,24h,0.77,-0.3771
+AT1G75300,similar to an isoflavone reductase,root,48h,0.94,-0.0893
+AT1G75300,similar to an isoflavone reductase,root,96h,0.98,-0.0291
+AT1G75300,similar to an isoflavone reductase,shoot,4h,0.89,-0.1681
+AT1G75300,similar to an isoflavone reductase,shoot,24h,1.05,0.0704
+AT1G75300,similar to an isoflavone reductase,shoot,48h,0.99,-0.0145
+AT1G75300,similar to an isoflavone reductase,shoot,96h,1.03,0.0426
+AT1G75280,"isoflavone reductase, putative",root,4h,0.84,-0.2515
+AT1G75280,"isoflavone reductase, putative",root,24h,0.93,-0.1047
+AT1G75280,"isoflavone reductase, putative",root,48h,0.99,-0.0145
+AT1G75280,"isoflavone reductase, putative",root,96h,1.1,0.1375
+AT1G75280,"isoflavone reductase, putative",shoot,4h,0.8,-0.3219
+AT1G75280,"isoflavone reductase, putative",shoot,24h,0.86,-0.2176
+AT1G75280,"isoflavone reductase, putative",shoot,48h,0.99,-0.0145
+AT1G75280,"isoflavone reductase, putative",shoot,96h,0.92,-0.1203
+AT4G39230,"ATPCBER1, PCBER1, PHENYLCOUMARAN BENZYLIC ETHER REDUCTASE 1 catalyzes NADPH-dependent reduction of 8-5' linked lignans such as dehydrodiconiferyl alcohol to give isodihydrodehydrodiconiferyl alcohol.",root,4h,0.91,-0.1361
+AT4G39230,"ATPCBER1, PCBER1, PHENYLCOUMARAN BENZYLIC ETHER REDUCTASE 1 catalyzes NADPH-dependent reduction of 8-5' linked lignans such as dehydrodiconiferyl alcohol to give isodihydrodehydrodiconiferyl alcohol.",root,24h,1.17,0.2265
+AT4G39230,"ATPCBER1, PCBER1, PHENYLCOUMARAN BENZYLIC ETHER REDUCTASE 1 catalyzes NADPH-dependent reduction of 8-5' linked lignans such as dehydrodiconiferyl alcohol to give isodihydrodehydrodiconiferyl alcohol.",root,48h,0.97,-0.0439
+AT4G39230,"ATPCBER1, PCBER1, PHENYLCOUMARAN BENZYLIC ETHER REDUCTASE 1 catalyzes NADPH-dependent reduction of 8-5' linked lignans such as dehydrodiconiferyl alcohol to give isodihydrodehydrodiconiferyl alcohol.",root,96h,1.08,0.111
+AT4G39230,"ATPCBER1, PCBER1, PHENYLCOUMARAN BENZYLIC ETHER REDUCTASE 1 catalyzes NADPH-dependent reduction of 8-5' linked lignans such as dehydrodiconiferyl alcohol to give isodihydrodehydrodiconiferyl alcohol.",shoot,4h,0.81,-0.304
+AT4G39230,"ATPCBER1, PCBER1, PHENYLCOUMARAN BENZYLIC ETHER REDUCTASE 1 catalyzes NADPH-dependent reduction of 8-5' linked lignans such as dehydrodiconiferyl alcohol to give isodihydrodehydrodiconiferyl alcohol.",shoot,24h,0.85,-0.2345
+AT4G39230,"ATPCBER1, PCBER1, PHENYLCOUMARAN BENZYLIC ETHER REDUCTASE 1 catalyzes NADPH-dependent reduction of 8-5' linked lignans such as dehydrodiconiferyl alcohol to give isodihydrodehydrodiconiferyl alcohol.",shoot,48h,1.01,0.0144
+AT4G39230,"ATPCBER1, PCBER1, PHENYLCOUMARAN BENZYLIC ETHER REDUCTASE 1 catalyzes NADPH-dependent reduction of 8-5' linked lignans such as dehydrodiconiferyl alcohol to give isodihydrodehydrodiconiferyl alcohol.",shoot,96h,0.93,-0.1047
+AT5G07990,CYP75B1 Required for flavonoid 3' hydroxylase activity. Enzyme abundance relative to CHS determines Quercetin/Kaempferol metabolite ratio,root,4h,1.0,0.0
+AT5G07990,CYP75B1 Required for flavonoid 3' hydroxylase activity. Enzyme abundance relative to CHS determines Quercetin/Kaempferol metabolite ratio,root,24h,0.96,-0.0589
+AT5G07990,CYP75B1 Required for flavonoid 3' hydroxylase activity. Enzyme abundance relative to CHS determines Quercetin/Kaempferol metabolite ratio,root,48h,1.15,0.2016
+AT5G07990,CYP75B1 Required for flavonoid 3' hydroxylase activity. Enzyme abundance relative to CHS determines Quercetin/Kaempferol metabolite ratio,root,96h,1.02,0.0286
+AT5G07990,CYP75B1 Required for flavonoid 3' hydroxylase activity. Enzyme abundance relative to CHS determines Quercetin/Kaempferol metabolite ratio,shoot,4h,1.1,0.1375
+AT5G07990,CYP75B1 Required for flavonoid 3' hydroxylase activity. Enzyme abundance relative to CHS determines Quercetin/Kaempferol metabolite ratio,shoot,24h,0.98,-0.0291
+AT5G07990,CYP75B1 Required for flavonoid 3' hydroxylase activity. Enzyme abundance relative to CHS determines Quercetin/Kaempferol metabolite ratio,shoot,48h,1.02,0.0286
+AT5G07990,CYP75B1 Required for flavonoid 3' hydroxylase activity. Enzyme abundance relative to CHS determines Quercetin/Kaempferol metabolite ratio,shoot,96h,0.91,-0.1361
+AT5G63595,"ATFLS4, FLAVONOL SYNTHASE 4, FLS4",root,4h,1.03,0.0426
+AT5G63595,"ATFLS4, FLAVONOL SYNTHASE 4, FLS4",root,24h,1.1,0.1375
+AT5G63595,"ATFLS4, FLAVONOL SYNTHASE 4, FLS4",root,48h,1.02,0.0286
+AT5G63595,"ATFLS4, FLAVONOL SYNTHASE 4, FLS4",root,96h,0.98,-0.0291
+AT5G63595,"ATFLS4, FLAVONOL SYNTHASE 4, FLS4",shoot,4h,0.87,-0.2009
+AT5G63595,"ATFLS4, FLAVONOL SYNTHASE 4, FLS4",shoot,24h,0.81,-0.304
+AT5G63595,"ATFLS4, FLAVONOL SYNTHASE 4, FLS4",shoot,48h,1.02,0.0286
+AT5G63595,"ATFLS4, FLAVONOL SYNTHASE 4, FLS4",shoot,96h,1.21,0.275
+AT5G54160, O-methyltransferase (OMT1) ,root,4h,1.0,0.0
+AT5G54160, O-methyltransferase (OMT1) ,root,24h,0.95,-0.074
+AT5G54160, O-methyltransferase (OMT1) ,root,48h,1.01,0.0144
+AT5G54160, O-methyltransferase (OMT1) ,root,96h,1.08,0.111
+AT5G54160, O-methyltransferase (OMT1) ,shoot,4h,1.03,0.0426
+AT5G54160, O-methyltransferase (OMT1) ,shoot,24h,0.95,-0.074
+AT5G54160, O-methyltransferase (OMT1) ,shoot,48h,1.04,0.0566
+AT5G54160, O-methyltransferase (OMT1) ,shoot,96h,1.11,0.1506
+AT2G45300,3-phosphoshikimate 1-carboxyvinyltransferase / 5-enolpyruvylshikimate-3-phosphate / EPSP synthase,root,4h,0.91,-0.1361
+AT2G45300,3-phosphoshikimate 1-carboxyvinyltransferase / 5-enolpyruvylshikimate-3-phosphate / EPSP synthase,root,24h,1.03,0.0426
+AT2G45300,3-phosphoshikimate 1-carboxyvinyltransferase / 5-enolpyruvylshikimate-3-phosphate / EPSP synthase,root,48h,0.98,-0.0291
+AT2G45300,3-phosphoshikimate 1-carboxyvinyltransferase / 5-enolpyruvylshikimate-3-phosphate / EPSP synthase,root,96h,0.98,-0.0291
+AT2G45300,3-phosphoshikimate 1-carboxyvinyltransferase / 5-enolpyruvylshikimate-3-phosphate / EPSP synthase,shoot,4h,0.89,-0.1681
+AT2G45300,3-phosphoshikimate 1-carboxyvinyltransferase / 5-enolpyruvylshikimate-3-phosphate / EPSP synthase,shoot,24h,0.98,-0.0291
+AT2G45300,3-phosphoshikimate 1-carboxyvinyltransferase / 5-enolpyruvylshikimate-3-phosphate / EPSP synthase,shoot,48h,1.05,0.0704
+AT2G45300,3-phosphoshikimate 1-carboxyvinyltransferase / 5-enolpyruvylshikimate-3-phosphate / EPSP synthase,shoot,96h,1.03,0.0426
+AT2G18560,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,4h,1.11,0.1506
+AT2G18560,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,24h,1.15,0.2016
+AT2G18560,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,48h,1.12,0.1635
+AT2G18560,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,96h,1.22,0.2869
+AT2G18560,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,4h,1.14,0.189
+AT2G18560,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,24h,1.09,0.1243
+AT2G18560,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,48h,1.06,0.0841
+AT2G18560,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,96h,1.1,0.1375
+AT4G13660,pinoresinol reductase 2,root,4h,0.98,-0.0291
+AT4G13660,pinoresinol reductase 2,root,24h,1.03,0.0426
+AT4G13660,pinoresinol reductase 2,root,48h,0.97,-0.0439
+AT4G13660,pinoresinol reductase 2,root,96h,0.91,-0.1361
+AT4G13660,pinoresinol reductase 2,shoot,4h,0.99,-0.0145
+AT4G13660,pinoresinol reductase 2,shoot,24h,0.89,-0.1681
+AT4G13660,pinoresinol reductase 2,shoot,48h,1.08,0.111
+AT4G13660,pinoresinol reductase 2,shoot,96h,0.77,-0.3771
+AT3G55120,"CFI, CHALCONE FLAVANONE ISOMERASE, CHALCONE ISOMERASE, CHI, TRANSPARENT TESTA 5, TT5",root,4h,1.0,0.0
+AT3G55120,"CFI, CHALCONE FLAVANONE ISOMERASE, CHALCONE ISOMERASE, CHI, TRANSPARENT TESTA 5, TT5",root,24h,0.89,-0.1681
+AT3G55120,"CFI, CHALCONE FLAVANONE ISOMERASE, CHALCONE ISOMERASE, CHI, TRANSPARENT TESTA 5, TT5",root,48h,1.04,0.0566
+AT3G55120,"CFI, CHALCONE FLAVANONE ISOMERASE, CHALCONE ISOMERASE, CHI, TRANSPARENT TESTA 5, TT5",root,96h,1.13,0.1763
+AT3G55120,"CFI, CHALCONE FLAVANONE ISOMERASE, CHALCONE ISOMERASE, CHI, TRANSPARENT TESTA 5, TT5",shoot,4h,1.08,0.111
+AT3G55120,"CFI, CHALCONE FLAVANONE ISOMERASE, CHALCONE ISOMERASE, CHI, TRANSPARENT TESTA 5, TT5",shoot,24h,0.99,-0.0145
+AT3G55120,"CFI, CHALCONE FLAVANONE ISOMERASE, CHALCONE ISOMERASE, CHI, TRANSPARENT TESTA 5, TT5",shoot,48h,1.12,0.1635
+AT3G55120,"CFI, CHALCONE FLAVANONE ISOMERASE, CHALCONE ISOMERASE, CHI, TRANSPARENT TESTA 5, TT5",shoot,96h,0.98,-0.0291
+AT4G34850,"chalcone and stilbene synthase family protein LAP5, LESS ADHESIVE POLLEN 5, PKSB, POLYKETIDE SYNTHASE B",root,4h,1.44,0.5261
+AT4G34850,"chalcone and stilbene synthase family protein LAP5, LESS ADHESIVE POLLEN 5, PKSB, POLYKETIDE SYNTHASE B",root,24h,1.14,0.189
+AT4G34850,"chalcone and stilbene synthase family protein LAP5, LESS ADHESIVE POLLEN 5, PKSB, POLYKETIDE SYNTHASE B",root,48h,1.06,0.0841
+AT4G34850,"chalcone and stilbene synthase family protein LAP5, LESS ADHESIVE POLLEN 5, PKSB, POLYKETIDE SYNTHASE B",root,96h,1.03,0.0426
+AT4G34850,"chalcone and stilbene synthase family protein LAP5, LESS ADHESIVE POLLEN 5, PKSB, POLYKETIDE SYNTHASE B",shoot,4h,0.96,-0.0589
+AT4G34850,"chalcone and stilbene synthase family protein LAP5, LESS ADHESIVE POLLEN 5, PKSB, POLYKETIDE SYNTHASE B",shoot,24h,1.34,0.4222
+AT4G34850,"chalcone and stilbene synthase family protein LAP5, LESS ADHESIVE POLLEN 5, PKSB, POLYKETIDE SYNTHASE B",shoot,48h,1.12,0.1635
+AT4G34850,"chalcone and stilbene synthase family protein LAP5, LESS ADHESIVE POLLEN 5, PKSB, POLYKETIDE SYNTHASE B",shoot,96h,1.19,0.251
+AT5G17040,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,4h,1.77,0.8237
+AT5G17040,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,24h,0.97,-0.0439
+AT5G17040,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,48h,0.92,-0.1203
+AT5G17040,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,96h,0.83,-0.2688
+AT5G17040,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,4h,2.0,1.0
+AT5G17040,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,24h,0.76,-0.3959
+AT5G17040,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,48h,1.12,0.1635
+AT5G17040,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,96h,1.02,0.0286
+AT2G37040,"ATPAL1, PAL1, PHE AMMONIA LYASE 1",root,4h,0.96,-0.0589
+AT2G37040,"ATPAL1, PAL1, PHE AMMONIA LYASE 1",root,24h,0.93,-0.1047
+AT2G37040,"ATPAL1, PAL1, PHE AMMONIA LYASE 1",root,48h,1.02,0.0286
+AT2G37040,"ATPAL1, PAL1, PHE AMMONIA LYASE 1",root,96h,1.05,0.0704
+AT2G37040,"ATPAL1, PAL1, PHE AMMONIA LYASE 1",shoot,4h,0.9,-0.152
+AT2G37040,"ATPAL1, PAL1, PHE AMMONIA LYASE 1",shoot,24h,1.07,0.0976
+AT2G37040,"ATPAL1, PAL1, PHE AMMONIA LYASE 1",shoot,48h,1.18,0.2388
+AT2G37040,"ATPAL1, PAL1, PHE AMMONIA LYASE 1",shoot,96h,1.14,0.189
+AT5G63590,"ATFLS3, FLAVONOL SYNTHASE 3, FLS3",root,4h,1.09,0.1243
+AT5G63590,"ATFLS3, FLAVONOL SYNTHASE 3, FLS3",root,24h,0.94,-0.0893
+AT5G63590,"ATFLS3, FLAVONOL SYNTHASE 3, FLS3",root,48h,1.03,0.0426
+AT5G63590,"ATFLS3, FLAVONOL SYNTHASE 3, FLS3",root,96h,0.99,-0.0145
+AT5G63590,"ATFLS3, FLAVONOL SYNTHASE 3, FLS3",shoot,4h,1.0,0.0
+AT5G63590,"ATFLS3, FLAVONOL SYNTHASE 3, FLS3",shoot,24h,0.71,-0.4941
+AT5G63590,"ATFLS3, FLAVONOL SYNTHASE 3, FLS3",shoot,48h,1.18,0.2388
+AT5G63590,"ATFLS3, FLAVONOL SYNTHASE 3, FLS3",shoot,96h,1.22,0.2869
+AT5G17050,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,4h,0.99,-0.0145
+AT5G17050,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,24h,1.05,0.0704
+AT5G17050,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,48h,1.04,0.0566
+AT5G17050,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,96h,1.06,0.0841
+AT5G17050,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,4h,0.88,-0.1844
+AT5G17050,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,24h,1.03,0.0426
+AT5G17050,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,48h,1.2,0.263
+AT5G17050,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,96h,1.08,0.111
+AT5G05270,"ATCHIL, CHALCONE ISOMERASE LIKE, CHIL",root,4h,1.14,0.189
+AT5G05270,"ATCHIL, CHALCONE ISOMERASE LIKE, CHIL",root,24h,1.04,0.0566
+AT5G05270,"ATCHIL, CHALCONE ISOMERASE LIKE, CHIL",root,48h,0.97,-0.0439
+AT5G05270,"ATCHIL, CHALCONE ISOMERASE LIKE, CHIL",root,96h,0.85,-0.2345
+AT5G05270,"ATCHIL, CHALCONE ISOMERASE LIKE, CHIL",shoot,4h,0.73,-0.454
+AT5G05270,"ATCHIL, CHALCONE ISOMERASE LIKE, CHIL",shoot,24h,1.01,0.0144
+AT5G05270,"ATCHIL, CHALCONE ISOMERASE LIKE, CHIL",shoot,48h,1.23,0.2987
+AT5G05270,"ATCHIL, CHALCONE ISOMERASE LIKE, CHIL",shoot,96h,1.13,0.1763
+AT5G08640,"ATFLS1, FLAVONOL SYNTHASE, FLAVONOL SYNTHASE 1, FLS, FLS1",root,4h,1.04,0.0566
+AT5G08640,"ATFLS1, FLAVONOL SYNTHASE, FLAVONOL SYNTHASE 1, FLS, FLS1",root,24h,0.91,-0.1361
+AT5G08640,"ATFLS1, FLAVONOL SYNTHASE, FLAVONOL SYNTHASE 1, FLS, FLS1",root,48h,1.05,0.0704
+AT5G08640,"ATFLS1, FLAVONOL SYNTHASE, FLAVONOL SYNTHASE 1, FLS, FLS1",root,96h,1.02,0.0286
+AT5G08640,"ATFLS1, FLAVONOL SYNTHASE, FLAVONOL SYNTHASE 1, FLS, FLS1",shoot,4h,1.15,0.2016
+AT5G08640,"ATFLS1, FLAVONOL SYNTHASE, FLAVONOL SYNTHASE 1, FLS, FLS1",shoot,24h,1.08,0.111
+AT5G08640,"ATFLS1, FLAVONOL SYNTHASE, FLAVONOL SYNTHASE 1, FLS, FLS1",shoot,48h,1.46,0.546
+AT5G08640,"ATFLS1, FLAVONOL SYNTHASE, FLAVONOL SYNTHASE 1, FLS, FLS1",shoot,96h,1.2,0.263
+AT3G51240,"F3'H, F3H, FLAVANONE 3-HYDROXYLASE, TRANSPARENT TESTA 6, TT6",root,4h,0.97,-0.0439
+AT3G51240,"F3'H, F3H, FLAVANONE 3-HYDROXYLASE, TRANSPARENT TESTA 6, TT6",root,24h,1.04,0.0566
+AT3G51240,"F3'H, F3H, FLAVANONE 3-HYDROXYLASE, TRANSPARENT TESTA 6, TT6",root,48h,1.03,0.0426
+AT3G51240,"F3'H, F3H, FLAVANONE 3-HYDROXYLASE, TRANSPARENT TESTA 6, TT6",root,96h,0.79,-0.3401
+AT3G51240,"F3'H, F3H, FLAVANONE 3-HYDROXYLASE, TRANSPARENT TESTA 6, TT6",shoot,4h,0.99,-0.0145
+AT3G51240,"F3'H, F3H, FLAVANONE 3-HYDROXYLASE, TRANSPARENT TESTA 6, TT6",shoot,24h,1.1,0.1375
+AT3G51240,"F3'H, F3H, FLAVANONE 3-HYDROXYLASE, TRANSPARENT TESTA 6, TT6",shoot,48h,1.47,0.5558
+AT3G51240,"F3'H, F3H, FLAVANONE 3-HYDROXYLASE, TRANSPARENT TESTA 6, TT6",shoot,96h,1.21,0.275
+AT5G63600,"ATFLS5, FLAVONOL SYNTHASE 5, FLS5",root,4h,1.04,0.0566
+AT5G63600,"ATFLS5, FLAVONOL SYNTHASE 5, FLS5",root,24h,1.02,0.0286
+AT5G63600,"ATFLS5, FLAVONOL SYNTHASE 5, FLS5",root,48h,1.01,0.0144
+AT5G63600,"ATFLS5, FLAVONOL SYNTHASE 5, FLS5",root,96h,1.16,0.2141
+AT5G63600,"ATFLS5, FLAVONOL SYNTHASE 5, FLS5",shoot,4h,1.24,0.3103
+AT5G63600,"ATFLS5, FLAVONOL SYNTHASE 5, FLS5",shoot,24h,0.84,-0.2515
+AT5G63600,"ATFLS5, FLAVONOL SYNTHASE 5, FLS5",shoot,48h,1.48,0.5656
+AT5G63600,"ATFLS5, FLAVONOL SYNTHASE 5, FLS5",shoot,96h,2.13,1.0909
+AT5G13930,"ATCHS, CHALCONE SYNTHASE, CHS, TRANSPARENT TESTA 4, TT4",root,4h,1.22,0.2869
+AT5G13930,"ATCHS, CHALCONE SYNTHASE, CHS, TRANSPARENT TESTA 4, TT4",root,24h,0.93,-0.1047
+AT5G13930,"ATCHS, CHALCONE SYNTHASE, CHS, TRANSPARENT TESTA 4, TT4",root,48h,1.04,0.0566
+AT5G13930,"ATCHS, CHALCONE SYNTHASE, CHS, TRANSPARENT TESTA 4, TT4",root,96h,1.02,0.0286
+AT5G13930,"ATCHS, CHALCONE SYNTHASE, CHS, TRANSPARENT TESTA 4, TT4",shoot,4h,1.06,0.0841
+AT5G13930,"ATCHS, CHALCONE SYNTHASE, CHS, TRANSPARENT TESTA 4, TT4",shoot,24h,1.15,0.2016
+AT5G13930,"ATCHS, CHALCONE SYNTHASE, CHS, TRANSPARENT TESTA 4, TT4",shoot,48h,1.52,0.6041
+AT5G13930,"ATCHS, CHALCONE SYNTHASE, CHS, TRANSPARENT TESTA 4, TT4",shoot,96h,1.14,0.189
+AT4G22880,"ANS, ANTHOCYANIDIN SYNTHASE, LDOX, LEUCOANTHOCYANIDIN DIOXYGENASE, TANNIN DEFICIENT SEED 4, TDS4, TT18",root,4h,0.3,-1.737
+AT4G22880,"ANS, ANTHOCYANIDIN SYNTHASE, LDOX, LEUCOANTHOCYANIDIN DIOXYGENASE, TANNIN DEFICIENT SEED 4, TDS4, TT18",root,24h,0.73,-0.454
+AT4G22880,"ANS, ANTHOCYANIDIN SYNTHASE, LDOX, LEUCOANTHOCYANIDIN DIOXYGENASE, TANNIN DEFICIENT SEED 4, TDS4, TT18",root,48h,2.39,1.257
+AT4G22880,"ANS, ANTHOCYANIDIN SYNTHASE, LDOX, LEUCOANTHOCYANIDIN DIOXYGENASE, TANNIN DEFICIENT SEED 4, TDS4, TT18",root,96h,2.96,1.5656
+AT4G22880,"ANS, ANTHOCYANIDIN SYNTHASE, LDOX, LEUCOANTHOCYANIDIN DIOXYGENASE, TANNIN DEFICIENT SEED 4, TDS4, TT18",shoot,4h,0.91,-0.1361
+AT4G22880,"ANS, ANTHOCYANIDIN SYNTHASE, LDOX, LEUCOANTHOCYANIDIN DIOXYGENASE, TANNIN DEFICIENT SEED 4, TDS4, TT18",shoot,24h,1.44,0.5261
+AT4G22880,"ANS, ANTHOCYANIDIN SYNTHASE, LDOX, LEUCOANTHOCYANIDIN DIOXYGENASE, TANNIN DEFICIENT SEED 4, TDS4, TT18",shoot,48h,1.66,0.7312
+AT4G22880,"ANS, ANTHOCYANIDIN SYNTHASE, LDOX, LEUCOANTHOCYANIDIN DIOXYGENASE, TANNIN DEFICIENT SEED 4, TDS4, TT18",shoot,96h,1.06,0.0841
+AT5G42800,"DFR, DIHYDROFLAVONOL 4-REDUCTASE, M318, TT3 Catalyzes the conversion of dihydroquercetin to leucocyanidin in the biosynthesis of anthocyanins",root,4h,0.11,-3.1844
+AT5G42800,"DFR, DIHYDROFLAVONOL 4-REDUCTASE, M318, TT3 Catalyzes the conversion of dihydroquercetin to leucocyanidin in the biosynthesis of anthocyanins",root,24h,0.92,-0.1203
+AT5G42800,"DFR, DIHYDROFLAVONOL 4-REDUCTASE, M318, TT3 Catalyzes the conversion of dihydroquercetin to leucocyanidin in the biosynthesis of anthocyanins",root,48h,2.57,1.3618
+AT5G42800,"DFR, DIHYDROFLAVONOL 4-REDUCTASE, M318, TT3 Catalyzes the conversion of dihydroquercetin to leucocyanidin in the biosynthesis of anthocyanins",root,96h,0.39,-1.3585
+AT5G42800,"DFR, DIHYDROFLAVONOL 4-REDUCTASE, M318, TT3 Catalyzes the conversion of dihydroquercetin to leucocyanidin in the biosynthesis of anthocyanins",shoot,4h,2.13,1.0909
+AT5G42800,"DFR, DIHYDROFLAVONOL 4-REDUCTASE, M318, TT3 Catalyzes the conversion of dihydroquercetin to leucocyanidin in the biosynthesis of anthocyanins",shoot,24h,1.54,0.6229
+AT5G42800,"DFR, DIHYDROFLAVONOL 4-REDUCTASE, M318, TT3 Catalyzes the conversion of dihydroquercetin to leucocyanidin in the biosynthesis of anthocyanins",shoot,48h,2.01,1.0072
+AT5G42800,"DFR, DIHYDROFLAVONOL 4-REDUCTASE, M318, TT3 Catalyzes the conversion of dihydroquercetin to leucocyanidin in the biosynthesis of anthocyanins",shoot,96h,2.32,1.2141
+AT1G61720,"BAN, BANYULS Negative regulator of flavonoid biosynthesis",root,4h,2.31,1.2079
+AT1G61720,"BAN, BANYULS Negative regulator of flavonoid biosynthesis",root,24h,1.9,0.926
+AT1G61720,"BAN, BANYULS Negative regulator of flavonoid biosynthesis",root,48h,1.49,0.5753
+AT1G61720,"BAN, BANYULS Negative regulator of flavonoid biosynthesis",root,96h,1.82,0.8639
+AT1G61720,"BAN, BANYULS Negative regulator of flavonoid biosynthesis",shoot,4h,1.9,0.926
+AT1G61720,"BAN, BANYULS Negative regulator of flavonoid biosynthesis",shoot,24h,1.68,0.7485
+AT1G61720,"BAN, BANYULS Negative regulator of flavonoid biosynthesis",shoot,48h,2.33,1.2203
+AT1G61720,"BAN, BANYULS Negative regulator of flavonoid biosynthesis",shoot,96h,2.61,1.384
+AT5G17030,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,4h,2.13,1.0909
+AT5G17030,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,24h,2.0,1.0
+AT5G17030,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,48h,2.17,1.1177
+AT5G17030,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,root,96h,2.27,1.1827
+AT5G17030,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,4h,1.7,0.7655
+AT5G17030,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,24h,2.56,1.3561
+AT5G17030,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,48h,2.34,1.2265
+AT5G17030,UDP-glucoronosyl/UDP-glucosyl transferase family protein ,shoot,96h,2.18,1.1243
+AT5G66220,chalcone and stilbene synthase family protein ,root,4h,1.18,0.2388
+AT5G66220,chalcone and stilbene synthase family protein ,root,24h,1.87,0.903
+AT5G66220,chalcone and stilbene synthase family protein ,root,48h,2.33,1.2203
+AT5G66220,chalcone and stilbene synthase family protein ,root,96h,2.89,1.5311
+AT5G66220,chalcone and stilbene synthase family protein ,shoot,4h,2.05,1.0356
+AT5G66220,chalcone and stilbene synthase family protein ,shoot,24h,1.94,0.9561
+AT5G66220,chalcone and stilbene synthase family protein ,shoot,48h,2.39,1.257
+AT5G66220,chalcone and stilbene synthase family protein ,shoot,96h,3.5,1.8074
+AT5G43935,"ATFLS6, FLAVONOL SYNTHASE 6, FLS6",root,4h,2.39,1.257
+AT5G43935,"ATFLS6, FLAVONOL SYNTHASE 6, FLS6",root,24h,1.98,0.9855
+AT5G43935,"ATFLS6, FLAVONOL SYNTHASE 6, FLS6",root,48h,2.22,1.1506
+AT5G43935,"ATFLS6, FLAVONOL SYNTHASE 6, FLS6",root,96h,2.01,1.0072
+AT5G43935,"ATFLS6, FLAVONOL SYNTHASE 6, FLS6",shoot,4h,2.08,1.0566
+AT5G43935,"ATFLS6, FLAVONOL SYNTHASE 6, FLS6",shoot,24h,2.19,1.1309
+AT5G43935,"ATFLS6, FLAVONOL SYNTHASE 6, FLS6",shoot,48h,2.5,1.3219
+AT5G43935,"ATFLS6, FLAVONOL SYNTHASE 6, FLS6",shoot,96h,2.56,1.3561
+AT1G75290,similar to an isoflavone reductase,root,4h,2.53,1.3391
+AT1G75290,similar to an isoflavone reductase,root,24h,2.03,1.0215
+AT1G75290,similar to an isoflavone reductase,root,48h,2.3,1.2016
+AT1G75290,similar to an isoflavone reductase,root,96h,2.09,1.0635
+AT1G75290,similar to an isoflavone reductase,shoot,4h,2.12,1.0841
+AT1G75290,similar to an isoflavone reductase,shoot,24h,2.3,1.2016
+AT1G75290,similar to an isoflavone reductase,shoot,48h,2.75,1.4594
+AT1G75290,similar to an isoflavone reductase,shoot,96h,2.98,1.5753

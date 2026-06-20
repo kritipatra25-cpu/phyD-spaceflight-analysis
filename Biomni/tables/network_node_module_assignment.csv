@@ -1,0 +1,1154 @@
+tair_id,symbol_hint,modules,pathway_primary,atlas_celltype_primary,degree,mean_log2fc_OSD_dark,mean_log2fc_OSD_light
+AT5G46900,,hypocotyl,non-panel,Han:Cortex_hypocotyl,30,-0.3781602787579173,2.606385622936152
+AT5G62340,,QC_rootcap,non-panel,Liew_root_cap,30,-0.0390062502052059,2.31841037653967
+AT5G65020,,QC_rootcap,non-panel,Liew_root_cap,30,-0.1839945493977053,0.244186043377992
+AT4G30670,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,30,-0.3012076145162974,0.7334739740885516
+AT4G30170,,hypocotyl,non-panel,Han:Cortex_hypocotyl,30,0.4273227680946034,1.8639263270708133
+AT5G07220,,vascular,non-panel,Liew_xylem,30,0.1196606362049833,0.4837259487804775
+AT5G23220,,hypocotyl,non-panel,Han:Cortex_hypocotyl,30,0.2365121996952814,3.791535956655628
+AT2G45430,,QC_rootcap,non-panel,Liew_QC,30,-0.2360145336040772,1.4155680234177863
+AT1G02810,,QC_rootcap,non-panel,Liew_QC,30,-0.0103263568012543,0.4109352329307723
+AT1G79530,,QC_rootcap,Carbon fixation in photosynthetic organisms,Liew_QC,30,-0.2117360556723743,0.3246602540729303
+AT1G69920,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,30,-0.1530693195371742,2.955383907235113
+AT2G41800,,QC_rootcap,non-panel,Liew_QC,30,0.1191769007677384,1.408652243693138
+AT2G43150,,hypocotyl,non-panel,Han:Cortex_hypocotyl,30,-0.2171093987728303,0.2217930673980057
+AT2G25810,,QC_rootcap,non-panel,Liew_root_cap,30,-0.0027524142605933,0.8262465080684916
+AT1G66270,,QC_rootcap,non-panel,Liew_root_cap,30,-0.059217722436457,1.3795211466137574
+AT4G00080,,QC_rootcap,non-panel,Liew_root_cap,30,-0.2197907032172666,3.0301025027233064
+AT1G54000,,QC_rootcap,non-panel,Liew_root_cap,30,-0.5267648430455304,1.3486373046707116
+AT1G29025,,hypocotyl,non-panel,Han:Cortex_hypocotyl,30,0.1264655252181355,1.9808878611815568
+AT5G41900,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,28,0.694303231879298,-0.2492931169788804
+AT3G45610,,vascular,non-panel,Liew_provasculature,28,0.4468699615525376,0.4372288068412489
+AT1G22740,,hypocotyl,non-panel,Han:Cortex_hypocotyl,28,0.0601347625918273,0.1791390492557186
+AT3G21600,,vascular,non-panel,Liew_provasculature,28,-0.5233687620125247,-0.1715449745296746
+AT3G43720,,QC_rootcap,non-panel,Liew_root_cap,28,0.1614375912713263,-0.3658815820229159
+AT2G47650,,QC_rootcap,non-panel,Liew_root_cap,28,0.1049419899166293,0.0115450638626205
+AT5G45280,,QC_rootcap,non-panel,Liew_root_cap,28,-0.217956267582275,-0.275568773406355
+AT4G36710,,vascular,non-panel,Liew_provasculature,28,-0.3679262621606768,0.0073451714348238
+AT1G17890,,QC_rootcap,non-panel,Liew_root_cap,28,0.1442993528055234,-0.079516944186866
+AT1G12780,,vascular,non-panel,Liew_xylem,28,0.3680193708566526,0.5718346196284914
+AT5G12940,,hypocotyl;QC_rootcap,non-panel,Han:E.hypocotyl_epidermis|Liew_root_cap,28,-0.356752922531582,-0.4292775448799457
+AT4G24275,,QC_rootcap,non-panel,Liew_QC,28,-0.0618429986587032,-0.324675111867598
+AT1G19450,,hypocotyl,non-panel,Han:Cortex_hypocotyl,28,0.1677167736416813,-0.2573180957524983
+AT1G76240,,hypocotyl,non-panel,Han:Cortex_hypocotyl,28,0.3679903671716395,-0.6190709568910621
+AT2G15310,,vascular,non-panel,Liew_provasculature,28,-0.0577761073468026,-0.148662493996689
+AT3G07010,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis+Cortex_hypocotyl,28,-0.0482649104883142,-0.508782520768115
+AT1G69680,,vascular,non-panel,Liew_xylem,28,-0.0030661466022076,0.0338841808717721
+AT5G23210,,hypocotyl,non-panel,Han:Cortex_hypocotyl,25,0.219080021112303,-0.1920008363782763
+AT1G25450,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,25,-0.0219627580891618,0.0304716002749602
+AT2G22080,,vascular,non-panel,Liew_provasculature,25,0.2625829612392599,0.1734089803666726
+AT2G16280,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,25,-0.123112353970203,-0.2733726526816309
+AT4G33660,,vascular,non-panel,Liew_provasculature,25,-0.0654642750307554,-0.217793820002985
+AT4G37450,,vascular,non-panel,Liew_xylem,25,-0.4783913302316934,-0.363755109499626
+AT5G66440,,vascular,non-panel,Liew_provasculature,25,-0.0665172085880156,0.0781900956907983
+AT5G65280,,vascular,non-panel,Liew_provasculature,25,-0.2103847001957998,0.1060993853850256
+AT3G46940,,QC_rootcap,non-panel,Liew_QC,24,-0.315646867856968,-0.9866657265740154
+AT4G37400,,QC_rootcap,non-panel,Liew_QC,24,-0.1245423564556176,2.550230953760352
+AT2G46140,,QC_rootcap,non-panel,Liew_root_cap,23,-0.1184527695197701,0.0522013852767986
+AT4G10380,,QC_rootcap,non-panel,Liew_root_cap,23,-0.0209739042072328,0.3169552398618023
+AT2G17500,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,23,0.0091779321206345,0.7932125748103903
+AT1G74500,,QC_rootcap,non-panel,Liew_QC,23,-0.4459234389634678,1.9322103716803565
+AT3G48340,,QC_rootcap,non-panel,Liew_root_cap,23,-1.2638838101090164,1.5992888922327235
+AT3G06035,,vascular,non-panel,Liew_xylem,23,-0.4860900948209846,-0.0596573613237457
+AT5G45920,,QC_rootcap,non-panel,Liew_QC,23,-0.4245675763000256,0.1578349069893893
+AT1G35720,,QC_rootcap,non-panel,Liew_root_cap,23,0.22002457102066,0.488304084893731
+AT5G26330,,vascular,non-panel,Liew_xylem,23,-0.7547147237108707,-1.2824083255134264
+AT5G04470,,hypocotyl,non-panel,Han:Cortex_hypocotyl,23,0.0748742654352419,0.2073271771881133
+AT4G37010,,hypocotyl,non-panel,Han:Cortex_hypocotyl,23,-0.0366823863891547,0.7471947005223392
+AT3G05920,,hypocotyl,non-panel,Han:Cortex_hypocotyl,22,-0.1617999304538373,3.130045163281093
+AT5G15265,,QC_rootcap,non-panel,Liew_root_cap,22,-0.0882037757235994,0.1626464418200364
+AT5G15230,,QC_rootcap,non-panel,Liew_root_cap,22,-0.1805130943783769,0.2659896818361095
+AT5G10770,,hypocotyl,non-panel,Han:Cortex_hypocotyl,22,-0.3887405749156076,-0.2577121661960672
+AT4G22235,,QC_rootcap,non-panel,Liew_root_cap,22,-0.2373590533194791,2.517352854981467
+AT4G12520,,hypocotyl,non-panel,Han:Cortex_hypocotyl,22,-0.2037956290140183,0.9620377160747844
+AT4G31320,,QC_rootcap,Plant hormone signal transduction,Liew_root_cap,22,-0.4249522293743626,1.2502612170995115
+AT1G78370,,vascular,non-panel,Liew_provasculature,22,-0.5465512602695126,-1.4120837539603508
+AT1G23040,,vascular,non-panel,Liew_provasculature,22,-0.3607098649732943,0.5193482740094503
+AT3G53480,,hypocotyl;QC_rootcap,non-panel,Han:E.hypocotyl_epidermis|Liew_root_cap,21,-0.353121805316973,1.136957891580914
+AT2G43535,,QC_rootcap,non-panel,Liew_root_cap,21,-0.2059699143566506,0.618685205511227
+AT2G31980,,vascular,non-panel,Liew_xylem,21,-0.7982236900416569,1.2056706269639212
+AT1G76930,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,21,-0.0544188027189616,1.339088148275885
+AT2G17710,,vascular,non-panel,Liew_xylem,21,-0.0431804739893433,0.7707649073471453
+AT1G66280,,hypocotyl;QC_rootcap,non-panel,Han:E.hypocotyl_epidermis|Liew_root_cap,21,-0.5324997503426271,1.6095257653395407
+AT1G17745,,vascular,non-panel,Liew_provasculature,21,-0.3909706849329957,0.732021124443378
+AT5G56500,,QC_rootcap,non-panel,Liew_QC,21,-0.1862664339569701,0.1156061606062578
+AT1G21100,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,21,-0.358760683328109,0.4594155013411916
+AT4G37070,,hypocotyl,non-panel,Han:Cortex_hypocotyl,21,-0.2248338609708263,1.232989423029827
+AT1G07640,,vascular,non-panel,Liew_provasculature,20,-0.2686452057713739,0.0400530514435772
+AT1G09200,,QC_rootcap,non-panel,Liew_QC,20,-0.2219192735815123,-0.6620962004000687
+AT4G16380,,vascular,non-panel,Liew_xylem,20,0.0743851780677919,-0.1779018419093446
+AT5G03230,,hypocotyl,non-panel,Han:Cortex_hypocotyl,20,0.3456798340075111,1.0618133775554257
+AT1G10670,,vascular,non-panel,Liew_xylem,20,0.0225231180150664,-0.242011036781234
+AT5G15630,,vascular,non-panel,Liew_xylem,20,-0.5031001340581133,-1.054384147876271
+AT1G08500,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,20,0.0739948970455531,0.5739929217380556
+AT1G05850,,vascular,non-panel,Liew_xylem,20,-0.0010018676833158,-0.256951351250523
+AT3G05490,,vascular,non-panel,Liew_provasculature,20,-0.0021999222844762,-0.340047438861637
+AT3G05910,,vascular,non-panel,Liew_xylem,20,-0.1918199326568676,-0.537119504270655
+AT3G32980,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,20,-0.4181930879625216,0.6934942852742417
+AT3G27360,,QC_rootcap,non-panel,Liew_QC,20,-0.094586412486287,-0.3955297267511087
+AT1G68810,,vascular,non-panel,Liew_xylem,20,-0.0525207953931357,-0.4422463535063663
+AT1G54575,,vascular,non-panel,Liew_provasculature,20,0.088578832337554,1.6773055482208357
+AT2G34500,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,20,0.1628998752812032,1.667339250619711
+AT1G27670,,hypocotyl,non-panel,Han:Cortex_hypocotyl,20,0.1544788826314233,0.7286447104280459
+AT3G29035,,hypocotyl,non-panel,Han:Cortex_hypocotyl,20,0.2836286046635131,1.126040950303134
+AT5G26280,,QC_rootcap,non-panel,Liew_root_cap,19,-0.0063007272416218,-0.1625324770504173
+AT2G36355,,vascular,non-panel,Liew_xylem,19,-0.1669518642121946,-0.3005334343185394
+AT4G12470,,hypocotyl,non-panel,Han:Cortex_hypocotyl,19,-0.5412121962718843,-0.8274395630958143
+AT2G28760,,vascular,non-panel,Liew_xylem,19,-0.1104507354131054,-0.7603720721773399
+AT1G17360,,vascular,non-panel,Liew_xylem,18,-0.2376096154316853,-0.3505332677806255
+AT5G13370,,other,Plant hormone signal transduction,panel_only,18,0.3131443077734903,1.0828936681548902
+AT4G18360,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,18,-0.3328928464824643,0.52385877134997
+AT4G25780,,hypocotyl,non-panel,Han:Cortex_hypocotyl,18,-0.4508670546648632,0.0444005570818368
+AT4G12910,,vascular,non-panel,Liew_xylem,18,-0.7530950642759014,-0.8183298406080807
+AT4G33010,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,18,-0.0808848252270393,-1.2684274968189049
+AT1G79620,,vascular,non-panel,Liew_xylem,18,-0.5344782076529015,-0.9623172644681852
+AT2G33990,,hypocotyl,non-panel,Han:Cortex_hypocotyl,18,0.1971660769177153,0.0874335419814161
+AT2G38120,AUX1,vascular,Auxin_transporters_AUX_LAX,Liew_xylem,18,-0.0823035825757131,-0.4065640860834056
+AT2G38640,,vascular,non-panel,Liew_provasculature,18,-0.1825766382154401,0.1472293748264002
+AT2G36270,ABI5,other,Hub_transporter_core,panel_only,18,0.7769396751312542,1.48924818909847
+AT1G74940,,hypocotyl,non-panel,Han:Cortex_hypocotyl,18,0.0642225457010113,-0.0762875151884999
+AT1G64060,RBOHF,ROS,ROS_scavenging,panel_only,18,0.0351026357551259,0.329064303855459
+AT5G66190,,other,Photosynthesis,panel_only,18,-0.1355194570782816,-1.101587248225066
+AT1G20450,,QC_rootcap,non-panel,Liew_QC,18,0.7108889432219788,0.7458599142018323
+AT5G47435,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,18,-0.0365526577961429,-0.2304618629297443
+AT5G59890,,vascular,non-panel,Liew_provasculature,18,0.0241680525024426,-0.0536457522853458
+AT5G39340,,vascular,Plant hormone signal transduction,Liew_provasculature,18,0.10598782883149,0.0794089000814711
+AT5G53190,SWEET3,other,Sugar_transporters_SWEET,panel_only,18,0.5673383281622905,2.3680660059610363
+AT1G48360,,other,Fanconi anemia pathway,panel_only,18,0.044820073337372,-0.328282208611091
+AT2G46370,,other,Plant hormone signal transduction,panel_only,18,0.0263223483349765,0.099547979142507
+AT3G54660,GR2,ROS,ROS_scavenging,panel_only,18,-0.1252026730085769,-0.4533706691113539
+AT3G23240,,other,Plant hormone signal transduction,panel_only,18,0.523861198353671,1.2049751652702754
+AT3G14130,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,18,-0.0539604760563042,0.4084307756878413
+AT2G44900,SLY1,GA,GA_signaling,panel_only,17,0.2322311543940946,0.3310432114008785
+AT2G44350,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,17,-0.0686333467154166,-0.0900360686015733
+AT3G55050,HAB1,ABA,ABA_signaling,panel_only,17,0.1135806681643125,-0.0720316062376776
+AT4G09570,,other,Plant hormone signal transduction,panel_only,17,-0.0052117571419433,-0.1504509786918659
+AT5G47080,,CRY_circadian,Circadian rhythm - plant,panel_only,17,0.152194027825702,0.1946860901542222
+AT1G53240,,other,Carbon fixation in photosynthetic organisms,panel_only,17,-0.0804275455638253,-0.2010282237727428
+AT2G30970,,other,Carbon fixation in photosynthetic organisms,panel_only,17,0.0815731196573466,-0.1777689196942621
+AT2G25930,ELF3,CRY_circadian,Circadian_core,panel_only,17,0.0787863976472046,0.2990385778973726
+AT2G31970,,other,Non-homologous end-joining,panel_only,17,-0.2350894823239371,-0.068423210215135
+AT4G03400,,other,Plant hormone signal transduction,panel_only,17,-0.142170240731868,-0.499128432245747
+AT1G28130,,other,Plant hormone signal transduction,panel_only,17,-0.0021649517453538,-0.0582120832125336
+AT5G26780,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,17,-0.0983239554858019,-0.2772927154935895
+AT4G34050,,vascular,non-panel,Liew_xylem,16,-0.401069133250492,-0.0415872665250783
+AT1G33800,,vascular,non-panel,Liew_xylem,15,-0.1603775366093267,0.1044146152896753
+AT3G06300,,QC_rootcap,non-panel,Liew_root_cap,15,0.049043351529899,-0.05356714261055
+AT3G14770,SWEET2,hypocotyl,Sugar_transporters_SWEET,Han:Cortex_hypocotyl,15,0.0391987600194989,0.0007855898711816
+AT4G37410,,QC_rootcap,non-panel,Liew_QC,15,0.4286474617614537,0.444387670587325
+AT1G17860,,QC_rootcap,non-panel,Liew_root_cap,15,0.4105674941492913,0.2202362064385614
+AT3G05880,,vascular,non-panel,Liew_xylem,15,0.4356936343454273,0.6324892506018761
+AT1G65845,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,15,0.5948205901335163,0.3951090875791083
+AT3G16430,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,15,-0.0787323189502113,-0.0347753325400137
+AT3G46440,,QC_rootcap,non-panel,Liew_root_cap,15,0.1253272821497029,0.2870521958077771
+AT2G39770,,QC_rootcap,non-panel,Liew_root_cap,14,0.0218994077998788,-0.1929767539183562
+AT4G30650,,QC_rootcap,non-panel,Liew_root_cap,14,0.6808692824407513,-0.516888994800964
+AT2G36650,,vascular,non-panel,Liew_provasculature,14,-0.3805079193299259,0.7651256730373257
+AT2G40610,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,14,1.372654691773322,-1.5487679594889068
+AT5G43380,,vascular,non-panel,Liew_provasculature,14,-0.2786127065895652,0.9015763387147956
+AT4G33220,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,13,0.0207034533655014,-0.1943711063747799
+AT5G39320,,QC_rootcap,non-panel,Liew_root_cap,13,-0.260553264515079,-0.2320828436048624
+AT5G63850,,vascular,non-panel,Liew_provasculature,13,-0.2935390533052472,-0.4267205944169207
+AT2G38940,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,13,0.3140920410210193,0.3289470670772754
+AT1G04220,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,13,-0.732851380409096,-0.198695474495857
+AT3G15353,,vascular,non-panel,Liew_provasculature,13,0.2850605992758528,-0.0312673010581913
+AT3G54560,,QC_rootcap,non-panel,Liew_QC,13,-0.1268222729483153,-0.4565338273231004
+AT1G62981,,vascular,non-panel,Liew_xylem,13,-1.0631765650828913,-2.138667867115331
+AT1G64640,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,13,-0.3553488500617254,-0.1234601832616783
+AT1G74100,,QC_rootcap,Glucosinolate biosynthesis,Liew_QC,13,-0.06715029952832,-0.342292049231009
+AT1G14080,,QC_rootcap,non-panel,Liew_root_cap,13,-0.1301045358820113,-0.0821291584158496
+AT5G06860,,QC_rootcap,non-panel,Liew_root_cap,13,0.4173400635735299,0.1901624431810106
+AT5G17330,,QC_rootcap,non-panel,Liew_root_cap,13,-0.2645993042113453,0.3511173209638789
+AT1G21110,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,13,-0.0875042333675567,-0.0452026059763174
+AT5G23730,,hypocotyl;CRY_circadian,Circadian rhythm - plant,Han:Cortex_hypocotyl,12,-0.3501717662436234,-0.8732952974866733
+AT5G17460,,vascular,non-panel,Liew_xylem,12,1.328070244622596,1.3401287161351103
+AT1G58360,,vascular,non-panel,Liew_provasculature,12,0.4482430524038716,0.759450987629246
+AT1G60810,,vascular,non-panel,Liew_xylem,12,-0.2009775919946663,-0.4641863447192053
+AT2G25980,,QC_rootcap,non-panel,Liew_root_cap,12,0.4468656026593189,1.4331195038031967
+AT2G26660,,vascular,non-panel,Liew_provasculature,12,0.1779673274476089,0.0385028231572605
+AT2G32380,,QC_rootcap,non-panel,Liew_root_cap,12,-0.0190212032755506,0.171948819311054
+AT1G58070,,vascular,non-panel,Liew_xylem,12,0.0076489119869579,-0.2728859469179586
+AT2G30395,,vascular,non-panel,Liew_xylem,12,0.5433380596398111,-0.2167761856078813
+AT2G22190,,vascular,non-panel,Liew_provasculature,12,0.3196895529032224,0.3474624423322703
+AT2G04850,,vascular,non-panel,Liew_xylem,12,-0.2511069752331315,-0.8018306452609262
+AT3G12860,,QC_rootcap,non-panel,Liew_QC,12,0.2240771807941763,0.0237258722842014
+AT1G33750,,QC_rootcap,non-panel,Liew_QC,12,-0.1789470090978225,3.252949996803052
+AT3G18280,,vascular,non-panel,Liew_xylem,12,-0.6599286911598864,0.676973047151249
+AT3G05890,,QC_rootcap,non-panel,Liew_root_cap,12,-0.2508132432833446,-0.0644986870575366
+AT1G48480,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,12,-0.478034705556903,-0.6265129282848763
+AT3G02170,,hypocotyl,non-panel,Han:Cortex_hypocotyl,12,-0.1988847995844847,-0.3113784083517282
+AT2G35810,,hypocotyl,non-panel,Han:Cortex_hypocotyl,12,-0.1201766994774562,-0.0304316612970138
+AT2G16700,,vascular,non-panel,Liew_provasculature,12,0.4199492825906999,0.6640342404390555
+AT1G14890,,vascular,non-panel,Liew_xylem,12,0.2525186207535537,0.6419313259414724
+AT5G02550,,QC_rootcap,non-panel,Liew_QC,12,-0.2635215120809123,-0.4970651887244776
+AT4G17940,,QC_rootcap,non-panel,Liew_root_cap,12,0.1276996133642363,0.6921188991946506
+AT5G43580,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,12,0.7872485638234589,1.310020952733392
+AT5G48010,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,12,-1.5018948621944823,0.7183759247429662
+AT5G57090,PIN2,QC_rootcap,Auxin_transporters_PIN,Liew_QC,12,0.0030166714714445,0.8381208841665927
+AT5G49460,,vascular,non-panel,Liew_xylem,12,-0.0398051490861953,-0.0339199914788341
+AT4G33145,,QC_rootcap,non-panel,Liew_QC,12,0.1265008046488505,1.138658711628456
+AT5G23860,,vascular,non-panel,Liew_xylem,12,-0.2121803793803757,-0.4266783586180021
+AT3G27200,,vascular,non-panel,Liew_xylem,12,-0.6441191326582106,-0.5853439068253307
+AT3G18660,,vascular,non-panel,Liew_xylem,12,-0.9951992828250064,-1.2466367245828298
+AT2G47600,,hypocotyl,non-panel,Han:Cortex_hypocotyl,12,-0.2218881930399893,0.556640337171454
+AT3G59670,,QC_rootcap,non-panel,Liew_QC,12,0.0105274541368965,0.1324749969139125
+AT4G11320,,hypocotyl,non-panel,Han:Cortex_hypocotyl,12,-1.2386423699244065,-2.668957822681979
+AT3G03270,,vascular,non-panel,Liew_provasculature,12,0.0022469064910043,0.5937453835428803
+AT1G73330,,hypocotyl,non-panel,Han:Cortex_hypocotyl,12,-1.0666438646184837,-1.1485949003019127
+AT4G19170,NCED4,ABA,ABA_biosynthesis,panel_only,11,0.6039708203851747,-0.4640479261913537
+AT4G22460,,hypocotyl,non-panel,Han:Cortex_hypocotyl,11,-0.0620431805873404,-0.0194945908816869
+AT5G26680,,other,Non-homologous end-joining,panel_only,11,-0.1085933833531065,0.1094339722766124
+AT5G16590,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,11,-0.3788995410995077,-0.4367811913201847
+AT5G14200,,other,Glucosinolate biosynthesis,panel_only,11,-0.7022412371688227,-0.953480508846358
+AT5G12870,,vascular,non-panel,Liew_xylem,11,-0.6602891896864439,-0.7538562752329887
+AT5G04080,,vascular,non-panel,Liew_provasculature,11,-0.0630541390760524,0.2881354530074453
+AT5G37020,,other,Plant hormone signal transduction,panel_only,11,-0.1968344546795368,-0.2010684866013075
+AT5G51940,,other,Nucleotide excision repair,panel_only,11,-0.0346103682940805,0.1611428896708299
+AT5G65210,,other,Plant hormone signal transduction,panel_only,11,-0.2115656417607558,0.0802166485036623
+AT1G04680,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,11,-0.568931676741259,-0.5486507849865504
+AT5G57220,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,11,-0.3086195935850323,-0.0166089944228193
+AT1G06475,,vascular,non-panel,Liew_provasculature,11,-0.4596133068438239,-0.6319646047289522
+AT5G50200,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,11,0.2613179213763343,0.1014376582219776
+AT5G45400,,other,Mismatch repair,panel_only,11,-0.062013102355692,-0.3279815958412879
+AT5G50760,,other,Plant hormone signal transduction,panel_only,11,0.1394236042356591,0.4323323400550059
+AT4G17360,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,11,-0.139903881181096,-1.1602977838263957
+AT1G45249,,other,Plant hormone signal transduction,panel_only,11,0.0525866053676956,0.7078994531480526
+AT3G06820,,other,Homologous recombination,panel_only,11,-0.0148150792973863,-0.1262167891792061
+AT3G61900,,other,Plant hormone signal transduction,panel_only,11,0.5201442620004441,0.8898383219247847
+AT3G50000,,CRY_circadian,Circadian rhythm - plant,panel_only,11,-0.0584300942724664,0.1071525756802197
+AT3G23750,,other,Plant hormone signal transduction,panel_only,11,-0.1141584824220256,0.120959764829164
+AT3G22320,,other,Nucleotide excision repair,panel_only,11,0.1090257633501268,0.0757936913643062
+AT4G00400,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,11,-0.1839057899623629,-0.3716377823799297
+AT1G45201,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,11,-0.2665764380381443,-0.6150974567148954
+AT3G14940,,other,Carbon fixation in photosynthetic organisms,panel_only,11,-0.2924524803240286,0.1009846558527679
+AT2G26080,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,11,0.0807027058409569,-0.4363998493462686
+AT1G77320,,other,Homologous recombination,panel_only,11,-0.1778650707688819,-0.1187186224570996
+AT2G01200,,other,Plant hormone signal transduction,panel_only,11,-0.095447693912791,1.0118228691466105
+AT1G63500,,other,Plant hormone signal transduction,panel_only,11,0.0744145208108861,0.0068614865997046
+AT1G66150,,other,Plant hormone signal transduction,panel_only,11,-0.2140340050707166,0.0917106362684306
+AT3G25930,,hypocotyl,non-panel,Han:Cortex_hypocotyl,10,-0.3052205320580532,-0.4709352012148131
+AT2G37090,,vascular,non-panel,Liew_xylem,10,-0.846768484512083,-0.995883353179736
+AT5G17450,,vascular,non-panel,Liew_provasculature,10,-0.5104088113225244,0.2376620026745566
+AT2G34020,,QC_rootcap,non-panel,Liew_QC,10,-0.2026070268892543,1.191392614958242
+AT2G22770,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,10,0.1373272975036517,-0.2772168897727473
+AT2G16005,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,10,0.5441661159717225,1.37847671419393
+AT5G23820,,QC_rootcap,non-panel,Liew_root_cap,10,-0.144722829818173,-0.5460695301365956
+AT4G09990,,vascular,non-panel,Liew_xylem,10,-0.7357887556162109,-1.1660645420171438
+AT5G47990,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis+Cortex_hypocotyl,10,-1.0988242095892649,2.4285068363703384
+AT5G59320,,QC_rootcap,non-panel,Liew_root_cap,10,-2.849800917939732,-0.7875561946112845
+AT1G76090,,hypocotyl,non-panel,Han:Cortex_hypocotyl,10,0.2003312793958976,0.1336906964521005
+AT5G48500,,vascular,non-panel,Liew_xylem,10,-0.328269557682237,-0.1043734859053299
+AT3G52900,,vascular,non-panel,Liew_xylem,10,-0.3982200720854543,-0.3195615473094503
+AT4G18640,,vascular,non-panel,Liew_xylem,10,-0.367463838206398,-0.5608394293265361
+AT2G39518,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,10,0.049031113754398,0.3345669792310179
+AT5G07800,,vascular,non-panel,Liew_xylem,10,-0.5791258491235473,-0.4404548084687663
+AT1G48670,,other,Plant hormone signal transduction,panel_only,9,0.8556056622519629,2.0534101199014114
+AT1G66410,,other,Plant hormone signal transduction,panel_only,9,0.1517248618329402,0.2097141632556985
+AT3G20100,,hypocotyl,non-panel,Han:Cortex_hypocotyl,9,0.0249295636279436,0.1258219930511045
+AT3G14150,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,9,-0.055232887308387,-0.2800587113215165
+AT1G30510,,other,Photosynthesis,panel_only,9,-0.2366372104365236,-0.5815995226504952
+AT3G14420,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,9,-0.3798923024433446,-0.5214094030821488
+AT3G15020,,other,Carbon fixation in photosynthetic organisms,panel_only,9,-0.1691279132286856,-0.2445139497502257
+AT3G49780,,other,Plant hormone signal transduction,panel_only,9,0.8299872994892987,1.183284983680748
+AT3G51600,,QC_rootcap,non-panel,Liew_root_cap,9,0.8398030632312273,0.910672642644858
+AT3G49120,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,9,0.3486019124242926,1.2235249009424276
+AT1G68050,,CRY_circadian,Circadian rhythm - plant,panel_only,9,1.411735408068601,0.7586205969140337
+AT5G64520,,other,Homologous recombination,panel_only,9,0.1450489033823172,-0.2500020031613725
+AT5G22010,,other,Mismatch repair,panel_only,9,-0.0477910949709396,-0.1365156653865006
+AT4G08920,CRY1,CRY_circadian,Photoreceptors,panel_only,9,0.2438177544911731,-0.2707229866045123
+AT3G62830,,QC_rootcap,non-panel,Liew_root_cap,9,-0.2333039117090426,0.0422274905540177
+AT2G16720,,vascular,non-panel,Liew_xylem,9,0.2907445346760136,0.4639902642398383
+AT4G24670,,other,Plant hormone signal transduction,panel_only,9,-0.573938001111447,-0.5124804570578957
+AT5G07030,,vascular,non-panel,Liew_xylem,9,-0.5384991882558219,0.198799462549459
+AT4G12410,,other,Plant hormone signal transduction,panel_only,9,0.1663837454900239,1.4681942373052077
+AT1G56010,,hypocotyl,non-panel,Han:Cortex_hypocotyl,9,0.0410860081048385,0.7170142144457596
+AT4G27435,,vascular,non-panel,Liew_xylem,9,-0.6890798529711883,-0.575532146825969
+AT3G16870,,QC_rootcap,non-panel,Liew_QC,9,-0.1405119541933538,-0.1534489690998375
+AT4G33950,SnRK2.6/OST1,ABA,ABA_signaling,panel_only,9,0.7496600215045119,0.457285946436643
+AT4G30190,,other,Plant hormone signal transduction,panel_only,9,-0.3831462624474837,-0.0542683872139019
+AT1G18590,,other,Glucosinolate biosynthesis,panel_only,9,-0.322171387596538,-0.8304881917880248
+AT2G23600,,vascular,non-panel,Liew_provasculature,9,-0.060861477782887,-0.5264633568800257
+AT5G06839,,other,Plant hormone signal transduction,panel_only,9,-0.7837807617317779,0.441774287996115
+AT3G05090,,other,Fanconi anemia pathway,panel_only,9,0.1083008566883508,0.2276930040801879
+AT1G72770,,other,Plant hormone signal transduction,panel_only,9,0.0953699739890976,0.8376399755193228
+AT1G08320,,other,Plant hormone signal transduction,panel_only,9,-0.2172050011918794,0.989373856513376
+AT5G56150,,vascular,non-panel,Liew_provasculature,9,0.0648208479690558,-0.3181396773133944
+AT1G66200,,vascular,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),Liew_provasculature,9,-0.0540402649979748,-0.6927726829510933
+AT5G16630,,other,Nucleotide excision repair,panel_only,9,0.1434381016896206,0.4020097614960087
+AT1G53090,,CRY_circadian,Circadian rhythm - plant,panel_only,9,-0.227884801968251,-0.0764639668908292
+AT2G22170,,QC_rootcap,non-panel,Liew_root_cap,9,0.3430841869797925,-0.331581561985833
+AT4G04695,,other,Plant hormone signal transduction,panel_only,9,-0.1155842247496946,-0.0869920134177308
+AT1G79870,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,9,0.0849931806602832,-0.1922129555290207
+AT4G32320,APX6,ROS,ROS_scavenging,panel_only,9,0.1810712407969437,0.3200757647405536
+AT4G35230,,other,Plant hormone signal transduction,panel_only,9,0.0452143704466787,0.4783288243414111
+AT1G43670,,other,Carbon fixation in photosynthetic organisms,panel_only,9,0.7434452386822517,0.1117922369777029
+AT1G77330,,hypocotyl;QC_rootcap,non-panel,Han:Cortex_hypocotyl|Liew_root_cap,9,0.2032770015286033,0.7263886062680917
+AT3G54850,,other,Plant hormone signal transduction,panel_only,9,0.012233763688537,0.4834782732473663
+AT4G30360,,other,Plant hormone signal transduction,panel_only,9,-0.1488755243031968,0.2718040434757429
+AT1G73730,,other,Plant hormone signal transduction,panel_only,9,-0.0503751022870309,-0.1174848447030219
+AT3G52930,,other,Carbon fixation in photosynthetic organisms,panel_only,9,-0.0769076962402946,-0.0588545419772133
+AT2G14900,GA2OX1,GA,GA_biosynthesis,panel_only,9,-0.2340828139272823,0.5990057858553837
+AT1G22020,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,9,0.0420238242408286,0.1938014222202634
+AT2G43100,,other,Glucosinolate biosynthesis,panel_only,9,-0.7212443917902176,-1.163459246279558
+AT5G15490,,QC_rootcap,non-panel,Liew_root_cap,9,-0.327387259232534,-0.2767659853570443
+AT1G23460,,vascular,non-panel,Liew_xylem,9,-0.3689348903576763,-0.224531750978453
+AT4G12480,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,9,0.1501301806804542,-1.0623995013515486
+AT2G19590,,QC_rootcap,non-panel,Liew_root_cap,9,-0.1364680220219523,1.115328772229302
+AT5G23420,,QC_rootcap,non-panel,Liew_QC,9,0.0186514180750721,-0.1765435162456849
+AT2G45790,,QC_rootcap,non-panel,Liew_root_cap,9,0.0841470448623733,-0.1392527859314725
+AT1G79050,,other,Homologous recombination,panel_only,9,-0.001177803609793,0.0758269344398245
+AT5G37600,,hypocotyl,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),Han:E.hypocotyl_epidermis,9,0.0982640981200558,0.312651885338177
+AT2G48090,,vascular,non-panel,Liew_provasculature,9,-1.1956309874010815,-0.7662120393240422
+AT5G60980,,QC_rootcap,non-panel,Liew_QC,9,-0.1170310636802105,0.383525022413212
+AT5G63650,,other,Plant hormone signal transduction,panel_only,9,-0.08061334643355,0.0836840375392474
+AT2G38320,,vascular,non-panel,Liew_xylem,9,-0.2277544515546954,-1.2153501646190144
+AT2G19900,,other,Carbon fixation in photosynthetic organisms,panel_only,9,1.0750361092686134,1.2909744825458078
+AT1G36060,,QC_rootcap,non-panel,Liew_QC,9,0.4903860272708329,0.816938412256239
+AT3G55440,,other,Carbon fixation in photosynthetic organisms,panel_only,9,0.029603839203771,-0.1901086437563691
+AT5G04140,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,8,-0.1104949262336579,-1.1236479644480928
+AT4G37930,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,8,-0.1266154085463453,-1.6777558326642803
+AT1G28290,,QC_rootcap,non-panel,Liew_root_cap,8,-0.2624031467045963,0.1776162275893683
+AT1G29510,,other,Plant hormone signal transduction,panel_only,8,0.4758683490022946,0.5116097014914072
+AT5G59290,,vascular,non-panel,Liew_xylem,8,-0.2020664940512604,-0.2380762477373167
+AT5G65360,,QC_rootcap,non-panel,Liew_QC,8,-0.2399328290920813,-0.5649200173823208
+AT3G15240,,QC_rootcap,non-panel,Liew_QC,8,0.0063069194912918,0.0644932656156723
+AT5G19550,,other,Carbon fixation in photosynthetic organisms,panel_only,8,-0.0367969448180706,0.2423710357058407
+AT3G17820,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,8,-0.1661831364331273,0.1661011846623694
+AT3G19620,,vascular,non-panel,Liew_xylem,8,0.0860609497903509,-1.064132476338297
+AT5G57050,ABI2,ABA,ABA_signaling,panel_only,8,0.1447201451590735,1.5772191922610606
+AT5G58330,,other,Carbon fixation in photosynthetic organisms,panel_only,8,0.0929101911500423,-0.5533689634621589
+AT5G03170,,vascular,non-panel,Liew_xylem,8,-0.8713197454217436,-0.8041948103771484
+AT1G68490,,vascular,non-panel,Liew_provasculature,8,0.0720551733929289,0.1372368072728093
+AT5G26270,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,8,0.9405546103300224,-0.2455898343562233
+AT5G24110,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,8,0.163519287188756,-2.4450699822644224
+AT1G51340,,vascular,non-panel,Liew_provasculature,8,-0.6058178690658453,-0.124358075695934
+AT2G22140,,other,Fanconi anemia pathway,panel_only,8,-0.6293654334337433,-0.5029829496343929
+AT4G01600,,vascular,non-panel,Liew_provasculature,8,0.2656917429966187,0.0268773533761349
+AT4G00880,,other,Plant hormone signal transduction,panel_only,8,-0.1351217571866828,-0.9282331452832144
+AT4G03190,,other,Plant hormone signal transduction,panel_only,8,-0.0857969611002471,-0.0328863730172423
+AT4G01700,,QC_rootcap,non-panel,Liew_root_cap,8,0.659408164351263,-0.1578511196959853
+AT3G63010,GID1B,GA,GA_signaling,panel_only,8,0.0366535454304175,0.5922094076430786
+AT5G46570,,other,Plant hormone signal transduction,panel_only,8,-0.0711368570338078,-0.5154283603701366
+AT1G78290,,other,Plant hormone signal transduction,panel_only,8,0.2957673495156532,1.03585759843886
+AT3G60690,,other,Plant hormone signal transduction,panel_only,8,0.3075348798686025,-0.1070611451110615
+AT5G42146,,vascular,non-panel,Liew_provasculature,8,-0.3414828550303173,0.349521807398824
+AT5G42825,,hypocotyl,non-panel,Han:Cortex_hypocotyl,8,0.2525194874791477,0.6952580597045935
+AT2G01140,,other,Carbon fixation in photosynthetic organisms,panel_only,8,-0.005009127766476,0.0926880235515298
+AT2G03830,,QC_rootcap,non-panel,Liew_QC,8,-1.0362300735158705,2.4826505671228394
+AT2G46990,,other,Plant hormone signal transduction,panel_only,8,-0.0465978451001835,-0.0335511067469543
+AT1G76100,,other,Photosynthesis,panel_only,8,0.1490707681258976,-0.7199103664581196
+AT5G54510,,other,Plant hormone signal transduction,panel_only,8,0.3699657586323679,-0.1852715255002136
+AT5G65690,,other,Carbon fixation in photosynthetic organisms,panel_only,8,-0.3878745241245037,1.39114998074938
+AT5G13420,,other,Carbon fixation in photosynthetic organisms,panel_only,8,-0.3777328118217877,0.2119612987098883
+AT3G02380,,CRY_circadian,Circadian rhythm - plant,panel_only,8,-0.3078750291140868,-1.1065229497595763
+AT3G55090,ABCG16,other,Hormone_transporters_ABCG,panel_only,8,-0.3146169302351869,3.520278252500165
+AT3G55330,,other,Photosynthesis,panel_only,8,0.0023424158412046,-1.0190476006296407
+AT3G55990,,vascular,non-panel,Liew_xylem,8,-1.1910328405553483,-1.0647518380993652
+AT5G47910,RBOHG,ROS,ROS_core_NMF,panel_only,8,-0.2355624848938273,-0.3693496564487784
+AT1G09090,RBOHB,ROS,ROS_scavenging,panel_only,8,-0.5142976488978032,0.552913002214815
+AT5G61000,,other,Mismatch repair,panel_only,8,-0.3081359718274596,-0.5438966576947774
+AT1G76570,,other,Photosynthesis - antenna proteins,panel_only,8,0.1404394308628422,-0.5454089829758022
+AT2G41090,,other,Plant hormone signal transduction,panel_only,8,-0.100919785958598,-0.3469637034819482
+AT1G16510,,other,Plant hormone signal transduction,panel_only,8,0.505390673834495,-0.3090081882966898
+AT2G43050,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,8,-0.1689508353745104,0.6830271898608443
+AT5G09920,,other,Nucleotide excision repair,panel_only,8,0.073161475825945,-0.0523539634170663
+AT2G38810,,QC_rootcap,non-panel,Liew_QC,8,-0.1950868507752143,-0.4879718713278407
+AT2G36380,ABCG34,other,Hormone_transporters_ABCG,panel_only,8,-0.1727939601422519,0.348141152238086
+AT2G21210,,other,Plant hormone signal transduction,panel_only,8,-0.197107652414971,-0.1139872201490218
+AT5G20570,,other,Nucleotide excision repair,panel_only,8,0.1080898616855177,0.0529054280999929
+AT2G42600,,other,Carbon fixation in photosynthetic organisms,panel_only,8,-0.0283485065773771,-0.3345777431712295
+AT2G42570,,QC_rootcap,non-panel,Liew_root_cap,8,-0.3055498060085766,0.1042886095711539
+AT2G15430,,other,Nucleotide excision repair,panel_only,8,0.0441051572523087,0.0662808435673187
+AT1G22710,,vascular,non-panel,Liew_provasculature,8,0.0972291003051016,0.2376712016343386
+AT1G11740,,hypocotyl,non-panel,Han:Cortex_hypocotyl,8,-0.5216881806030107,-0.5648010664280193
+AT2G13560,,other,Carbon fixation in photosynthetic organisms,panel_only,8,-0.0452582296230567,-0.0951447899590284
+AT1G62990,,vascular,non-panel,Liew_xylem,8,-0.6902440795732611,-0.2517722310424306
+AT1G20020,,other,Photosynthesis,panel_only,8,-0.135038658378144,-1.227017526646004
+AT4G24510,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,8,1.2124522615464766,-0.2683513631385116
+AT1G62570,,vascular,non-panel,Liew_provasculature,8,0.4187352386024294,1.5463944021757885
+AT1G62510,,hypocotyl,non-panel,Han:Cortex_hypocotyl,8,1.4123127968360345,0.8317676880362322
+AT5G04530,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,8,0.4889697184922703,-1.4667507079509028
+AT1G55210,,vascular,non-panel,Liew_xylem,8,-0.5350758755575533,-0.1105626457763362
+AT4G34230,,vascular,non-panel,Liew_xylem,8,-0.421026427146373,0.3852210013351496
+AT4G36110,,other,Plant hormone signal transduction,panel_only,8,0.0466635671855827,1.60150971645799
+AT4G28660,,other,Photosynthesis,panel_only,8,-0.1907276529016646,-1.6650012144383457
+AT4G31290,,QC_rootcap,non-panel,Liew_QC,8,0.475817004876357,0.5700931823498612
+AT4G32260,,other,Photosynthesis,panel_only,8,0.2831727304118551,-0.7706245002406992
+AT1G56680,,QC_rootcap,non-panel,Liew_QC,8,-0.825129289478909,-0.561875803020633
+AT2G29380,,other,Plant hormone signal transduction,panel_only,8,-1.2051599743732362,1.130934627270845
+AT3G20410,,other,Plant hormone signal transduction,panel_only,8,0.0343153325036506,0.5710306771010764
+AT3G21510,,other,Plant hormone signal transduction,panel_only,8,0.5642387786768444,0.7134891753786894
+AT3G20470,,hypocotyl;QC_rootcap,non-panel,Han:E.hypocotyl_epidermis|Liew_root_cap,8,-0.31148977926206,0.3062580940837907
+AT3G23030,,other,Plant hormone signal transduction,panel_only,8,0.1884226828820079,0.2490225971893289
+AT1G05160,,GA,Diterpenoid biosynthesis (GA biosynthesis),panel_only,8,0.1536949954612016,0.1288492345922998
+AT1G06830,,vascular,non-panel,Liew_provasculature,8,-0.1182207591274906,-1.164534701663495
+AT5G09980,,QC_rootcap,non-panel,Liew_QC,8,-0.6646724223979531,0.7198662550574059
+AT3G17240,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,7,-0.0526341651553405,0.2271914498773498
+AT1G07430,,other,Plant hormone signal transduction,panel_only,7,1.588207424182343,2.272279680685356
+AT5G59870,,QC_rootcap,non-panel,Liew_QC,7,-0.2235507125611241,-0.8467002618462484
+AT1G55750,,other,Nucleotide excision repair,panel_only,7,0.005623423308547,-0.0955561890026873
+AT2G33790,,QC_rootcap,non-panel,Liew_root_cap,7,-0.8571109885279359,-0.35805814705955
+AT4G37260,,QC_rootcap,non-panel,Liew_QC,7,0.2567199251600376,-0.0392622413859099
+AT1G55330,,vascular,non-panel,Liew_xylem,7,-0.4760104560511048,-0.7274859346056487
+AT2G28410,,vascular,non-panel,Liew_xylem,7,-0.3076077976054631,-0.5134938934740817
+AT2G25180,,other,Plant hormone signal transduction,panel_only,7,0.0466628065221162,-0.2729857508594762
+AT5G62880,,vascular,non-panel,Liew_xylem,7,-0.02239432254562,0.3171615152274237
+AT4G29020,,QC_rootcap,non-panel,Liew_root_cap,7,-3.833104977770168,0.3256638066079143
+AT3G16500,,vascular,Plant hormone signal transduction,Liew_provasculature,7,-0.1800817065197612,0.0259063831308943
+AT3G16530,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,7,-0.297544181639769,-1.1936693487145067
+AT3G16910,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,7,0.1157593919955225,0.507473519712747
+AT3G17160,,QC_rootcap,non-panel,Liew_QC,7,-0.0257502156635396,0.1494217035822233
+AT3G58660,,QC_rootcap,non-panel,Liew_QC,7,-0.1365828059750548,0.1744588801459109
+AT1G77920,,other,Plant hormone signal transduction,panel_only,7,-0.128567282734486,0.5982701435606846
+AT1G08390,,other,Fanconi anemia pathway,panel_only,7,0.2578506111143636,-0.6060147048121304
+AT5G45650,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,7,-0.5339217661921083,-0.6343973355578136
+AT1G75590,,other,Plant hormone signal transduction,panel_only,7,-0.1497955450774137,1.103403480115445
+AT1G73650,,hypocotyl,non-panel,Han:Cortex_hypocotyl,7,0.2305827356698706,-0.4520635360321887
+AT3G52748,,QC_rootcap,non-panel,Liew_QC,7,-2.0824617574344937,1.16243716856877
+AT3G52370,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,7,-0.9685034749313276,-0.9650331111410452
+AT5G47450,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis+Cortex_hypocotyl,7,-0.2948307774380163,0.9811021717559312
+AT5G66280,,QC_rootcap,non-panel,Liew_root_cap,7,-0.440538501467916,-0.027319494287432
+AT5G13870,,QC_rootcap,non-panel,Liew_QC,7,-0.0396669577093553,0.275102688025003
+AT5G60650,,vascular,non-panel,Liew_xylem,7,-0.3801355588237145,-2.914920037197033
+AT1G68430,,vascular,non-panel,Liew_provasculature,7,-0.2255668688093069,-0.0408729516482236
+AT1G69572,,vascular,non-panel,Liew_provasculature,7,-0.2348724476046545,0.1634231611713864
+AT3G51920,,QC_rootcap,non-panel,Liew_root_cap,7,0.2995108273403906,-0.2586670142097132
+AT1G48750,,vascular,non-panel,Liew_provasculature,7,-1.3033909020579926,-1.2724713316531429
+AT1G67330,,QC_rootcap,non-panel,Liew_root_cap,7,-0.2268512098348593,3.169814993681875
+AT3G16460,,QC_rootcap,non-panel,Liew_root_cap,7,-0.0761928197098589,0.1025844011741117
+AT3G29034,,QC_rootcap,non-panel,Liew_root_cap,7,-0.2023598108229643,0.6158699285502709
+AT2G41312,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,7,-0.0516687171080996,-0.823331170010527
+AT1G13590,,QC_rootcap,Plant hormone signal transduction,Liew_QC,7,0.413433850595954,1.4941537490782364
+AT1G23080,PIN7,other,Auxin_transporters_PIN,panel_only,7,-0.3788062634168785,-0.5353434288581026
+AT5G26260,,hypocotyl;QC_rootcap,non-panel,Han:E.hypocotyl_epidermis|Liew_root_cap,7,-0.2741228621266396,0.1581032907123736
+AT1G80270,,QC_rootcap,non-panel,Liew_QC,7,-0.0314499861353993,0.1786752681236675
+AT4G13890,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,7,-2.712671336948601,1.588416406662421
+AT5G23750,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis+Cortex_hypocotyl,7,-0.1922308825762486,0.126663408071485
+AT5G17650,,vascular,non-panel,Liew_provasculature,7,0.2667046523709869,0.3228707526686733
+AT5G10030,,other,Plant hormone signal transduction,panel_only,7,-0.2311494940049051,-0.343394372446327
+AT5G10400,,QC_rootcap,non-panel,Liew_QC,7,-0.0002644279955996,-0.4934178424603719
+AT1G62800,,other,Carbon fixation in photosynthetic organisms,panel_only,7,-0.056392255698272,-0.1213198228620264
+AT1G61820,,hypocotyl,non-panel,Han:Cortex_hypocotyl,7,-0.4522436988190459,-0.1121976081291544
+AT4G21960,,QC_rootcap,non-panel,Liew_QC,7,-0.0615685001279016,-0.0541892078090729
+AT3G46280,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,7,-0.0577959977520409,0.4357171186498333
+AT3G45980,,QC_rootcap,non-panel,Liew_QC,7,0.0898863656310042,-0.1442625937297853
+AT3G19010,,hypocotyl,non-panel,Han:Cortex_hypocotyl,7,0.6176351202411138,-0.3075015498090664
+AT1G35780,,vascular,non-panel,Liew_xylem,7,-0.2073703777609299,-0.0073292473193146
+AT3G05210,,other,Fanconi anemia pathway,panel_only,6,0.2977813251940516,0.4563922072857773
+AT4G27230,,QC_rootcap,non-panel,Liew_QC,6,-0.155175243225751,-0.5467467286599418
+AT5G22090,,vascular,non-panel,Liew_provasculature,6,-0.2068238237376673,-0.305459557630455
+AT3G09260,,QC_rootcap,non-panel,Liew_root_cap,6,0.1882340257560597,-0.1953690242383955
+AT1G79430,,vascular,non-panel,Liew_provasculature,6,0.0792265272675347,0.4382041208430396
+AT3G56800,,other,Plant hormone signal transduction,panel_only,6,-0.1532808789475713,-0.221402561286729
+AT1G11545,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,6,-0.4578683485969007,-0.2399629302055523
+AT5G27690,,vascular,non-panel,Liew_provasculature,6,0.4352573853591524,-0.2141536189803096
+AT1G52910,,QC_rootcap,non-panel,Liew_root_cap,6,-0.4957360692160399,-0.4043428664629574
+AT1G58270,,QC_rootcap,non-panel,Liew_root_cap,6,0.4355091835803699,0.0008471334349597
+AT2G35120,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,6,-0.1593564490836676,0.0943765341253039
+AT2G38400,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,6,0.0543547554337134,0.8244537232254926
+AT1G15700,,other,Photosynthesis,panel_only,6,0.2619507637304715,0.4599980339533646
+AT2G42120,,other,Mismatch repair,panel_only,6,-0.2703635724589143,-0.1735934722250479
+AT5G17420,,vascular,non-panel,Liew_xylem,6,-1.0382388168668142,-0.467078432515809
+AT3G23210,,vascular,non-panel,Liew_provasculature,6,-0.484919186086895,-0.626504670690979
+AT5G58660,,GA,Diterpenoid biosynthesis (GA biosynthesis),panel_only,6,0.8931963653856796,1.4395200561938852
+AT5G48900,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,6,-0.3288658187099539,-0.4296474707615393
+AT5G02600,,vascular,non-panel,Liew_provasculature,6,0.028940175075715,0.0873750800577326
+AT5G60490,,vascular,non-panel,Liew_xylem,6,-0.7224394501281396,-1.2714012292110486
+AT3G17780,,QC_rootcap,non-panel,Liew_root_cap,6,-0.0514019772464946,-0.248418596835231
+AT3G23450,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,6,-0.3394482454105509,0.5486061337940172
+AT1G56580,,QC_rootcap,non-panel,Liew_root_cap,6,0.0695502241237039,0.122981257341891
+AT4G28640,,vascular,Plant hormone signal transduction,Liew_provasculature,6,-0.1059183302995929,-0.4248946152356695
+AT4G36780,,other,Plant hormone signal transduction,panel_only,6,0.2965149903772769,0.2617990419017512
+AT1G54030,,hypocotyl;QC_rootcap,non-panel,Han:E.hypocotyl_epidermis|Liew_root_cap,6,0.0797780665864499,0.0847760137334576
+AT1G19830,,other,Plant hormone signal transduction,panel_only,6,-0.1916227089348411,-1.0810512092923483
+AT1G20190,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis+Cortex_hypocotyl,6,-0.0376961431939361,-0.4174342915283657
+AT1G03970,,other,Plant hormone signal transduction,panel_only,6,0.3893884582467653,0.4608856379324632
+AT3G14890,,other,Base excision repair,panel_only,6,-0.2774735594780453,-0.3297271327879746
+AT1G35530,,other,Fanconi anemia pathway,panel_only,6,-0.3449366049210711,-0.9531733852957928
+AT3G12730,,vascular,non-panel,Liew_provasculature,6,0.1473992335281253,0.0116869184113983
+AT4G00020,,other,Fanconi anemia pathway,panel_only,6,-0.2513027395807277,-0.3682897861149383
+AT1G72800,,vascular,non-panel,Liew_provasculature,6,-0.0558231029944656,0.5441935259886207
+AT3G16420,,QC_rootcap,non-panel,Liew_root_cap,6,0.2103205823302452,0.0044244010746269
+AT5G66590,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,6,-0.0734831862971886,-0.2756488072635111
+AT5G51890,,vascular,non-panel,Liew_xylem,6,-0.5068392539219013,-0.8456069520645819
+AT2G01570,RGA1,other,Hub_transporter_core,panel_only,6,-0.2362644403251176,0.2316405180851065
+AT1G10520,,other,Non-homologous end-joining,panel_only,6,-0.3588696020873909,-0.1383316191528593
+AT1G60870,,vascular,non-panel,Liew_provasculature,6,0.3403096976224336,-0.1101550852783336
+AT4G16110,,other,Plant hormone signal transduction,panel_only,6,-0.0832999363058392,0.2064725521871281
+AT1G59940,,other,Plant hormone signal transduction,panel_only,6,0.7980246419066254,1.126828649677046
+AT4G19840,,vascular,non-panel,Liew_provasculature,6,-0.0498261146246476,-0.0620313333884006
+AT4G25540,,other,Mismatch repair,panel_only,6,-0.6998533919812197,-0.4766126776569696
+AT1G25230,,vascular,non-panel,Liew_xylem,6,-0.2461658337084844,-0.414351376523202
+AT2G45210,,other,Plant hormone signal transduction,panel_only,6,0.0047131823732846,0.1453525094973866
+AT3G62020,,vascular,non-panel,Liew_xylem,6,-0.7804875438886733,-0.507072310310115
+AT4G14970,,other,Fanconi anemia pathway,panel_only,6,-0.4560398883159582,-0.4817638138420002
+AT4G15120,,vascular,non-panel,Liew_provasculature,6,-0.1605030951431759,0.4626028808402739
+AT2G46630,,vascular,non-panel,Liew_provasculature,6,-0.6186805452364049,-0.3239149765843605
+AT2G02950,,hypocotyl,non-panel,Han:Cortex_hypocotyl,6,0.3782063003320416,-1.5015463753590546
+AT5G62920,,other,Plant hormone signal transduction,panel_only,5,-0.381452729871982,-0.317488278516374
+AT5G44740,,other,Fanconi anemia pathway,panel_only,5,-0.2735315577667094,-0.3745235447371186
+AT5G50790,SWEET10,other,Sugar_transporters_SWEET,panel_only,5,-0.8381973718605064,2.354564234930272
+AT3G21220,,other,Plant hormone signal transduction,panel_only,5,-0.132588194582071,0.2461573275088141
+AT3G21550,,vascular,non-panel,Liew_xylem,5,-0.8613474436671759,-0.5779252667561087
+AT5G64380,,other,Carbon fixation in photosynthetic organisms,panel_only,5,0.4332826228743727,-0.2193308428948708
+AT1G06760,,QC_rootcap,non-panel,Liew_QC,5,0.2600814260811155,0.0458542676714687
+AT1G70940,PIN3,other,Auxin_transporters_PIN,panel_only,5,-0.49251531255707,-0.6407980777496646
+AT5G06850,,vascular,non-panel,Liew_provasculature,5,-0.2325998223729012,0.317300399959567
+AT2G31870,,other,Base excision repair,panel_only,5,0.1246781232250699,-0.0907857687354355
+AT4G36410,,vascular,non-panel,Liew_provasculature,5,1.1330054202175064,-0.6620715743825317
+AT4G37560,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,5,0.3890202683846384,-0.2563594970165906
+AT4G38850,,other,Plant hormone signal transduction,panel_only,5,1.4846239118880291,-2.309060361929813
+AT1G17650,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,5,-0.243428698098268,-1.016042228452117
+AT2G28740,,QC_rootcap,non-panel,Liew_QC,5,-0.1287559645013793,-0.3171051086441329
+AT2G31865,,other,Base excision repair,panel_only,5,0.0907174141875789,-0.0820609926023499
+AT4G31920,,other,Plant hormone signal transduction,panel_only,5,-0.1689422740305252,-0.4114496679762986
+AT2G30540,,vascular,non-panel,Liew_provasculature,5,0.169563873845235,-0.5922582381797983
+AT2G31450,,other,Base excision repair,panel_only,5,-0.0551095039805471,-0.3417683117079928
+AT1G23750,,QC_rootcap,non-panel,Liew_root_cap,5,0.3828741662505323,-0.991517437952473
+AT2G16500,,vascular,non-panel,Liew_provasculature,5,0.094952476521922,0.134969504434295
+AT2G05100,,other,Photosynthesis - antenna proteins,panel_only,5,-0.6174063176500693,-1.746576467282761
+AT4G01750,,QC_rootcap,non-panel,Liew_root_cap,5,-0.171710273048405,0.2061046006374522
+AT1G80850,,other,Base excision repair,panel_only,5,0.1535224996861114,-0.5583850167832136
+AT5G43700,,other,Plant hormone signal transduction,panel_only,5,0.1822211555068196,-0.1061332201824906
+AT5G08330,,CRY_circadian,Circadian rhythm - plant,panel_only,5,0.1024356327114777,-0.277406011814719
+AT4G17020,,other,Nucleotide excision repair,panel_only,5,-0.0958263419277134,-0.2242520821077786
+AT4G16265,,other,Nucleotide excision repair,panel_only,5,-0.112062962463812,-0.9296059421950332
+AT4G17870,,other,Plant hormone signal transduction,panel_only,5,-0.0851534316707443,-0.7506049576950392
+AT5G19360,,other,Plant hormone signal transduction,panel_only,5,-0.5800782507871334,0.93591633855152
+AT4G23690,,vascular,non-panel,Liew_xylem,5,-0.6838467749910028,0.0467859926878166
+AT1G13950,,QC_rootcap,non-panel,Liew_root_cap,5,-0.094638133812186,-0.7639531664781174
+AT2G39940,,other,Plant hormone signal transduction,panel_only,5,0.0282617372691786,0.4673203666285351
+AT1G16190,,other,Nucleotide excision repair,panel_only,5,-0.0559820381248926,-0.1396216581155696
+AT5G18850,,hypocotyl,non-panel,Han:Cortex_hypocotyl,5,0.0862913780282748,0.2952565146644726
+AT1G15050,,other,Plant hormone signal transduction,panel_only,5,1.1827137692184906,0.4514857399426598
+AT2G40670,,other,Plant hormone signal transduction,panel_only,5,-0.1549117255202919,0.0497168449403195
+AT2G41070,,other,Plant hormone signal transduction,panel_only,5,-0.3951464863624123,0.4047028261481238
+AT1G12110,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,5,-0.1956551773506264,-0.7523089295418828
+AT1G21120,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,5,-0.553653126957706,0.4963301871048244
+AT4G05420,,other,Nucleotide excision repair,panel_only,5,0.0474111380743793,0.2182922211915038
+AT2G46790,PRR9,CRY_circadian,Circadian_core,panel_only,5,1.206116721828244,1.026690457908213
+AT2G47485,,QC_rootcap,non-panel,Liew_root_cap,5,0.538290823755661,0.4720291704259891
+AT2G47750,,other,Plant hormone signal transduction,panel_only,5,-0.1714514209646195,0.1799816032951895
+AT2G47900,TLP3,CRY_circadian,Photoreceptors,panel_only,5,0.0354567779573774,-0.0754614699092093
+AT5G27320,GID1C,GA,GA_signaling,panel_only,5,0.1450393881376335,0.3778288424423046
+AT3G53250,,other,Plant hormone signal transduction,panel_only,5,1.0347060749651014,0.6154281388353988
+AT3G58750,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,5,0.4627583811038286,0.523687635037203
+AT3G59060,,other,Plant hormone signal transduction,panel_only,5,0.319626254859098,-0.0412678826751095
+AT1G78440,,GA,Diterpenoid biosynthesis (GA biosynthesis),panel_only,5,-1.3568558307022176,-1.3620905393198006
+AT3G61190,,QC_rootcap,non-panel,Liew_QC,5,1.7192879911472587,0.3559042356858423
+AT5G60720,,vascular,non-panel,Liew_xylem,5,-0.7181888381415371,-1.416847221209004
+AT4G23010,,QC_rootcap,non-panel,Liew_root_cap,5,0.4015232939097601,-0.0942152180632339
+AT1G79750,,other,Carbon fixation in photosynthetic organisms,panel_only,5,0.070589251543352,0.2635116064953191
+AT1G79650,,other,Nucleotide excision repair,panel_only,5,0.0592561691544358,-0.1566712975296323
+AT1G48050,,other,Non-homologous end-joining,panel_only,5,-0.1123773840100136,-0.105420774098327
+AT3G56760,,vascular,Plant hormone signal transduction,Liew_provasculature,5,-0.0758514938893679,-0.0890441142499608
+AT3G09870,,other,Plant hormone signal transduction,panel_only,5,1.3016105506793243,-0.25965445944541
+AT3G10660,,other,Plant hormone signal transduction,panel_only,5,0.0090395546508205,-0.2987686494325173
+AT1G72140,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,5,0.0140600121691406,-0.8336632123793993
+AT1G75580,,other,Plant hormone signal transduction,panel_only,5,-0.035514132848161,0.0509554700946069
+AT3G53620,,vascular,non-panel,Liew_xylem,5,-0.2475574917581513,-0.1135699264924896
+AT3G50660,,hypocotyl,non-panel,Han:Cortex_hypocotyl,5,0.2462434042333423,-0.0198367723821591
+AT3G47520,,other,Carbon fixation in photosynthetic organisms,panel_only,5,0.058147558222313,0.0993132980223654
+AT3G50070,,other,Plant hormone signal transduction,panel_only,5,0.0108205039903621,0.0178878890480101
+AT1G68010,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,5,-0.0605370070327129,-0.6686609223143987
+AT3G46700,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,5,-0.2923951215584157,1.0295545698117872
+AT3G45930,,QC_rootcap,non-panel,Liew_QC,5,-0.1011154220332165,-0.2696890330179857
+AT1G35670,,other,Plant hormone signal transduction,panel_only,5,0.3919100190910676,0.1739762930878944
+AT1G33790,,QC_rootcap,non-panel,Liew_QC,5,0.6364381946849313,0.856748785715868
+AT5G58080,,other,Plant hormone signal transduction,panel_only,5,1.1313862055192734,-2.295638987322883
+AT5G63960,,other,Mismatch repair,panel_only,5,-0.068308292002163,0.0405863081624366
+AT1G04040,,hypocotyl;QC_rootcap,non-panel,Han:E.hypocotyl_epidermis|Liew_root_cap,5,0.3139550387523243,-0.6173178972670925
+AT5G27620,,other,Nucleotide excision repair,panel_only,4,-0.2712445046884935,-0.2501424916656546
+AT3G19210,,other,Homologous recombination,panel_only,4,-0.0030702991438325,-0.4057861226276637
+AT5G43330,,other,Carbon fixation in photosynthetic organisms,panel_only,4,0.1271921527990562,0.0585044527448705
+AT4G37390,,other,Plant hormone signal transduction,panel_only,4,-0.3023248223482779,-0.320719829721708
+AT5G53160,RCAR3,ABA,ABA_signaling,panel_only,4,0.1812828211169651,0.4143164518641007
+AT4G04740,,other,Plant hormone signal transduction,panel_only,4,0.080937535821078,0.145715421907222
+AT5G37780,,other,Plant hormone signal transduction,panel_only,4,0.0817009358223265,0.0420223884764653
+AT5G49480,,other,Plant hormone signal transduction,panel_only,4,0.5512490517599521,0.3978750933944219
+AT5G35750,,other,Plant hormone signal transduction,panel_only,4,-0.1802109790008761,-0.1902080800431156
+AT5G44080,,other,Plant hormone signal transduction,panel_only,4,-0.0296032388606889,0.1596787924554982
+AT5G18080,,other,Plant hormone signal transduction,panel_only,4,0.6250122965480022,0.0660759279892173
+AT3G20898,,QC_rootcap,non-panel,Liew_QC,4,-0.2004575799400159,0.559520523303553
+AT5G46210,,other,Nucleotide excision repair,panel_only,4,0.0610699739242814,0.0155554565797077
+AT3G58990,,other,Glucosinolate biosynthesis,panel_only,4,-0.8314153325969054,-0.8136313050830326
+AT3G21720,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,4,1.3020296410490986,3.379599351445953
+AT4G29080,,other,Plant hormone signal transduction,panel_only,4,-0.6637924578247855,-0.2395344372580256
+AT3G20770,,other,Plant hormone signal transduction,panel_only,4,0.1652745994912286,0.3875250710046334
+AT1G67500,,other,Fanconi anemia pathway,panel_only,4,-0.1619158989965394,0.0781908983517973
+AT1G06390,,other,Plant hormone signal transduction,panel_only,4,0.0937159319892968,-0.0551824093808139
+AT3G16150,,QC_rootcap,non-panel,Liew_QC,4,-1.22177204732892,0.0185553430782977
+AT3G14930,HEMA1,other,Gravitropism,panel_only,4,0.3020347520801917,-0.3124810997979365
+AT1G69870,NPF3.1,other,Hormone_transporters_NPF,panel_only,4,-1.3959622696031757,-0.2563664194642066
+AT1G70850,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,4,-0.5790679758257867,0.800631855275754
+AT1G70890,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,4,0.1810985223750774,-1.102916019090328
+AT1G04550,,other,Plant hormone signal transduction,panel_only,4,-0.3753378348738663,-0.1299438237726293
+AT5G42420,,QC_rootcap,non-panel,Liew_root_cap,4,0.1650330620647532,-0.0723292623018949
+AT4G19420,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis+Cortex_hypocotyl,4,-0.192321864026436,0.2129815454158436
+AT5G66260,,other,Plant hormone signal transduction,panel_only,4,1.362223335897412,1.1228657484839648
+AT5G56720,,other,Carbon fixation in photosynthetic organisms,panel_only,4,-0.9601415284368594,0.6755056433099046
+AT3G18524,,other,Mismatch repair,panel_only,4,-0.1575184247714155,-0.0667159174441847
+AT3G45010,,vascular,non-panel,Liew_xylem,4,-0.8444191128528509,0.6310714067860586
+AT3G45650,NPF7.3,other,Hormone_transporters_NPF,panel_only,4,-0.3028082683163474,-0.4738503610780343
+AT3G46320,,QC_rootcap,non-panel,Liew_QC,4,-0.2444401835410342,-0.4137110464649273
+AT3G19710,,other,Glucosinolate biosynthesis,panel_only,4,-0.8167213831332397,-0.9864357883387695
+AT3G12250,,other,Plant hormone signal transduction,panel_only,4,0.001437687958509,0.4108070560587966
+AT3G12780,,other,Carbon fixation in photosynthetic organisms,panel_only,4,0.2431876714242673,-0.8155204050993058
+AT3G05120,GID1A,other,Hub_transporter_core,panel_only,4,-0.0300069240783418,0.4883426467346687
+AT5G51470,,other,Plant hormone signal transduction,panel_only,4,0.2129039130507969,-2.9159093217989724
+AT1G79130,,other,Plant hormone signal transduction,panel_only,4,1.0239602758568307,1.846598707963548
+AT1G79460,GA1/CPS,GA,GA_biosynthesis,panel_only,4,-0.1165051892726346,-0.1249450345809006
+AT1G79550,,other,Carbon fixation in photosynthetic organisms,panel_only,4,-0.1083577615396619,-0.0794620256315069
+AT5G47720,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,4,-0.190372334321156,0.617074976760741
+AT1G64280,,other,Plant hormone signal transduction,panel_only,4,0.2409575995032493,-0.0907690533956665
+AT3G09940,,hypocotyl,non-panel,Han:Cortex_hypocotyl,4,-0.1632136330916993,-0.1154651635741436
+AT5G56540,,vascular,non-panel,Liew_xylem,4,-0.7183722309131576,-0.0684777889118393
+AT1G29910,,other,Photosynthesis - antenna proteins,panel_only,4,0.9781790804936492,-2.214814645954273
+AT1G64750,,other,Homologous recombination,panel_only,4,-0.0178588451412376,0.0791939628135349
+AT4G19660,,other,Plant hormone signal transduction,panel_only,4,0.2546510278716626,0.0359679855935444
+AT5G08590,,other,Plant hormone signal transduction,panel_only,4,0.162531645335289,-0.017276560406424
+AT5G11260,,CRY_circadian,Circadian rhythm - plant,panel_only,4,-0.100214500445049,0.239466423708585
+AT1G18040,,other,Nucleotide excision repair,panel_only,4,-0.1015218172543695,-0.5560549478031127
+AT5G01310,,other,Base excision repair,panel_only,4,0.0849940522790524,-0.1356143657473222
+AT4G39950,,other,Glucosinolate biosynthesis,panel_only,4,-0.3388959072430973,-0.442195778878109
+AT4G32960,,other,Homologous recombination,panel_only,4,0.0591118094338996,0.0284211934944013
+AT1G03850,,hypocotyl,non-panel,Han:Cortex_hypocotyl,4,0.6055168913055943,-0.2552242779533289
+AT1G02205,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,4,0.3370919464619886,-0.8016360505178189
+AT1G55265,,hypocotyl,non-panel,Han:Cortex_hypocotyl,4,1.2032378436567774,-0.2302188225364141
+AT2G32000,,other,Fanconi anemia pathway,panel_only,4,0.4203042748424277,-0.0183929266739195
+AT4G35830,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,4,0.0188366572169689,0.1029611407072853
+AT4G35350,,vascular,non-panel,Liew_xylem,4,-0.9588091660439648,-0.303650108429826
+AT4G35310,,other,Plant hormone signal transduction,panel_only,4,0.1625308248641403,0.1759001851213356
+AT4G35000,APX3,ROS,ROS_scavenging,panel_only,4,0.3760376190117185,-0.0426575804881486
+AT4G34800,,other,Plant hormone signal transduction,panel_only,4,-0.0486292728584276,-0.1840065819688866
+AT4G22620,,other,Plant hormone signal transduction,panel_only,4,-0.6760835455831816,2.714447837790148
+AT1G17380,,other,Plant hormone signal transduction,panel_only,4,0.2260946965882157,-0.3239634269223136
+AT1G17550,,other,Plant hormone signal transduction,panel_only,4,0.0332811005951278,0.2578646927534052
+AT4G28790,,other,Plant hormone signal transduction,panel_only,4,0.1052451830908931,0.1411603133289293
+AT4G31500,,other,Glucosinolate biosynthesis,panel_only,4,-0.1993347748885403,0.0604199796414136
+AT2G30790,,other,Photosynthesis,panel_only,4,-0.3727867440544548,0.0149250815755292
+AT2G20515,,QC_rootcap,non-panel,Liew_QC,4,-0.2433538849923021,0.0671071728673317
+AT4G04720,,other,Plant hormone signal transduction,panel_only,4,0.0707664834426998,0.1218296901408843
+AT4G04700,,other,Plant hormone signal transduction,panel_only,4,0.0721553049507253,-0.3984067187664973
+AT5G48230,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,4,0.041576383778113,-0.0916003057525541
+AT1G08130,,other,Mismatch repair,panel_only,4,-0.035382517073931,-0.2869171750726016
+AT2G01440,,other,Homologous recombination,panel_only,4,-0.0188637303657443,0.0562905170147261
+AT1G10930,,other,Fanconi anemia pathway,panel_only,4,-0.2200688021157878,-0.6319339860582447
+AT2G21200,,other,Plant hormone signal transduction,panel_only,4,0.0530594690940322,0.1366136620010956
+AT2G21330,,other,Carbon fixation in photosynthetic organisms,panel_only,4,1.1242539455844214,-0.6430126269430717
+AT1G50490,,QC_rootcap,non-panel,Liew_QC,4,-0.2524457878377856,-0.5955648057680913
+AT5G44680,,vascular,Base excision repair,Liew_provasculature,4,-0.6277403365250747,-1.5666927870692942
+AT1G50840,,other,Base excision repair,panel_only,4,0.01190399787431,-0.0697622422567091
+AT1G22070,,other,Plant hormone signal transduction,panel_only,4,0.1375031551982363,0.0249515934272491
+AT2G34420,,other,Photosynthesis - antenna proteins,panel_only,4,3.279083892795296,0.2463792096546448
+AT2G16580,,other,Plant hormone signal transduction,panel_only,4,-0.0319895799788699,-0.1196154094387983
+AT4G00570,,other,Carbon fixation in photosynthetic organisms,panel_only,4,-0.0457612341051796,-0.0254310969924686
+AT1G80420,,other,Base excision repair,panel_only,4,0.3465739396989533,-0.079374902453329
+AT2G01760,,other,Plant hormone signal transduction,panel_only,4,-0.2056826668076196,-0.372778251021004
+AT2G02220,,other,Plant hormone signal transduction,panel_only,4,0.0690675458979947,0.2135705471347884
+AT3G60250,,CRY_circadian,Circadian rhythm - plant,panel_only,4,0.1378199520230998,0.23066365681556
+AT2G46830,CCA1,CRY_circadian,Circadian_core,panel_only,4,-1.206803656244613,-1.2104381516216776
+AT1G45474,,other,Photosynthesis - antenna proteins,panel_only,4,0.0582673054968817,-1.237674823986617
+AT3G01440,,other,Photosynthesis,panel_only,4,0.2596140744959542,-0.8186446839003384
+AT2G47930,,hypocotyl,non-panel,Han:Cortex_hypocotyl,4,-0.1837105761962463,-0.439109256449284
+AT4G05390,,other,Photosynthesis,panel_only,4,-0.1038108100461139,-0.2672707557317006
+AT1G10120,,vascular,non-panel,Liew_provasculature,4,0.037799598567309,0.1130222110147574
+AT1G10060,,other,Glucosinolate biosynthesis,panel_only,4,1.1498714765315163,0.7468271371635303
+AT4G18780,,vascular,non-panel,Liew_xylem,4,-0.8785562682884814,-1.1294073461716017
+AT1G48030,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,4,0.0327853244324033,-0.1213692663192033
+AT2G27510,,other,Photosynthesis,panel_only,4,-0.2286057171878984,-0.0334545135052946
+AT5G23010,,other,Glucosinolate biosynthesis,panel_only,4,-0.6749372985906067,-0.9083077872024812
+AT5G15850,,CRY_circadian,Circadian rhythm - plant,panel_only,4,0.2501067592296324,-0.5126200330828605
+AT4G19030,,QC_rootcap,non-panel,Liew_root_cap,4,0.4556878673826563,0.0311500484966223
+AT4G18710,,other,Plant hormone signal transduction,panel_only,4,0.328688898239292,0.1098727748232839
+AT5G07390,RBOHA,ROS,ROS_scavenging,panel_only,4,-0.680290466531289,2.100659687456634
+AT5G04870,,other,Plant hormone signal transduction,panel_only,4,-0.0912926287349878,-0.1418676213059327
+AT2G27970,,QC_rootcap,non-panel,Liew_QC,4,-0.1096458488174838,-0.549338781858309
+AT2G40080,ELF4,CRY_circadian,Circadian_core,panel_only,4,0.9660031259988568,0.9973842090440084
+AT2G19490,,other,Homologous recombination,panel_only,4,0.0890564406699492,0.3615775515368183
+AT4G16155,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,4,0.1798507219627187,-0.1737272879843288
+AT5G22110,,other,Base excision repair,panel_only,4,-0.1928769617773123,-0.4461260319588446
+AT5G65870,,other,Plant hormone signal transduction,panel_only,3,-0.5544743547543333,0.0851407358073155
+AT5G67380,,CRY_circadian,Circadian rhythm - plant,panel_only,3,0.1387293406614673,0.0738549136878788
+AT1G78580,,vascular,non-panel,Liew_provasculature,3,-0.3459891293524866,-0.4861502631478717
+AT1G64500,,hypocotyl,non-panel,Han:Cortex_hypocotyl,3,0.1614141164021046,-0.0351986697575803
+AT1G29930,,other,Photosynthesis - antenna proteins,panel_only,3,1.1237232067635343,-1.221296905560067
+AT1G27020,,hypocotyl,non-panel,Han:Cortex_hypocotyl,3,0.4525852449945673,0.6528635163027809
+AT3G50530,,other,Plant hormone signal transduction,panel_only,3,-0.2943643297253781,-0.0669059958578096
+AT4G31870,GPX7,ROS,ROS_scavenging,panel_only,3,1.3098943706229147,-0.7053368826931633
+AT3G55960,LAZY4,other,Gravitropism,panel_only,3,-0.0879842974947326,-0.2207759362197814
+AT3G05020,,QC_rootcap,non-panel,Liew_QC,3,0.1810439086941373,-0.0856640688544893
+AT1G49580,,other,Plant hormone signal transduction,panel_only,3,-0.3926025115272066,-0.1294854069375979
+AT5G54370,,QC_rootcap,non-panel,Liew_root_cap,3,0.6257098686903789,-0.3815609185730193
+AT1G75080,,other,Plant hormone signal transduction,panel_only,3,-0.0843818304220807,-0.1612675842247709
+AT5G24120,,hypocotyl,non-panel,Han:Cortex_hypocotyl,3,0.9062905577745806,-0.7946925426339613
+AT1G73590,PIN1_grav,other,Auxin_transporters_PIN,panel_only,3,-0.4472981297737293,-0.2263187318963213
+AT1G71100,,other,Carbon fixation in photosynthetic organisms,panel_only,3,-0.2586612850756783,-0.0710856802180566
+AT5G10990,,other,Plant hormone signal transduction,panel_only,3,-0.1341861883761413,-1.2586064470396874
+AT5G17490,RGL3,GA,GA_signaling,panel_only,3,-0.09551665543312,0.1682343962838609
+AT3G42640,,other,Plant hormone signal transduction,panel_only,3,0.0964958309064616,0.4672359620096523
+AT1G29965,,QC_rootcap,non-panel,Liew_QC,3,-0.210294639653475,-0.2132254712693806
+AT2G43010,,other,Plant hormone signal transduction,panel_only,3,0.6019964738342881,-1.2986306591040682
+AT3G26810,,other,Plant hormone signal transduction,panel_only,3,-0.041350685165731,0.1426465145598747
+AT5G62680,,vascular,non-panel,Liew_provasculature,3,-0.0321665431926789,0.3618154535139566
+AT5G23580,,other,Plant hormone signal transduction,panel_only,3,-0.1749986446105179,-0.2490842411486213
+AT3G19290,,other,Plant hormone signal transduction,panel_only,3,0.3281413006075189,0.6769633928109043
+AT5G46790,PYL1/RCAR12,ABA,ABA_signaling,panel_only,3,-0.1197607940287136,-0.5432388682290289
+AT5G66210,,other,Plant hormone signal transduction,panel_only,3,-0.0461033110703156,-0.1908619251185606
+AT3G16950,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,3,0.2206654848081146,0.1412780956696503
+AT3G24515,,other,Fanconi anemia pathway,panel_only,3,-0.2351067480546333,-0.79166918037675
+AT5G19150,LAZY3,other,Gravitropism,panel_only,3,0.1630768005892167,0.1108172345177433
+AT4G30080,,other,Plant hormone signal transduction,panel_only,3,-0.2202041978422576,0.0589087643591088
+AT1G31935,,vascular,non-panel,Liew_xylem,3,-0.1917769129690116,-0.2093388993552193
+AT5G57970,,other,Base excision repair,panel_only,3,-0.3203183247003879,-0.0672003749972503
+AT3G15950,,QC_rootcap,non-panel,Liew_root_cap,3,0.087666828287702,0.0255303358642266
+AT1G30330,,other,Plant hormone signal transduction,panel_only,3,-0.1680196089513955,-0.0377822140051296
+AT5G25890,,other,Plant hormone signal transduction,panel_only,3,-0.3822903021111177,0.0525194650195922
+AT5G25620,,other,Plant hormone signal transduction,panel_only,3,-0.1629982469112298,0.050685651739872
+AT5G59080,,vascular,non-panel,Liew_provasculature,3,0.7666867070526489,-0.1639647133369869
+AT5G60450,,other,Plant hormone signal transduction,panel_only,3,-0.5874947504343996,0.149065347224848
+AT3G51030,,vascular,non-panel,Liew_xylem,3,-0.3533850780862932,-0.4841128132393256
+AT5G56100,,hypocotyl,non-panel,Han:Cortex_hypocotyl,3,1.2238465897595594,1.2350648052788047
+AT3G16920,,vascular,non-panel,Liew_xylem,3,-0.5906279989072135,-0.8024629634298442
+AT3G18230,,QC_rootcap,non-panel,Liew_QC,3,0.1710836058966999,0.3883140154632769
+AT5G38430,,other,Carbon fixation in photosynthetic organisms,panel_only,3,-0.1081478255478476,-3.377969485373029
+AT5G22880,,QC_rootcap,non-panel,Liew_QC,3,-0.1914144617619706,-0.180681038136979
+AT3G13062,,hypocotyl,non-panel,Han:Cortex_hypocotyl,3,0.3558383403077296,0.1595517591907581
+AT3G48470,,other,Fanconi anemia pathway,panel_only,3,-0.4538371667172439,-0.1030882489243612
+AT3G48350,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,3,-0.3907161282346436,-0.8571772319453702
+AT3G50500,SnRK2.2,ABA,ABA_signaling,panel_only,3,0.3099008511221668,0.2162511995490866
+AT3G14440,NCED3,ABA,ABA_biosynthesis,panel_only,3,0.9326596388047736,1.3897803834626272
+AT5G54260,,other,Non-homologous end-joining,panel_only,3,-0.2449977738404266,-0.2072125048775173
+AT4G30820,,other,Nucleotide excision repair,panel_only,3,-0.0016276743364493,0.1071498412933103
+AT2G22670,,other,Plant hormone signal transduction,panel_only,3,-0.2595395687867536,-0.5771619302789074
+AT1G10380,,vascular,non-panel,Liew_provasculature,3,-0.503992175460739,-0.1707304520871383
+AT1G13440,,other,Carbon fixation in photosynthetic organisms,panel_only,3,0.0323204485561427,-0.024339605873358
+AT2G17290,,other,Plant hormone signal transduction,panel_only,3,-0.1867148421893328,0.3943604305410245
+AT1G50700,,other,Plant hormone signal transduction,panel_only,3,-0.1102822740626085,-0.3220408433565767
+AT1G52500,,other,Base excision repair,panel_only,3,-0.0699092101037623,-0.1772088801534857
+AT5G42750,,other,Plant hormone signal transduction,panel_only,3,-0.4527060256411805,-0.3589574865185456
+AT1G80660,,other,Plant hormone signal transduction,panel_only,3,-0.3132012226748323,0.4535080230835433
+AT4G04710,,other,Plant hormone signal transduction,panel_only,3,0.4648221665418144,-1.2090520694485445
+AT1G09530,,CRY_circadian,Circadian rhythm - plant,panel_only,3,0.5610218000633787,0.2253286939442239
+AT4G01026,,other,Plant hormone signal transduction,panel_only,3,0.719838858475331,1.5477811534262544
+AT4G02390,,other,Base excision repair,panel_only,3,0.9383038219252778,0.3209075903987777
+AT1G07720,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,3,-1.7083591542124763,-0.7998051577735121
+AT1G09560,,QC_rootcap,non-panel,Liew_root_cap,3,0.0697466012943104,-0.131795427041023
+AT5G45010,,other,Homologous recombination,panel_only,3,-0.1794929194948223,-0.316602193075516
+AT4G34750,,other,Plant hormone signal transduction,panel_only,3,-0.2534333427675673,-0.1799261600529437
+AT3G56850,,other,Plant hormone signal transduction,panel_only,3,0.0739066057971809,0.2194090279331798
+AT3G57080,,other,Nucleotide excision repair,panel_only,3,0.2487031056629482,-0.0840782016446483
+AT3G57550,,QC_rootcap,non-panel,Liew_root_cap,3,0.0711904044087625,0.2461534349707246
+AT3G58720,,vascular,non-panel,Liew_provasculature,3,-0.0726334662630488,-0.4136755571830324
+AT3G59600,,other,Nucleotide excision repair,panel_only,3,0.2035749765904982,-0.0854045131268663
+AT3G59010,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,3,-1.1749313837283295,-0.5493468163216163
+AT3G47950,,other,Plant hormone signal transduction,panel_only,3,-0.2656542250863037,0.1652431849045706
+AT2G20610,,other,Glucosinolate biosynthesis,panel_only,3,-0.2209767141955766,-0.55366327389603
+AT2G46970,,other,Plant hormone signal transduction,panel_only,3,-0.4904251546387327,1.1727768917687589
+AT3G62100,,vascular,Plant hormone signal transduction,Liew_xylem,3,-0.0867341859677079,0.1663170091618113
+AT3G04580,,other,Plant hormone signal transduction,panel_only,3,-0.0121474770750623,0.0068704798220558
+AT4G00050,,other,Plant hormone signal transduction,panel_only,3,0.1293735015076876,-1.4551583903612464
+AT1G36370,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,3,-0.1411594516433032,-0.0142605213911787
+AT2G46690,,other,Plant hormone signal transduction,panel_only,3,0.4105162062054692,0.0886923817938566
+AT2G46600,,vascular,non-panel,Liew_provasculature,3,0.7901005315132185,0.2066626965865838
+AT5G57785,,hypocotyl,non-panel,Han:Cortex_hypocotyl,3,1.1254612064556564,-0.1638949104029372
+AT5G45110,,other,Plant hormone signal transduction,panel_only,3,0.5376180092576693,0.2263127002746427
+AT5G47220,,other,Plant hormone signal transduction,panel_only,3,0.9772195249822996,0.9001674273037613
+AT4G18590,,other,Mismatch repair,panel_only,3,-0.027708453824101,0.028569217663818
+AT1G18090,,other,Mismatch repair,panel_only,3,-0.5627847690922264,-0.5817609440584016
+AT1G14920,GAI,GA,GA_signaling,panel_only,3,-0.1222912964675006,-0.120545035037016
+AT1G19050,,other,Plant hormone signal transduction,panel_only,3,-0.4600365122196326,-0.6756423993682185
+AT2G27030,,other,Plant hormone signal transduction,panel_only,3,0.0050876482821595,-0.3046833956917993
+AT2G23170,,other,Plant hormone signal transduction,panel_only,3,-1.3057381725043873,-0.3431847115154223
+AT5G23020,,other,Glucosinolate biosynthesis,panel_only,3,-0.7557509009529029,0.5571349758568213
+AT1G23160,,other,Plant hormone signal transduction,panel_only,3,-3.5823171744035207,-1.1744818918634623
+AT4G13930,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,3,-0.3643689702341753,-0.254888945447613
+AT1G17260,,other,Plant hormone signal transduction,panel_only,3,0.693541451611143,0.7287704596742889
+AT1G60930,,other,Fanconi anemia pathway,panel_only,3,-0.0344317317757355,0.1746650443327484
+AT5G14510,,vascular,non-panel,Liew_xylem,3,-0.2575022680130976,-0.3366565238018221
+AT2G22860,,QC_rootcap,Plant hormone signal transduction,Liew_root_cap,3,0.4084324314451308,1.4618317841484865
+AT4G12880,,QC_rootcap,non-panel,Liew_root_cap,3,-0.1280961931143746,-0.1728369762684418
+AT2G32440,,GA,Diterpenoid biosynthesis (GA biosynthesis),panel_only,3,0.1440852158418479,0.0100447628523519
+AT4G34790,,other,Plant hormone signal transduction,panel_only,3,0.3459648918596853,-1.064951401237557
+AT1G19480,,other,Base excision repair,panel_only,3,-0.3396515278900266,-0.2335423042743004
+AT4G39400,,other,Plant hormone signal transduction,panel_only,3,-0.095934707670798,-0.2100502396366199
+AT1G54250,,other,Nucleotide excision repair,panel_only,3,-0.0840931251848663,-0.1767840330810609
+AT1G19750,,other,Nucleotide excision repair,panel_only,3,-0.5744675108725399,0.1146354829488716
+AT4G26080,ABI1,ABA,ABA_signaling,panel_only,3,0.6842658220890275,1.4116890607058017
+AT2G29570,,other,Mismatch repair,panel_only,3,-0.04377992731158,-0.0332748301037993
+AT4G28720,,other,Plant hormone signal transduction,panel_only,3,-0.1096613691511129,-0.373713756294028
+AT2G30980,,other,Plant hormone signal transduction,panel_only,3,-0.0056774857258719,-0.1846329737972267
+AT2G30620,,QC_rootcap,non-panel,Liew_QC,3,0.4279630868769397,0.1178529470247971
+AT4G27520,,vascular,non-panel,Liew_provasculature,3,0.11213582943485,0.3445237090960396
+AT5G12480,,other,Plant hormone signal transduction,panel_only,3,-0.040916837599616,0.225667936875925
+AT1G55670,,other,Photosynthesis,panel_only,3,0.5747184378304976,-1.8723043694468648
+AT1G04020,,other,Homologous recombination,panel_only,3,-0.17714746384793,-0.3837669393112705
+AT1G01360,,other,Plant hormone signal transduction,panel_only,3,-0.0545562898744102,0.4480205409743711
+AT5G09660,,other,Carbon fixation in photosynthetic organisms,panel_only,2,0.8814606462283571,-0.4768488413709508
+AT5G19450,,other,Plant hormone signal transduction,panel_only,2,-0.0070319693031616,0.36456484663454
+AT1G67090,,other,Carbon fixation in photosynthetic organisms,panel_only,2,-0.2107146437666653,-2.615454977319632
+AT5G56870,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,2,1.0476239619596426,0.7394342346143867
+AT5G60100,,CRY_circadian,Circadian rhythm - plant,panel_only,2,-0.1314429372554046,0.7923961082125315
+AT5G61270,,other,Plant hormone signal transduction,panel_only,2,2.201361813556665,-0.691625449932879
+AT4G17640,,CRY_circadian,Circadian rhythm - plant,panel_only,2,0.0689126413101137,-0.185081817362347
+AT5G61340,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,2,-0.261872558584108,-0.3282832161014197
+AT5G54270,,other,Photosynthesis - antenna proteins,panel_only,2,1.2975761414198272,-1.6345013667733446
+AT5G61380,TOC1,CRY_circadian,Circadian_core,panel_only,2,0.0490552764723806,0.357004281564572
+AT5G61410,,other,Carbon fixation in photosynthetic organisms,panel_only,2,0.4025679639333716,-0.2543332411397206
+AT5G64040,,other,Photosynthesis,panel_only,2,1.5690197334773677,-0.9283511544533736
+AT5G67030,ABA3/LOS5,ABA,ABA_biosynthesis,panel_only,2,0.6130977125693348,-0.2678488157762393
+AT5G38410,,other,Carbon fixation in photosynthetic organisms,panel_only,2,-0.2640258114847053,-4.3034818841211
+AT5G38420,,other,Carbon fixation in photosynthetic organisms,panel_only,2,0.400236748784373,-2.9415503113171373
+AT5G65670,,other,Plant hormone signal transduction,panel_only,2,-0.1034372111526674,0.1188948681950215
+AT1G56150,,other,Plant hormone signal transduction,panel_only,2,2.2650115414183687,-0.1994808004244846
+AT1G56190,,other,Carbon fixation in photosynthetic organisms,panel_only,2,0.2307652154328699,-0.6839103879616343
+AT1G56240,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,2,1.3791809908467707,0.8756477952071601
+AT4G26530,,other,Carbon fixation in photosynthetic organisms,panel_only,2,1.2463753576092458,-3.167401996034218
+AT2G31320,,other,Base excision repair,panel_only,2,-0.157429129004431,0.026402308144748
+AT2G33310,,other,Plant hormone signal transduction,panel_only,2,-0.330725478267493,0.157151236332404
+AT4G34000,ABF3,ABA,ABA_signaling,panel_only,2,0.5625912899617947,1.0233577587726528
+AT4G37550,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,2,0.04938089632296,-0.2717173601536342
+AT4G22710,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,2,-0.6369432494635666,2.6734917495396733
+AT4G24210,SLY2,GA,GA_signaling,panel_only,2,0.1054402951440012,0.106382218049394
+AT1G19180,,other,Plant hormone signal transduction,panel_only,2,0.6631652284841524,0.3166645935037637
+AT1G19220,,other,Plant hormone signal transduction,panel_only,2,-0.096495275355339,-0.3931016805716609
+AT1G20440,,QC_rootcap,non-panel,Liew_QC,2,0.4668424955788481,0.7568548547305913
+AT4G32280,,other,Plant hormone signal transduction,panel_only,2,-0.7133172913788187,-0.847058921928488
+AT5G20900,,other,Plant hormone signal transduction,panel_only,2,0.2755856588553831,0.2102630113874663
+AT3G23150,,other,Plant hormone signal transduction,panel_only,2,0.3973150519126937,1.5147400415049683
+AT3G25530,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,2,0.0134428027780833,-0.2992799413229923
+AT3G16857,,other,Plant hormone signal transduction,panel_only,2,0.1976654487312663,0.2038597840009527
+AT5G43890,,other,Plant hormone signal transduction,panel_only,2,-1.4441995102026992,-0.4535597779020596
+AT5G63540,,other,Fanconi anemia pathway,panel_only,2,-0.7508529519688211,-0.6865460487712021
+AT5G02260,,hypocotyl;vascular,non-panel,Han:Cortex_hypocotyl|Liew_provasculature,2,-0.2359040014288773,0.0755773894892206
+AT5G01370,,vascular,non-panel,Liew_provasculature,2,-0.3218947018254987,-0.6454431624155966
+AT5G44520,,other,Carbon fixation in photosynthetic organisms,panel_only,2,0.2410604116823641,-0.020469499185534
+AT5G49110,,other,Fanconi anemia pathway,panel_only,2,0.3369960826380793,-0.0889760319266196
+AT1G20470,,other,Plant hormone signal transduction,panel_only,2,-0.6901852391562867,-0.78031150526113
+AT1G20720,,other,Fanconi anemia pathway,panel_only,2,-0.2147651287256483,-0.3475216568301636
+AT1G54690,,QC_rootcap,non-panel,Liew_QC,2,-0.0197046310350639,-0.2815027163324603
+AT4G38970,,other,Carbon fixation in photosynthetic organisms,panel_only,2,-0.0538948202212656,-1.8815529383544287
+AT1G17840,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,2,-0.2687726486327763,0.6254628450494638
+AT1G18340,,other,Nucleotide excision repair,panel_only,2,0.1734413309317633,-0.4634625292228505
+AT1G18890,,other,Plant hormone signal transduction,panel_only,2,-0.1433518700109845,-0.057410918974307
+AT2G23030,,other,Plant hormone signal transduction,panel_only,2,0.6020460564665897,1.1410258808571985
+AT2G23070,,CRY_circadian,Circadian rhythm - plant,panel_only,2,0.0820650324189351,0.2841911376452485
+AT2G26040,PYL2/RCAR14,ABA,ABA_signaling,panel_only,2,0.0516590683957686,-0.5700575775330347
+AT2G27470,,other,Base excision repair,panel_only,2,0.4829237542824926,0.6463415622645505
+AT2G27740,,vascular,non-panel,Liew_xylem,2,-0.257787531645583,-1.1468950289789093
+AT2G28560,,other,Homologous recombination,panel_only,2,-0.5473439348719047,-0.4990062364772179
+AT5G01870,,QC_rootcap,non-panel,Liew_root_cap,2,-0.141433873696307,-0.7939803991649178
+AT5G03690,,other,Carbon fixation in photosynthetic organisms,panel_only,2,0.3216270113931607,-0.1472876100655739
+AT5G06960,,other,Plant hormone signal transduction,panel_only,2,-0.0173295039743082,0.1070557660271483
+AT2G35110,ARG1H1,other,Gravitropism,panel_only,2,-0.1492920562074435,-0.0710734057977453
+AT2G35370,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,2,0.4964744160924139,-0.410059781242498
+AT2G36910,ABCB1/PGP1,other,Auxin_transporters_ABCB,panel_only,2,-0.5520162335715026,0.0346441525664508
+AT2G38310,,other,Plant hormone signal transduction,panel_only,2,-0.0938720189764751,-0.8475218376192903
+AT2G39830,,vascular,non-panel,Liew_provasculature,2,-0.1917540915641536,-0.3938693155374968
+AT4G19130,,other,Mismatch repair,panel_only,2,0.3996701059011995,-0.4615567278256816
+AT4G21070,,other,Homologous recombination,panel_only,2,0.2502585599709805,-0.2386098984429233
+AT4G21210,GA2OX8,GA,GA_biosynthesis,panel_only,2,0.1781168890650293,-1.1365020906301206
+AT3G46640,LUX,CRY_circadian,Circadian_core,panel_only,2,0.239759279643047,0.463635122327578
+AT5G59970,,QC_rootcap,non-panel,Liew_QC,2,-0.1008722927019604,-0.369178752983592
+AT4G34160,,other,Plant hormone signal transduction,panel_only,2,0.1316041402396615,-0.2336369375192403
+AT5G20810,,other,Plant hormone signal transduction,panel_only,2,0.2542519613339229,2.205754471190803
+AT1G32060,,other,Carbon fixation in photosynthetic organisms,panel_only,2,2.873468542227313,-1.002491302997059
+AT1G32550,,other,Photosynthesis,panel_only,2,0.1915907130097499,-0.880299186897937
+AT4G21710,,other,Nucleotide excision repair,panel_only,2,0.1299298313420832,0.2279474506794915
+AT1G59750,,other,Plant hormone signal transduction,panel_only,2,0.0740210343661873,-0.038445945985801
+AT1G60950,,other,Photosynthesis,panel_only,2,0.0360020083253487,-0.990603408507873
+AT1G62886,,other,Nucleotide excision repair,panel_only,2,-1.033572102777768,2.103173284111216
+AT5G13320,,other,Plant hormone signal transduction,panel_only,2,-1.1402362929878842,-0.3495781708818977
+AT1G15820,,other,Photosynthesis - antenna proteins,panel_only,2,0.929084963863066,-1.022250566948116
+AT1G16300,,other,Carbon fixation in photosynthetic organisms,panel_only,2,-0.298134508312932,-0.0691419082991626
+AT1G16400,,other,Glucosinolate biosynthesis,panel_only,2,-1.5366480135115352,-0.6570861496182463
+AT5G20420,,other,Homologous recombination,panel_only,2,-0.51209538883537,0.8033405962565333
+AT3G49680,,other,Glucosinolate biosynthesis,panel_only,2,0.0823313196327053,-0.5873133033401213
+AT2G32950,COP1,CRY_circadian,Photoreceptors,panel_only,2,-0.2176675499879374,-0.2303543920893973
+AT4G13260,,other,Plant hormone signal transduction,panel_only,2,-0.4567282585880541,-1.788541406209508
+AT4G25420,,GA,Diterpenoid biosynthesis (GA biosynthesis),panel_only,2,-1.199617593000296,-1.5950249525126396
+AT3G17600,,other,Plant hormone signal transduction,panel_only,2,1.602593338879233,-0.7129505721472583
+AT3G19100,,other,Plant hormone signal transduction,panel_only,2,-0.1901119426725539,0.5096120366239671
+AT3G26650,,other,Carbon fixation in photosynthetic organisms,panel_only,2,0.0939646874275933,-0.7043766103204887
+AT3G27690,,other,Photosynthesis - antenna proteins,panel_only,2,2.146762094494585,-3.09603082323045
+AT3G28860,ABCB4,QC_rootcap,Auxin_transporters_ABCB,Liew_QC,2,-0.4277124826599758,-0.1467599287349941
+AT3G43810,,other,Plant hormone signal transduction,panel_only,2,-0.1585647399929476,-0.2667841592645947
+AT3G44735,,other,Plant hormone signal transduction,panel_only,2,-0.0916720801034589,-0.3494496949397745
+AT3G46510,,other,Plant hormone signal transduction,panel_only,2,0.241439977023866,0.3333193084404561
+AT5G21274,,other,Plant hormone signal transduction,panel_only,2,-0.014738344208082,-0.0889805377364375
+AT5G23280,,CRY_circadian,Circadian rhythm - plant,panel_only,2,-0.0463134596758236,0.086107796560765
+AT2G18960,,other,Plant hormone signal transduction,panel_only,2,-0.2428821081916032,0.1490103705717767
+AT2G20180,,other,Plant hormone signal transduction,panel_only,2,0.0418586746499536,-0.5560539098206386
+AT2G20260,,other,Photosynthesis,panel_only,2,1.6364796065084928,-0.576141251585014
+AT2G40100,,other,Photosynthesis - antenna proteins,panel_only,2,-0.209682393417453,0.5023228553708178
+AT2G41110,,other,Plant hormone signal transduction,panel_only,2,-0.052731364630615,-0.2647601631547307
+AT2G41220,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,2,-0.3836819454879419,0.1706764014276187
+AT2G41370,,other,Plant hormone signal transduction,panel_only,2,1.0198925277327395,-0.7167206979070744
+AT4G13790,,other,Plant hormone signal transduction,panel_only,2,-0.7106922149166918,1.712774477446146
+AT4G14550,,other,Plant hormone signal transduction,panel_only,2,0.9240227215722088,-0.2995908361158246
+AT2G21050,LAX1,other,Auxin_transporters_AUX_LAX,panel_only,2,-0.4764769226630103,-0.4012385507479087
+AT2G21800,,other,Fanconi anemia pathway,panel_only,2,-0.4443614633840687,0.250929659010414
+AT1G11860,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,2,0.1681586539219315,-0.5790422881766207
+AT1G12400,,other,Nucleotide excision repair,panel_only,2,-0.0584605031115899,-0.1789630776324393
+AT1G12820,,other,Plant hormone signal transduction,panel_only,2,0.2112062301401308,0.0849620306959928
+AT2G06510,,other,Mismatch repair,panel_only,2,-0.1377739740455925,0.1744031627309099
+AT2G17770,,other,Plant hormone signal transduction,panel_only,2,-0.0434935691223629,-0.1674746204482023
+AT2G18760,,other,Nucleotide excision repair,panel_only,2,-0.051079447620456,0.2523008898044199
+AT2G18790,PHYB,CRY_circadian,Photoreceptors,panel_only,2,-0.247357663972943,0.3085171291459311
+AT5G27740,,other,Mismatch repair,panel_only,2,0.0795952135257996,-0.1568939772309115
+AT4G33430,,other,Plant hormone signal transduction,panel_only,2,0.1288425956020773,0.4302108814057583
+AT5G23660,SWEET12,other,Sugar_transporters_SWEET,panel_only,2,0.5355197973455957,0.9937698706741908
+AT1G04250,,other,Plant hormone signal transduction,panel_only,2,-0.1330692824678268,-0.145145750738147
+AT1G04310,,other,Plant hormone signal transduction,panel_only,2,0.4736164784917216,1.096328832602082
+AT1G04400,CRY2,CRY_circadian,Photoreceptors,panel_only,2,0.204403485558649,0.3871076169624386
+AT1G04410,,other,Carbon fixation in photosynthetic organisms,panel_only,2,0.029535940140382,-0.06852993338773
+AT1G05055,,other,Nucleotide excision repair,panel_only,2,-0.1449623999305396,0.2226600891843357
+AT3G12830,,other,Plant hormone signal transduction,panel_only,2,0.6482395138621776,-0.800165799241508
+AT3G15357,,QC_rootcap,non-panel,Liew_QC,2,0.1942922911878758,0.6011923676195524
+AT3G47470,,other,Photosynthesis - antenna proteins,panel_only,2,1.5155514083858237,-0.6810248643396909
+AT3G48990,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,2,0.3797025545356718,0.5986362908387416
+AT5G35840,PHYC,CRY_circadian,Photoreceptors,panel_only,2,0.0311018405162636,0.1206874878992774
+AT5G41010,,other,Nucleotide excision repair,panel_only,2,-0.1797178784402965,-0.092069878538291
+AT5G41150,,other,Fanconi anemia pathway,panel_only,2,-0.2182268382323602,0.3141948524509253
+AT5G41260,,other,Plant hormone signal transduction,panel_only,2,0.1102432792766209,0.4497569035016067
+AT1G50110,,other,Glucosinolate biosynthesis,panel_only,2,-0.47273456841349,-0.2369283677863737
+AT1G51950,,other,Plant hormone signal transduction,panel_only,2,0.1040422001392449,0.3560598443892206
+AT1G52230,,other,Photosynthesis,panel_only,2,0.675341446343127,-1.909767674632756
+AT1G53690,,other,Nucleotide excision repair,panel_only,2,-0.0799546253291576,1.7106260178108148
+AT4G10340,,other,Photosynthesis - antenna proteins,panel_only,2,1.4695863865111451,-1.1046654853128557
+AT4G11110,,CRY_circadian,Circadian rhythm - plant,panel_only,2,-0.0062632620124053,0.3336951322464179
+AT2G01420,PIN4,other,Auxin_transporters_PIN,panel_only,2,-0.1642798942358737,-0.3714083438103886
+AT2G01820,,other,Plant hormone signal transduction,panel_only,2,-0.1222671165455277,-0.2717877862712832
+AT2G01830,,other,Plant hormone signal transduction,panel_only,2,-0.3354544106661338,0.6430013958557
+AT2G05070,,other,Photosynthesis - antenna proteins,panel_only,2,1.089387769700006,-1.9308841054985468
+AT1G07745,,other,Homologous recombination,panel_only,2,0.2636067682180733,0.1079582867790916
+AT4G02770,,other,Photosynthesis,panel_only,2,0.1883254954941493,-2.3180420274034232
+AT4G02780,GA1_CPS_dup,GA,GA_biosynthesis,panel_only,2,-1.2942362815878503,0.337607340743108
+AT4G02980,,other,Plant hormone signal transduction,panel_only,2,-0.1338525406696366,-0.3057748557153586
+AT4G03280,,other,Photosynthesis,panel_only,2,0.98512274281682,-0.6239401430671512
+AT4G04640,,other,Photosynthesis,panel_only,2,1.8584461272365889,-0.8110328624859561
+AT4G09010,APX4,ROS,ROS_scavenging,panel_only,2,0.3359525079689783,-0.9553238990311758
+AT4G09650,,other,Photosynthesis,panel_only,2,0.1303362781976213,-1.188868060878849
+AT1G49720,,other,Plant hormone signal transduction,panel_only,2,0.3939423025631333,0.80933223468406
+AT5G51810,GA20OX2,GA,GA_biosynthesis,panel_only,2,0.5421949033751464,0.2790945784916304
+AT5G57980,,other,Nucleotide excision repair,panel_only,2,0.4817954402900514,-0.3881002054848716
+AT5G59220,HAB2,ABA,ABA_signaling,panel_only,2,0.0773390504485276,1.920594108833202
+AT3G22310,,QC_rootcap,non-panel,Liew_QC,2,-0.2088153391515463,0.323077514611393
+AT3G01850,,other,Carbon fixation in photosynthetic organisms,panel_only,2,0.1625335654356951,-0.0545129931897848
+AT3G61830,,other,Plant hormone signal transduction,panel_only,2,-0.3967084051685199,-0.0763260976837791
+AT5G57160,,other,Non-homologous end-joining,panel_only,2,0.07687979703428,-0.0208289689786257
+AT5G62000,,other,Plant hormone signal transduction,panel_only,2,-0.0394827612469207,-0.0713787696836835
+AT5G03120,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,2,-0.409341849292726,-1.0857490557121363
+AT4G02070,,other,Mismatch repair,panel_only,2,-0.10315411734506,0.0601221664773854
+AT4G26520,,other,Carbon fixation in photosynthetic organisms,panel_only,2,-1.146955193465817,-0.1137509163073966
+AT4G30870,,other,Fanconi anemia pathway,panel_only,2,-0.0926493804887959,-0.1032270671787116
+AT5G03730,,other,Plant hormone signal transduction,panel_only,2,0.112325183409034,0.2477910370559693
+AT5G20730,,other,Plant hormone signal transduction,panel_only,2,-0.1348650607903979,0.1092520881065515
+AT5G25900,,GA,Diterpenoid biosynthesis (GA biosynthesis),panel_only,2,0.0004188376383553,0.024711466883133
+AT4G14890,,other,Photosynthesis,panel_only,2,2.1966488174799195,-0.3011746443958649
+AT4G38860,,other,Plant hormone signal transduction,panel_only,2,0.5000401490566593,-0.2153870175199234
+AT5G67110,,other,Plant hormone signal transduction,panel_only,2,-0.4440632253043483,0.3101001636189106
+AT1G67710,,other,Plant hormone signal transduction,panel_only,2,-0.4176245118922978,-0.435898978371179
+AT1G69850,NPF5.5,other,Hormone_transporters_NPF,panel_only,2,0.0396413447135726,0.7321974005909407
+AT1G70580,,other,Carbon fixation in photosynthetic organisms,panel_only,2,-0.1447220873832353,-0.564768220372028
+AT3G62090,,other,Plant hormone signal transduction,panel_only,2,-0.5134739777296637,1.202374681760116
+AT3G62700,ABCG31,other,Hormone_transporters_ABCG,panel_only,2,-0.0096373382709151,0.3993395175139678
+AT3G62980,,other,Plant hormone signal transduction,panel_only,2,-0.0654766330474485,0.3503506388435178
+AT3G03840,,other,Plant hormone signal transduction,panel_only,2,-0.1453896028361766,-0.6398118456966481
+AT3G04790,,other,Carbon fixation in photosynthetic organisms,panel_only,2,-0.1507182625338739,-0.9262398948590486
+AT1G42970,,other,Carbon fixation in photosynthetic organisms,panel_only,2,0.4288403261217533,-1.6639515293038425
+AT1G48500,,other,Plant hormone signal transduction,panel_only,2,-0.159970529356649,0.1952466517211872
+AT3G57040,,other,Plant hormone signal transduction,panel_only,2,0.1510897259475816,-0.0653723891060577
+AT3G57530,,other,Plant hormone signal transduction,panel_only,2,0.2867085503285443,-0.0897203554745125
+AT1G77690,LAX2,other,Auxin_transporters_AUX_LAX,panel_only,2,-0.3308063766972751,0.1573557998848813
+AT1G78390,NCED9,ABA,ABA_biosynthesis,panel_only,2,0.1965457756215123,0.0956469717829216
+AT1G78790,,other,Fanconi anemia pathway,panel_only,2,-0.191465539267041,-0.0833942390120951
+AT5G44750,,other,Fanconi anemia pathway,panel_only,2,0.0240480951953763,0.1647953744737182
+AT2G24520,,other,Plant hormone signal transduction,panel_only,2,-0.1191464045989533,-0.0568492719104411
+AT4G21200,,GA,Diterpenoid biosynthesis (GA biosynthesis),panel_only,2,-2.2211611142365544,-1.5580469923056366
+AT1G76190,,other,Plant hormone signal transduction,panel_only,2,-1.0934431251392187,-2.219005488829708
+AT3G08940,,other,Photosynthesis - antenna proteins,panel_only,2,1.824696231408452,-0.3799909679773874
+AT3G11410,PP2CA,ABA,ABA_signaling,panel_only,2,0.2243619249239969,1.0264871568426457
+AT3G12040,,other,Base excision repair,panel_only,2,0.1439057840139336,-0.2544143776801443
+AT3G52630,,other,Mismatch repair,panel_only,2,-0.5492230190896753,-0.5925710261210724
+AT3G54050,,other,Carbon fixation in photosynthetic organisms,panel_only,2,1.328229869489004,-1.4959956141055042
+AT3G54890,,other,Photosynthesis - antenna proteins,panel_only,2,1.748335559338282,-1.8733981422245016
+AT3G02680,,other,Homologous recombination,panel_only,2,-0.2245834934853488,0.0563295235614303
+AT3G02920,,other,Mismatch repair,panel_only,2,-0.3011636341908936,-0.8420863183441579
+AT3G03770,,vascular,non-panel,Liew_provasculature,2,-1.215231348895623,-0.9423837184079504
+AT3G50750,,other,Plant hormone signal transduction,panel_only,2,0.3020129260281507,-0.3729156114245227
+AT3G50820,,other,Photosynthesis,panel_only,2,1.9742080669543616,-0.9460832079558144
+AT1G27320,,other,Plant hormone signal transduction,panel_only,2,-0.0063461811894619,0.2459578308922937
+AT1G29420,,other,Plant hormone signal transduction,panel_only,2,0.981809765661896,-0.9891123928938664
+AT1G29500,,other,Plant hormone signal transduction,panel_only,2,0.328569542715425,-0.9456737175528422
+AT1G29920,,other,Photosynthesis - antenna proteins,panel_only,2,-0.3074695188410083,-2.999895843070986
+AT1G30100,NCED5,other,Hub_transporter_core,panel_only,2,2.032175616470657,-2.4740613896265367
+AT1G63220,,hypocotyl;QC_rootcap,non-panel,Han:E.hypocotyl_epidermis|Liew_root_cap,2,0.0301775133093256,-0.1379381679720716
+AT1G63290,,other,Carbon fixation in photosynthetic organisms,panel_only,2,-0.0409847779959834,-0.1237273698910729
+AT1G65310,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,2,-0.1815066689237726,-0.0648313673502396
+AT5G20885,,vascular,non-panel,Liew_provasculature,2,-0.3987067630796594,-0.463164398290828
+AT1G72330,,other,Carbon fixation in photosynthetic organisms,panel_only,2,0.1432261262333787,0.3706022339458372
+AT1G74660,,QC_rootcap,non-panel,Liew_QC,2,-0.3994387906726341,-0.3215741343484157
+AT1G75780,,hypocotyl,non-panel,Han:Cortex_hypocotyl,2,-0.1480263802279779,0.0737757707475542
+AT1G01060,LHY,CRY_circadian,Circadian_core,panel_only,2,-0.951583114915835,-2.152566949588401
+AT1G03130,,other,Photosynthesis,panel_only,2,1.2640469261787617,-1.0912008749134128
+AT5G24430,,other,Plant hormone signal transduction,panel_only,2,-0.067437194132987,0.0905163045684567
+AT5G67260,,other,Plant hormone signal transduction,panel_only,2,-0.0349575572497179,-0.2145595325606619
+AT4G00710,,other,Plant hormone signal transduction,panel_only,2,0.0975559038449577,-0.0094358292534819
+AT4G22230,,QC_rootcap,non-panel,Liew_root_cap,2,0.1992182984188516,0.5479059571063983
+AT5G45040,,other,Photosynthesis,panel_only,1,0.2560928390743205,-0.3855887329743931
+AT5G05440,,other,Plant hormone signal transduction,panel_only,1,0.1731624086248973,-0.2226489985123623
+AT4G27260,,other,Plant hormone signal transduction,panel_only,1,0.2228927440060745,-0.3046460067658852
+AT3G61800,,other,Nucleotide excision repair,panel_only,1,-0.138516217131426,0.3120299314126354
+AT5G53890,,other,Plant hormone signal transduction,panel_only,1,-0.4518798151101997,0.3793295490182578
+AT5G42470,,other,Homologous recombination,panel_only,1,0.1960679980550453,0.0156735979376999
+AT4G36670,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,1,1.2130537374288095,0.5196184042220343
+AT5G53590,,other,Plant hormone signal transduction,panel_only,1,-0.3744295546288792,0.1201703327829716
+AT5G35630,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,1,0.331708022504299,-0.700443341555868
+AT4G14560,,other,Plant hormone signal transduction,panel_only,1,0.6087425411966533,-0.3588236896889513
+AT3G61470,,other,Photosynthesis - antenna proteins,panel_only,1,1.954076400729783,-0.3978747942000792
+AT3G45640,,other,Plant hormone signal transduction,panel_only,1,0.4509095257509563,-0.2988571461277935
+AT4G24060,,vascular,non-panel,Liew_provasculature,1,-0.2291875430585854,-0.1260800656200186
+AT5G13930,,CRY_circadian,Circadian rhythm - plant,panel_only,1,-1.780136879642067,-5.074484201150999
+AT4G38840,,other,Plant hormone signal transduction,panel_only,1,0.0119655742948508,-1.0170390329781829
+AT5G62430,,CRY_circadian,Circadian rhythm - plant,panel_only,1,0.0512853633230959,0.355212312769556
+AT5G36880,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,1,-0.0509041088702768,0.1435155191505501
+AT5G18100,CSD3,ROS,ROS_scavenging,panel_only,1,0.1428102495072124,-0.135818282586282
+AT5G11670,,other,Carbon fixation in photosynthetic organisms,panel_only,1,-0.129218213319047,0.0609198040612363
+AT4G25960,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,1,-0.2258268395792407,-1.416191833879279
+AT1G04100,,other,Plant hormone signal transduction,panel_only,1,0.0570491515530543,-0.266819817995276
+AT1G03600,,other,Photosynthesis,panel_only,1,1.1577712806023523,-0.1403079989111
+AT1G03445,,other,Plant hormone signal transduction,panel_only,1,0.266780858246078,0.6446244244692036
+AT1G03430,,other,Plant hormone signal transduction,panel_only,1,0.0394043202946605,-0.2558687925809876
+AT1G03190,,other,Nucleotide excision repair,panel_only,1,-0.0004017203147046,0.1186617043693072
+AT1G02400,GA2OX6,GA,GA_biosynthesis,panel_only,1,0.0867925912013546,-0.5844583250794736
+AT1G75090,,other,Base excision repair,panel_only,1,-0.1080898103799119,-0.811728815754229
+AT1G74950,,other,Plant hormone signal transduction,panel_only,1,0.18622582744619,-0.0558732864133919
+AT1G72450,,other,Plant hormone signal transduction,panel_only,1,0.4799520875956536,-0.5619877994406376
+AT5G16570,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,1,-0.6348910541252196,-0.5656041281828633
+AT3G07930,,other,Base excision repair,panel_only,1,0.2499123000158547,0.0695332271963577
+AT1G66750,,other,Nucleotide excision repair,panel_only,1,-0.0015345341738469,-0.0049529012570186
+AT1G77110,PIN6,other,Auxin_transporters_PIN,panel_only,1,-0.3500686738453287,-2.4722852163849303
+AT1G65070,,other,Mismatch repair,panel_only,1,-0.0100649381345816,-0.2044407345991745
+AT1G64220,,QC_rootcap,non-panel,Liew_QC,1,0.1492893239685758,-0.0641060185556426
+AT5G20850,,other,Fanconi anemia pathway,panel_only,1,0.0438958221813727,-0.3857450453477464
+AT1G49560,,vascular,non-panel,Liew_provasculature,1,0.0508449825956773,-0.0572823043489409
+AT1G30040,GA2OX2,GA,GA_biosynthesis,panel_only,1,-0.1254080626665993,0.6231608985385882
+AT1G27840,,other,Nucleotide excision repair,panel_only,1,-0.1537875758360277,0.1197801110884581
+AT3G12710,,other,Base excision repair,panel_only,1,0.0331306314432455,-0.1215309605498274
+AT5G51590,,QC_rootcap,non-panel,Liew_QC,1,-0.1568692518874772,0.072498469444633
+AT3G56240,,vascular,non-panel,Liew_provasculature,1,0.0055424014895066,-0.4097857173074
+AT3G20540,,other,Base excision repair,panel_only,1,0.2459654824427321,0.0446088683814185
+AT2G28350,,other,Plant hormone signal transduction,panel_only,1,-0.2623930332164565,0.0212756816001455
+AT3G01950,,vascular,non-panel,Liew_provasculature,1,-0.0838890086940719,-0.3771555022716646
+AT1G76130,,vascular,non-panel,Liew_provasculature,1,-0.2690331051767708,-0.2525465107703138
+AT4G18970,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,1,-1.4749036903974992,-0.6112130913927667
+AT3G23050,,QC_rootcap,Plant hormone signal transduction,Liew_root_cap,1,0.4657049803177771,-0.223083099355982
+AT1G79040,,other,Photosynthesis,panel_only,1,1.8391523815919892,-1.1866108814086738
+AT1G77470,,other,Mismatch repair,panel_only,1,0.0626730421725798,0.2492778529948
+AT5G52250,,CRY_circadian,Circadian rhythm - plant,panel_only,1,2.5380447855861603,-0.2113454170633943
+AT1G67740,,other,Photosynthesis,panel_only,1,1.7467826521596124,-1.1494127069223634
+AT2G46340,SPA1,CRY_circadian,Photoreceptors,panel_only,1,0.9308607239980928,-0.5204472493636566
+AT3G61420,,other,Nucleotide excision repair,panel_only,1,0.4636008544468246,0.3564967834904103
+AT3G52090,,other,Nucleotide excision repair,panel_only,1,-0.0764403409962327,-0.3519702457685794
+AT3G29350,,other,Plant hormone signal transduction,panel_only,1,0.404860174285899,-0.1245020523075223
+AT1G74890,,other,Plant hormone signal transduction,panel_only,1,2.0636491585859447,-0.6199001948399873
+AT4G23980,,other,Plant hormone signal transduction,panel_only,1,-0.1528847769115863,-0.05832131535438
+AT4G18130,PHYE,CRY_circadian,Photoreceptors,panel_only,1,0.0493136918062863,0.2473811720113906
+AT4G13770,,other,Glucosinolate biosynthesis,panel_only,1,-1.905185890636483,-0.956064610087794
+AT1G04180,,other,Plant hormone signal transduction,panel_only,1,-0.3057834275633728,-0.0274287479675459
+AT1G10070,,other,Glucosinolate biosynthesis,panel_only,1,2.335704566612608,1.6193903726183263
+AT1G09570,PHYA,CRY_circadian,Photoreceptors,panel_only,1,0.1454446714451336,0.3711157971438586
+AT2G43790,,other,Plant hormone signal transduction,panel_only,1,0.0703529527393584,0.1783872313797619
+AT1G08380,,other,Photosynthesis,panel_only,1,1.7949281980734142,-1.3726760354860297
+AT1G22770,GI,CRY_circadian,Circadian_core,panel_only,1,0.625658618675306,0.7593535499839041
+AT1G21710,,other,Base excision repair,panel_only,1,-0.1988342928485353,-0.3110973468552
+AT1G21460,SWEET1,other,Sugar_transporters_SWEET,panel_only,1,1.134700498578096,0.0231059512481268
+AT1G53310,,other,Carbon fixation in photosynthetic organisms,panel_only,1,-0.2745906652407745,0.1845319870436512
+AT1G51660,,other,Plant hormone signal transduction,panel_only,1,0.0638821515544741,0.1139967868498656
+AT5G41360,,other,Nucleotide excision repair,panel_only,1,-0.2336234779999504,-0.1762867458305996
+AT3G48740,SWEET11,other,Sugar_transporters_SWEET,panel_only,1,3.583111288126508,1.6365585760545571
+AT3G48190,,other,Homologous recombination,panel_only,1,-0.2282997205712495,0.291690003948149
+AT3G15354,,CRY_circadian,Circadian rhythm - plant,panel_only,1,-0.3733419232236197,-0.7821900106645439
+AT1G05490,,other,Homologous recombination,panel_only,1,-0.2644874125399013,0.2842034114792516
+AT1G70700,,other,Plant hormone signal transduction,panel_only,1,0.8802253648035121,-0.7239010594179933
+AT1G13635,,other,Base excision repair,panel_only,1,-0.7356343840374127,-0.7954893056325961
+AT2G17890,,other,Plant hormone signal transduction,panel_only,1,1.0916800793702466,1.717571710407113
+AT2G16390,,other,Homologous recombination,panel_only,1,0.0028470650848941,-0.4065223902760346
+AT2G05710,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,1,-0.1778656702037289,0.2552902292402865
+AT1G12900,,other,Carbon fixation in photosynthetic organisms,panel_only,1,1.4958699511533886,-1.92245858552992
+AT1G10960,,other,Photosynthesis,panel_only,1,0.3994499944724286,-1.041613908776153
+AT2G20562,,vascular,non-panel,Liew_provasculature,1,0.0068324004180456,-0.7653992648751057
+AT4G15920,,hypocotyl,non-panel,Han:Cortex_hypocotyl,1,-0.4300184690748663,-0.4978518028949783
+AT2G41340,,other,Nucleotide excision repair,panel_only,1,0.8986491173233903,-1.6464099334785791
+AT2G41140,,other,Plant hormone signal transduction,panel_only,1,-0.2627198604183702,-0.0411242547716567
+AT1G24100,,other,Glucosinolate biosynthesis,panel_only,1,-0.1896114775127663,-0.2091759769805266
+AT3G16980,,other,Nucleotide excision repair,panel_only,1,-0.3079581920975696,-0.3819296298653528
+AT3G43440,,other,Plant hormone signal transduction,panel_only,1,0.1895967071874146,0.3053038125772664
+AT5G44030,,vascular,non-panel,Liew_xylem,1,-0.6903098248103366,-0.7841418459690294
+AT1G07370,,QC_rootcap,Mismatch repair,Liew_QC,1,-0.1688761269191767,-0.4449321934508883
+AT1G17290,,other,Carbon fixation in photosynthetic organisms,panel_only,1,0.2627512053406162,0.1651849792281791
+AT1G16970,,other,Non-homologous end-joining,panel_only,1,-0.1521627981217981,-0.0228161313745078
+AT1G15580,,other,Plant hormone signal transduction,panel_only,1,-0.3225641787488566,-1.1547340326488411
+AT1G14150,,other,Photosynthesis,panel_only,1,0.7848391375563667,-1.7022613266529585
+AT2G22780,,other,Carbon fixation in photosynthetic organisms,panel_only,1,0.248783969871374,0.3354035715920319
+AT1G62045,,vascular,non-panel,Liew_xylem,1,-0.516930738921687,-0.3285420246487247
+AT4G21940,,other,Plant hormone signal transduction,panel_only,1,-1.056258682730416,-0.1409116676316362
+AT1G32470,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,1,0.1150006247425616,-1.342502008066316
+AT1G32100,,vascular,non-panel,Liew_xylem,1,-0.6201947709979284,-0.4932397744539123
+AT1G31330,,other,Photosynthesis,panel_only,1,2.694095543122545,-1.0232189856209526
+AT1G30380,,other,Photosynthesis,panel_only,1,1.4014913771531523,-1.7205897857050925
+AT5G66880,,other,Plant hormone signal transduction,panel_only,1,0.3081787267657196,0.0716805430332643
+AT5G41370,,other,Nucleotide excision repair,panel_only,1,0.0721124099892263,0.2770809337371786
+AT5G01240,,other,Plant hormone signal transduction,panel_only,1,0.3489222505620383,0.5019578042874177
+AT2G24490,,other,Mismatch repair,panel_only,1,-0.2926252273722433,-0.688682217348977
+AT5G15170,,other,Base excision repair,panel_only,1,0.0277978884399438,-0.0500736240755453
+AT3G24340,,other,Homologous recombination,panel_only,1,-0.0625980372893069,-0.7647486504803117
+AT4G21100,,other,Nucleotide excision repair,panel_only,1,-0.0073595524390586,0.1527790549973572
+AT2G36460,,other,Carbon fixation in photosynthetic organisms,panel_only,1,0.2955168524842577,0.6990365480477214
+AT2G34430,,other,Photosynthesis - antenna proteins,panel_only,1,1.9984935997623632,-2.456807423428573
+AT5G03860,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,1,0.3036314779874716,0.4693532991091133
+AT2G25490,,other,Plant hormone signal transduction,panel_only,1,-0.1114498544277223,0.1323606349860046
+AT2G23080,,CRY_circadian,Circadian rhythm - plant,panel_only,1,0.1629291625566362,-0.0704735366734437
+AT1G18250,,QC_rootcap,non-panel,Liew_QC,1,-0.4099641924827319,-0.7591322893255498
+AT1G17455,LAZY2,other,Gravitropism,panel_only,1,0.1560972632849118,-0.1502289228144767
+AT3G18600,,QC_rootcap,non-panel,Liew_QC,1,-0.102336906667573,0.1291528070721303
+AT2G03500,,vascular,non-panel,Liew_provasculature,1,-0.419324434202776,0.0348771308634596
+AT3G60750,,other,Carbon fixation in photosynthetic organisms,panel_only,1,-0.0505678108952538,-0.3495544618588841
+AT2G22330,,other,Glucosinolate biosynthesis,panel_only,1,-0.1401410770804523,-0.2910900035968807
+AT3G42670,,other,Homologous recombination,panel_only,1,-0.3108411021239461,-0.1900259316986221
+AT3G04120,,other,Carbon fixation in photosynthetic organisms,panel_only,1,-0.0515657338933183,-0.0974731783175337
+AT3G23810,,QC_rootcap,non-panel,Liew_root_cap,1,-0.9306810169790176,-0.6255550251433285
+AT5G25880,,other,Carbon fixation in photosynthetic organisms,panel_only,1,-0.1806639240661574,0.080127982565639
+AT4G33730,,other,Plant hormone signal transduction,panel_only,1,-0.3780575636818934,-0.0317128483417123
+AT4G32520,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,1,0.0712992179077299,-0.0010871665201106
+AT5G18240,,vascular,non-panel,Liew_provasculature,1,0.7173604238010179,-0.1434300037381035
+AT5G63920,,other,Fanconi anemia pathway,panel_only,1,-0.2587880858258313,-0.7264196628291736
+AT3G15650,,vascular,non-panel,Liew_provasculature,1,-1.3212209582290135,0.0074278447411346
+AT5G14780,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,1,0.3604777483702064,0.9056398035233606
+AT3G08860,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,1,0.7284043648067553,1.6134787983889296
+AT2G42790,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,1,0.1455121993582666,0.7376134487568554
+AT3G10080,,vascular,non-panel,Liew_xylem,1,-0.6455634128789267,-0.603498769129878
+AT5G13220,,other,Plant hormone signal transduction,panel_only,1,-0.1998811867716376,0.2660806895796341
+AT5G59180,,other,Nucleotide excision repair,panel_only,1,-0.1034687316362613,0.0617657614230643
+AT4G35740,,other,Fanconi anemia pathway,panel_only,1,0.2673023777390517,-0.0882783136903597
+AT3G49370,,other,Plant hormone signal transduction,panel_only,1,0.162881092955319,-0.4928905107387347
+AT1G20340,,other,Photosynthesis,panel_only,1,2.645692608937297,-1.2109463995223206
+AT1G19230,RBOHE,ROS,ROS_scavenging,panel_only,1,-0.3398120923607273,1.9804355325489764
+AT4G23870,,hypocotyl,non-panel,Han:E.hypocotyl_epidermis,1,0.4825036980342769,0.1178996258420922
+AT4G35900,,other,Plant hormone signal transduction,panel_only,1,0.2451743410872463,0.5030129323105968
+AT2G30860,,QC_rootcap,non-panel,Liew_QC,1,-0.2097442866004816,-0.4213332376266647
+AT2G30570,,other,Photosynthesis,panel_only,1,1.9236464669210869,-1.7100667885248348
+AT2G30350,,other,Fanconi anemia pathway,panel_only,1,0.4203010100708197,-0.087850406529373
+AT4G26970,,vascular,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),Liew_provasculature,1,-0.0307942698535473,0.1856793440365657
+AT4G38230,,other,Plant hormone signal transduction,panel_only,1,0.1744158777087358,0.3699760590092143
+AT5G24470,PRR5,CRY_circadian,Circadian_core,panel_only,1,1.2330782859564564,0.7630041828503723
+AT4G34770,,other,Plant hormone signal transduction,panel_only,1,-1.83201900009848,-0.4267600178344706
+AT5G58760,,other,Nucleotide excision repair,panel_only,1,0.1574690426230579,-0.210021796036623
+AT5G47760,,other,Glyoxylate and dicarboxylate metabolism (incl. photorespiration),panel_only,1,0.258995131150941,0.0130190219306599
+AT3G24495,,other,Mismatch repair,panel_only,1,-0.0040047593663477,-0.0363793935088906
+AT5G62670,,other,Plant hormone signal transduction,panel_only,1,-0.1705964900008124,-0.368594095034331
+AT5G13360,,other,Plant hormone signal transduction,panel_only,1,0.197351970436819,0.2147824049655926
+AT5G40820,,other,Fanconi anemia pathway,panel_only,1,-0.5522990964324627,-0.1363888632673661
+AT5G03280,,other,Plant hormone signal transduction,panel_only,1,-0.1704653625553005,0.2750736880532898
+AT5G25350,,other,Plant hormone signal transduction,panel_only,1,0.232687031911996,0.6007712279516216
