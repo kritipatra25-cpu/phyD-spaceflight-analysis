@@ -1,0 +1,39 @@
+{
+  "title": "phyD-Spaceflight Analysis: Systems Biology of Arabidopsis thaliana Germination",
+  "description": "This repository provides a comprehensive systems biology investigation of Arabidopsis thaliana germination under deep-space related stress. It integrates transcriptomic datasets from root microgravity (OSD-120), shoot microgravity (OSD-678), and Galactic Cosmic Radiation (OSD-658) with Null Magnetic Field (NMF) analysis. The study employs tissue-specific modeling, single-cell atlas projection, and Biomni-based integration to characterize the regulatory mechanisms perturbed during spaceflight.",
+  "creators": [
+    {
+      "name": "Barker, Richard",
+      "affiliation": "University of Wisconsin-Madison"
+    },
+    {
+      "name": "Patra, Kriti",
+      "affiliation": "NASA GeneLab"
+    }
+  ],
+  "keywords": [
+    "Arabidopsis",
+    "Space Biology",
+    "Spaceflight",
+    "Systems Biology",
+    "GeneLab",
+    "Transcriptomics",
+    "Single Cell Atlas",
+    "Tissue-Specific Modeling",
+    "Null Magnetic Field",
+    "Galactic Cosmic Radiation",
+    "Seed Germination",
+    "Biomni"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/kritipatra25-cpu/phyD-spaceflight-analysis",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}
