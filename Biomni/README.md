@@ -42,7 +42,6 @@ Cross-study enrichment analysis identifying biological programs that are reprodu
 * Vascular developmental programs emerge as the most consistently perturbed biological module across multiple space-related stressors.
 * Hypocotyl-associated programs show context-dependent behavior.
 * Microgravity, Galactic Cosmic Radiation, and Null Magnetic Field conditions exhibit both shared and distinct regulatory responses.
-* Integrated systems biology modelling supports testable hypotheses regarding tissue-level communication and germination regulation.
 
 ## Repository Context
 
