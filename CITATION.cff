@@ -5,14 +5,14 @@ authors:
     given-names: "Richard"
   - family-names: "Patra"
     given-names: "Kriti"
-title: "phyD-Spaceflight Analysis"
+title: "phyD-Spaceflight Analysis: Systems Biology of Arabidopsis Germination Under Spaceflight, Galactic Cosmic Radiation, and Null Magnetic Field Conditions"
 abstract: "A systems biology investigation of Arabidopsis thaliana germination under deep-space related stress conditions. Includes multi-omic analyses of root microgravity (OSD-120), shoot microgravity (OSD-678), Galactic Cosmic Radiation (OSD-658), and Null Magnetic Fields (NMF). Features tissue-specific modeling, single-cell atlas projection, and a Biomni-integrated synthesis of spaceflight-induced biological perturbations."
 version: 1.0.0
 date-released: 2024-06-20
 url: "https://github.com/kritipatra25-cpu/phyD-spaceflight-analysis"
 repository-code: "https://github.com/kritipatra25-cpu/phyD-spaceflight-analysis"
 keywords:
-  - Arabidopsis
+  - "Arabidopsis thaliana"
   - "Space Biology"
   - Spaceflight
   - "Systems Biology"
